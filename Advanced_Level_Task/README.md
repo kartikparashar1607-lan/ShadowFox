@@ -2,15 +2,15 @@
 
 
 
-!\[Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 
-!\[Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
 
-!\[Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
 
-!\[Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red?logo=streamlit)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red?logo=streamlit)
 
-!\[Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 
 
