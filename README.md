@@ -66,14 +66,3 @@ Each task folder has its own `README.md` explaining:
 
 \- How to run the code
 
-
-
-\## 👤 About Me
-
-
-
-\*\*Kartik Parashar\*\*
-
-Data Science Intern @ ShadowFox
-
-
