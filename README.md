@@ -1,8 +1,8 @@
-\# ShadowFox Internship - Data Science
+\# 🦊 ShadowFox Internship – Data Science
 
 
 
-This repository contains all the tasks completed during my Data Science internship at ShadowFox. Each task is organized by difficulty level in a separate folder.
+This repository contains all the tasks completed during my Data Science internship at \*\*ShadowFox\*\*. Each task is organized by difficulty level in a separate folder, with its own README, code, and dataset.
 
 
 
@@ -10,11 +10,25 @@ This repository contains all the tasks completed during my Data Science internsh
 
 
 
-\- \*\*Beginner\_Level\_Task\*\* - Data Visualization using Matplotlib and Seaborn
+| Task | Description | Status |
 
-\- \*\*Intermediate\_Level\_Task\*\* - (Coming soon)
+|------|-------------|--------|
 
-\- \*\*Advanced\_Level\_Task\*\* - (Coming soon)
+| \[Beginner\_Level\_Task](./Beginner\_Level\_Task) | Data Visualization using Matplotlib and Seaborn | ✅ Completed |
+
+| \[Intermediate\_Level\_Task](./Intermediate\_Level\_Task) | Sentiment Analysis on X (Twitter) data using VADER | ✅ Completed |
+
+| \[Advanced\_Level\_Task](./Advanced\_Level\_Task) | Student Performance Dashboard (EDA + Streamlit App) | ✅ Completed |
+
+
+
+\## 🚀 Live Demo
+
+
+
+🔗 \*\*Advanced Task – Student Performance Dashboard:\*\*
+
+https://student-performance-dashboard-mrftbaaxzxadzsjfxecant.streamlit.app/
 
 
 
@@ -26,9 +40,31 @@ This repository contains all the tasks completed during my Data Science internsh
 
 \- Jupyter Notebook
 
-\- Matplotlib
+\- Pandas, Numpy
 
-\- Seaborn
+\- Matplotlib, Seaborn
+
+\- NLTK / VADER (Sentiment Analysis)
+
+\- HTML, Chart.js
+
+\- Streamlit
+
+
+
+\## 📌 How to Explore
+
+
+
+Each task folder has its own `README.md` explaining:
+
+\- Project overview
+
+\- Dataset details
+
+\- Steps followed / methodology
+
+\- How to run the code
 
 
 
@@ -39,4 +75,5 @@ This repository contains all the tasks completed during my Data Science internsh
 \*\*Kartik Parashar\*\*
 
 Data Science Intern @ ShadowFox
+
 
