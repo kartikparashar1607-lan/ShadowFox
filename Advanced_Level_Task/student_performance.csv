@@ -1,0 +1,1516 @@
+student_id,age,gender,study_hours_per_day,sleep_hours_per_day,social_media_hours_per_day,attendance_pct,part_time_job,extracurricular,tutoring,parental_education,internet_access,stress_level,previous_score,exam_score
+STU3410,16,Female,3.2,6.2,4.5,75.2,No,No,No,Masters,Yes,9.0,36.2,65.6
+STU2016,17,Female,0.6,5.9,4.5,68.3,No,No,No,High School,Yes,5.0,57.7,51.4
+STU3092,17,Female,4.9,6.8,5.5,85.1,No,No,No,High School,Yes,8.0,75.4,89.8
+STU2783,15,Female,4.8,7.7,1.9,73.5,No,No,No,Bachelors,Yes,2.0,75.5,100.0
+STU3145,18,Male,3.0,7.8,3.7,84.3,No,No,Yes,High School,No,5.0,86.1,88.1
+STU3054,17,Male,5.4,6.6,3.4,75.5,No,No,No,Bachelors,Yes,3.0,72.6,92.2
+STU2402,16,Female,4.8,6.8,2.4,100.0,No,No,No,Masters,Yes,6.0,70.7,89.9
+STU2637,16,Male,2.9,4.8,4.1,92.8,No,Yes,No,Bachelors,Yes,7.0,78.4,71.5
+STU2894,18,Female,3.5,9.2,3.7,83.3,Yes,No,No,Bachelors,Yes,6.0,63.5,81.9
+STU3034,15,Female,1.6,6.2,5.9,75.6,Yes,No,No,Masters,Yes,6.0,63.0,55.6
+STU2471,16,Female,6.0,3.7,1.4,71.9,No,No,Yes,Bachelors,Yes,6.0,61.5,90.6
+STU3013,16,Female,5.3,7.3,0.1,76.0,No,Yes,No,Bachelors,Yes,9.0,55.9,80.5
+STU2083,18,Female,3.3,8.4,3.4,86.5,No,Yes,Yes,Bachelors,Yes,7.0,31.9,73.8
+STU2729,16,Male,4.2,8.3,2.8,95.1,No,Yes,No,Bachelors,Yes,3.0,66.8,95.1
+STU3166,17,Male,3.9,8.8,3.1,79.5,No,Yes,No,High School,No,5.0,68.0,74.5
+STU3220,17,Female,5.4,6.3,2.7,91.3,No,No,No,Masters,Yes,7.0,70.0,100.0
+STU2821,18,Female,4.8,6.3,2.9,89.9,No,No,No,High School,Yes,7.0,63.4,78.8
+STU2070,18,Male,1.0,7.5,1.0,82.7,No,No,No,Masters,Yes,5.0,59.9,68.8
+STU2492,15,Female,3.3,6.8,2.7,83.5,No,Yes,No,Bachelors,No,7.0,76.3,72.1
+STU2997,18,Male,3.6,5.8,2.9,91.7,No,No,No,Bachelors,Yes,7.0,68.6,79.8
+STU2893,18,Male,2.5,,4.7,95.8,Yes,Yes,No,High School,Yes,8.0,59.2,62.2
+STU2820,15,Male,5.0,7.9,1.8,100.0,Yes,Yes,No,High School,Yes,3.0,72.4,98.4
+STU2221,17,Female,3.3,6.4,4.9,81.9,No,No,Yes,Bachelors,Yes,9.0,86.3,91.8
+STU2577,17,Male,4.7,6.9,4.9,97.9,No,No,No,High School,Yes,3.0,62.9,91.9
+STU3059,16,Male,0.8,8.4,4.8,86.2,No,No,No,Masters,Yes,7.0,64.5,68.2
+STU3408,18,Male,2.6,7.3,6.3,94.6,No,No,Yes,Bachelors,Yes,5.0,81.7,80.1
+STU2633,15,Male,2.1,5.7,3.6,86.5,No,No,No,Bachelors,Yes,9.0,88.9,80.7
+STU2069,16,Female,4.4,8.6,2.0,83.0,Yes,No,Yes,Masters,Yes,5.0,60.8,98.8
+STU2697,16,Male,4.5,8.0,3.3,81.2,Yes,Yes,No,High School,No,6.0,41.2,83.9
+STU3323,16,Male,5.3,5.7,2.8,73.4,Yes,No,No,Bachelors,Yes,7.0,83.3,81.6
+STU2509,15,Female,2.0,7.3,3.5,88.3,No,No,No,Bachelors,Yes,8.0,52.4,70.0
+STU2061,18,Female,5.7,7.9,3.4,87.7,Yes,No,No,Bachelors,Yes,7.0,54.2,85.7
+STU3261,17,Female,3.1,7.7,1.5,80.6,No,No,No,Bachelors,Yes,4.0,65.3,81.8
+STU2355,16,Male,3.6,7.4,3.8,81.3,No,No,No,Masters,No,6.0,54.2,72.0
+STU3069,15,Male,4.1,6.8,1.6,85.1,No,Yes,No,Masters,Yes,7.0,68.0,94.1
+STU2818,18,Female,4.0,8.3,3.1,84.4,No,No,No,High School,Yes,7.0,65.4,79.6
+STU3115,17,Male,4.2,7.6,1.1,81.3,No,No,No,Bachelors,Yes,6.0,57.1,89.1
+STU3460,15,Female,6.1,6.4,2.7,82.6,Yes,Yes,No,High School,Yes,7.0,57.7,86.9
+STU2050,16,Male,5.9,6.4,2.2,82.8,Yes,Yes,Yes,High School,Yes,5.0,81.6,98.0
+STU2425,16,Male,1.4,8.7,0.6,86.3,No,No,Yes,High School,No,4.0,73.0,90.0
+STU3337,16,Female,1.9,5.9,3.5,72.6,No,No,No,Bachelors,Yes,6.0,73.2,63.2
+STU3435,15,Male,0.7,7.0,4.1,85.0,No,No,No,Masters,Yes,6.0,62.6,73.0
+STU2869,15,Male,2.0,6.0,4.9,85.7,No,No,No,Masters,Yes,5.0,52.4,74.4
+STU2688,17,Male,4.8,8.9,5.6,67.1,Yes,No,No,Bachelors,Yes,7.0,66.9,82.5
+STU2991,15,Male,5.4,6.1,4.3,90.6,Yes,No,No,Bachelors,Yes,7.0,58.8,100.0
+STU2610,15,Male,2.9,7.3,2.4,77.3,No,Yes,Yes,PhD,Yes,6.0,66.9,89.9
+STU2269,18,Male,3.6,9.3,4.1,87.8,Yes,No,No,High School,Yes,8.0,84.2,100.0
+STU2103,17,Female,3.2,7.8,4.0,91.2,No,No,No,High School,Yes,5.0,73.9,86.7
+STU2606,15,Male,1.8,7.9,3.0,90.9,Yes,Yes,No,Masters,Yes,5.0,92.0,84.0
+STU2239,16,Male,4.3,8.5,3.2,95.3,Yes,No,Yes,High School,No,6.0,85.9,88.8
+STU3450,18,Male,7.2,7.3,3.1,92.1,No,Yes,No,Bachelors,Yes,8.0,53.0,97.1
+STU2188,16,Male,3.2,6.7,2.7,78.1,No,No,No,Bachelors,Yes,6.0,71.0,66.6
+STU2710,16,Male,1.5,6.3,5.9,76.7,No,No,No,High School,Yes,9.0,69.7,58.7
+STU3269,18,Male,2.6,8.2,4.4,90.5,Yes,No,No,Bachelors,Yes,6.0,68.9,81.8
+STU2303,17,Female,4.3,4.4,3.6,92.8,No,No,No,Masters,Yes,6.0,48.7,72.2
+STU2472,16,Female,4.1,4.6,3.6,86.6,No,Yes,No,,Yes,7.0,85.6,81.8
+STU3196,15,Female,1.7,6.0,1.8,52.6,No,No,No,PhD,Yes,7.0,63.7,57.7
+STU2529,15,Male,2.3,7.4,2.7,94.3,No,No,No,Masters,Yes,6.0,59.3,82.9
+STU3486,17,Male,1.6,7.9,1.6,100.0,No,No,No,PhD,Yes,4.0,72.4,88.9
+STU2085,16,Male,2.3,7.3,4.1,87.5,No,Yes,No,Bachelors,Yes,1.0,49.8,68.5
+STU2400,17,Male,4.4,7.9,1.7,87.1,No,Yes,No,Bachelors,Yes,5.0,85.7,83.7
+STU3423,15,Male,3.6,7.7,1.1,97.9,No,Yes,Yes,Masters,Yes,3.0,84.8,100.0
+STU2439,18,Female,3.0,6.0,1.2,93.8,Yes,Yes,No,High School,No,5.0,79.8,78.1
+STU2854,16,Male,2.9,7.7,2.3,86.0,No,No,Yes,Masters,Yes,6.0,81.3,85.7
+STU2733,15,Male,3.4,7.3,3.1,89.4,No,No,Yes,Masters,Yes,8.0,76.8,90.1
+STU3101,16,Female,3.8,8.1,4.3,74.4,Yes,No,Yes,High School,Yes,9.0,78.0,89.2
+STU2654,15,Male,4.5,7.5,3.9,80.8,Yes,Yes,Yes,Masters,Yes,4.0,87.3,90.4
+STU3304,16,Female,3.9,6.8,3.4,88.3,No,Yes,No,High School,Yes,3.0,55.4,80.6
+STU2229,15,Female,1.5,6.9,4.8,81.3,Yes,Yes,No,PhD,Yes,5.0,51.1,74.1
+STU2194,16,Male,2.2,6.3,6.0,86.6,Yes,Yes,No,High School,Yes,6.0,60.6,64.5
+STU2004,18,Female,2.5,5.8,0.0,74.2,Yes,No,No,PhD,Yes,4.0,67.8,87.3
+STU3338,15,Female,6.1,4.8,2.6,75.0,Yes,No,No,High School,Yes,2.0,74.7,92.2
+STU2562,16,Female,1.1,,2.5,78.8,Yes,Yes,No,Masters,No,10.0,71.6,65.6
+STU3474,15,Female,4.1,7.6,3.2,95.7,No,No,No,High School,Yes,6.0,80.5,93.9
+STU2949,15,Male,8.6,8.0,2.9,77.7,No,No,No,Bachelors,No,5.0,53.8,100.0
+STU2851,16,Female,3.5,7.6,1.6,81.3,Yes,No,No,High School,Yes,7.0,54.9,77.1
+STU3200,18,Male,3.7,7.4,2.5,90.0,No,Yes,Yes,Masters,Yes,6.0,54.8,81.5
+STU2761,17,Female,3.9,6.5,5.7,74.0,No,No,No,Bachelors,Yes,4.0,78.8,80.4
+STU3389,18,Female,6.3,7.2,3.5,100.0,No,Yes,No,,Yes,6.0,82.3,100.0
+STU3347,17,Male,2.4,6.5,1.5,99.6,No,No,No,Bachelors,Yes,3.0,67.0,76.2
+STU2975,15,Male,3.5,9.0,1.6,76.2,Yes,Yes,Yes,Masters,Yes,6.0,58.5,76.1
+STU2602,15,Male,3.8,7.4,3.2,87.0,No,No,No,Masters,No,7.0,55.1,76.2
+STU2485,16,Female,3.9,6.6,2.7,84.2,Yes,Yes,No,High School,Yes,8.0,47.6,65.9
+STU2986,16,Male,2.1,,4.7,90.2,Yes,No,No,Bachelors,Yes,4.0,60.0,70.8
+STU2424,16,Male,2.3,7.4,4.5,100.0,No,Yes,No,Masters,Yes,8.0,59.2,78.2
+STU2343,15,Female,4.7,6.0,1.4,100.0,Yes,Yes,No,Bachelors,Yes,4.0,70.9,92.8
+STU2478,18,Male,5.0,5.3,3.9,81.1,No,No,No,Bachelors,Yes,7.0,87.7,83.1
+STU2592,16,Female,5.1,7.6,0.7,92.9,No,No,No,High School,Yes,8.0,88.9,100.0
+STU3411,16,Female,2.5,6.8,1.1,84.1,Yes,No,No,High School,No,4.0,90.1,89.3
+STU3094,15,Male,5.1,4.6,5.1,80.5,No,No,No,High School,Yes,7.0,64.1,73.8
+STU3150,16,Female,4.7,7.0,4.8,79.0,No,No,No,Bachelors,Yes,5.0,53.3,85.8
+STU3235,18,Male,2.0,8.3,5.9,76.1,No,Yes,No,High School,Yes,4.0,60.7,59.7
+STU3018,17,Female,3.7,8.4,2.3,87.7,Yes,Yes,No,Bachelors,Yes,7.0,42.9,71.7
+STU2321,16,Female,2.9,7.2,5.1,85.6,No,Yes,No,High School,Yes,7.0,68.4,72.9
+STU2751,18,Female,2.6,5.9,2.2,82.5,No,No,Yes,Bachelors,Yes,7.0,83.9,81.9
+STU2716,15,Male,3.3,7.3,4.3,77.0,No,No,No,High School,Yes,5.0,60.5,51.1
+STU2456,16,Female,2.3,8.0,1.9,91.8,No,No,No,Masters,Yes,7.0,70.6,84.6
+STU2944,18,Male,2.7,4.3,4.4,86.8,Yes,Yes,Yes,PhD,Yes,4.0,58.8,76.0
+STU3027,16,Male,5.4,7.2,4.2,71.1,No,No,No,High School,Yes,7.0,85.6,90.3
+STU2099,18,Male,2.5,6.5,4.3,88.5,No,No,No,Masters,No,5.0,67.2,79.7
+STU3055,16,Female,2.6,7.3,2.9,97.3,Yes,No,No,High School,Yes,5.0,69.3,74.8
+STU2876,15,Female,3.8,6.9,0.0,79.5,Yes,Yes,Yes,Masters,Yes,4.0,51.0,88.4
+STU2266,17,Female,3.4,5.4,3.6,81.7,Yes,Yes,No,PhD,Yes,8.0,84.7,77.5
+STU2593,16,Male,5.3,6.1,2.5,85.8,No,No,No,Masters,Yes,6.0,61.1,93.3
+STU2350,18,Female,2.4,8.0,4.8,77.0,No,No,No,Masters,Yes,7.0,71.9,73.6
+STU2849,17,Male,3.9,7.9,3.3,97.8,Yes,Yes,No,Masters,Yes,6.0,83.4,89.6
+STU2595,15,Male,4.6,6.3,2.8,97.3,Yes,No,No,High School,Yes,6.0,53.1,88.3
+STU3158,18,Male,4.9,7.1,4.5,80.1,Yes,No,No,High School,Yes,5.0,55.6,67.5
+STU2170,15,Male,2.3,7.4,7.6,78.3,Yes,Yes,Yes,Bachelors,Yes,5.0,60.5,52.7
+STU3374,15,Male,3.5,7.7,1.8,72.9,Yes,No,No,Bachelors,Yes,5.0,66.0,81.0
+STU2352,15,Male,2.4,7.2,1.2,89.5,No,Yes,No,Bachelors,No,5.0,91.1,84.3
+STU3470,18,Male,2.8,8.5,6.1,78.9,No,Yes,No,High School,Yes,4.0,63.0,73.1
+STU2324,17,Male,1.7,7.0,3.2,91.4,No,No,No,Masters,Yes,5.0,70.1,78.5
+STU3012,16,Male,4.5,6.1,5.9,77.4,No,No,Yes,Masters,Yes,5.0,89.9,100.0
+STU2744,15,Male,1.9,6.8,4.1,83.0,No,No,No,High School,Yes,7.0,79.2,82.3
+STU2193,16,Female,3.8,5.3,0.5,94.3,Yes,Yes,Yes,High School,Yes,1.0,97.4,100.0
+STU2646,18,Female,5.2,8.2,3.4,91.1,No,No,No,High School,Yes,3.0,77.4,99.3
+STU2378,15,Male,5.2,6.4,3.0,77.6,No,Yes,Yes,Masters,No,10.0,99.8,100.0
+STU2885,17,Female,2.2,5.2,2.8,86.3,Yes,Yes,No,Bachelors,Yes,4.0,59.8,77.8
+STU3395,18,Male,4.3,5.3,3.3,85.9,Yes,Yes,No,High School,Yes,7.0,67.9,92.7
+STU3357,15,Male,1.8,5.4,2.4,79.0,No,Yes,No,PhD,No,5.0,67.0,69.4
+STU3401,18,Female,4.4,6.3,3.4,94.4,No,Yes,No,Masters,No,4.0,59.8,90.2
+STU2389,15,Female,5.7,6.6,0.0,86.4,No,Yes,No,Masters,Yes,4.0,82.5,100.0
+STU2976,15,Female,4.8,6.7,2.8,86.5,No,Yes,No,Bachelors,Yes,2.0,78.0,100.0
+STU2746,18,Female,4.9,6.3,2.9,93.3,No,Yes,No,Masters,Yes,8.0,71.5,94.0
+STU2790,17,Male,5.6,7.6,0.0,94.6,No,No,No,High School,Yes,4.0,88.6,100.0
+STU2263,15,Male,5.8,7.0,0.8,92.0,No,No,No,Masters,Yes,7.0,62.9,100.0
+STU2972,18,Male,6.4,5.7,4.3,78.0,No,Yes,Yes,Masters,Yes,9.0,71.9,97.1
+STU3472,18,Male,2.9,8.5,4.8,83.2,No,No,No,Masters,Yes,3.0,85.9,93.7
+STU2339,16,Female,3.3,7.4,4.5,93.2,No,No,No,Bachelors,Yes,5.0,60.2,85.4
+STU3112,18,Female,0.0,9.6,3.1,60.7,No,Yes,No,Bachelors,Yes,2.0,59.7,56.5
+STU2140,18,Male,3.1,7.2,5.7,96.5,No,No,No,Bachelors,No,7.0,48.6,78.8
+STU2290,17,Female,5.1,6.6,7.1,62.1,Yes,Yes,No,Bachelors,Yes,7.0,75.2,74.4
+STU2332,17,Male,3.9,7.9,2.2,88.1,No,Yes,No,Masters,Yes,6.0,66.9,91.5
+STU3373,16,Male,2.5,7.2,0.8,100.0,No,No,Yes,Bachelors,Yes,5.0,66.0,79.9
+STU3398,17,Female,3.2,7.6,1.3,89.3,No,No,No,High School,Yes,9.0,71.7,79.4
+STU3464,18,Female,5.8,7.1,5.3,94.3,No,No,No,High School,Yes,6.0,61.7,82.6
+STU2737,17,Male,4.7,8.3,2.2,76.5,No,No,No,Masters,Yes,8.0,100.0,96.9
+STU2819,17,Female,1.6,6.7,6.3,77.2,No,Yes,No,High School,Yes,3.0,34.9,53.7
+STU2316,15,Male,4.1,6.0,3.8,88.1,No,Yes,No,High School,Yes,8.0,73.0,88.9
+STU3089,16,Female,4.0,6.3,3.8,92.9,No,Yes,No,Bachelors,Yes,5.0,45.8,67.5
+STU2198,18,Female,3.2,5.9,1.7,86.1,Yes,No,No,High School,Yes,6.0,68.8,69.6
+STU2216,15,Female,2.2,6.8,3.1,90.1,No,No,Yes,Bachelors,Yes,5.0,58.7,74.1
+STU3441,17,Female,2.8,8.8,2.9,83.1,Yes,No,No,PhD,Yes,2.0,80.0,88.3
+STU3449,17,Female,2.3,9.0,3.6,90.1,No,No,No,High School,Yes,5.0,68.7,80.0
+STU3487,17,Male,3.5,5.9,0.4,78.6,Yes,Yes,No,Masters,Yes,6.0,74.1,85.5
+STU2866,16,Male,4.5,3.4,2.1,92.6,Yes,Yes,No,Masters,Yes,6.0,79.0,77.9
+STU2815,18,Female,4.1,6.1,0.3,88.9,Yes,No,No,High School,Yes,6.0,61.4,85.7
+STU2131,17,Male,3.0,,1.7,77.3,No,Yes,No,Bachelors,Yes,8.0,79.6,80.8
+STU3187,17,Male,0.0,6.5,5.4,67.5,Yes,No,No,Masters,Yes,5.0,75.2,69.5
+STU2204,16,Male,2.5,7.8,2.1,82.7,Yes,No,No,Masters,Yes,7.0,66.7,75.3
+STU2987,18,Male,4.2,7.9,5.0,90.9,No,No,Yes,Bachelors,Yes,4.0,67.8,84.4
+STU3107,15,Male,4.8,6.0,3.6,75.1,Yes,No,No,PhD,Yes,4.0,63.3,77.3
+STU2498,16,Female,1.7,6.4,2.2,75.3,No,No,No,Masters,Yes,6.0,73.7,79.2
+STU2317,15,Female,4.3,7.5,4.7,88.8,No,Yes,Yes,Bachelors,Yes,8.0,64.8,81.2
+STU3123,18,Female,2.6,7.6,3.8,84.3,No,Yes,Yes,Bachelors,Yes,2.0,59.8,71.0
+STU2264,16,Male,1.0,4.1,3.4,89.7,Yes,No,No,PhD,No,9.0,61.6,39.7
+STU3344,18,Male,4.2,5.2,5.4,82.5,No,No,Yes,High School,Yes,9.0,61.8,69.6
+STU2838,18,Female,3.5,7.3,3.3,89.3,Yes,Yes,No,High School,Yes,4.0,62.1,58.0
+STU2937,18,Male,1.8,6.2,3.2,95.0,Yes,Yes,No,High School,Yes,7.0,71.8,72.5
+STU2121,15,Male,4.0,8.5,6.0,100.0,Yes,No,No,Bachelors,Yes,6.0,61.4,78.0
+STU2895,18,Male,1.0,4.6,3.1,72.2,No,No,Yes,Bachelors,Yes,6.0,75.8,72.5
+STU2711,17,Male,2.5,5.9,0.9,80.5,No,No,No,Bachelors,Yes,6.0,72.2,79.9
+STU2157,18,Female,2.5,5.4,3.0,98.3,No,Yes,Yes,Masters,Yes,4.0,76.9,87.1
+STU3179,18,Male,5.5,8.5,2.6,100.0,No,No,No,High School,Yes,5.0,75.7,100.0
+STU3232,17,Female,3.6,8.4,2.6,91.0,No,No,Yes,Masters,No,5.0,48.3,83.4
+STU2612,18,Female,3.7,7.0,4.5,82.5,No,No,No,High School,Yes,5.0,73.7,81.4
+STU2065,15,Male,1.6,6.3,2.1,76.6,Yes,Yes,No,Bachelors,Yes,3.0,40.7,57.1
+STU2199,15,Female,4.9,7.4,2.1,96.7,No,No,No,Bachelors,Yes,4.0,70.0,94.0
+STU2566,18,Female,3.3,6.2,4.5,80.7,No,Yes,No,Bachelors,Yes,10.0,81.8,74.4
+STU2027,18,Male,2.6,6.7,3.7,84.2,No,Yes,No,Bachelors,Yes,5.0,73.3,69.2
+STU3260,16,Female,4.6,5.8,4.4,79.4,No,Yes,No,Bachelors,Yes,4.0,72.7,88.2
+STU2107,18,Female,2.6,6.8,0.0,87.7,No,Yes,No,High School,Yes,5.0,65.3,93.5
+STU2708,16,Male,5.3,6.9,4.9,88.7,No,No,Yes,Masters,Yes,6.0,85.2,100.0
+STU2150,17,Female,2.8,6.4,2.8,88.0,No,No,No,Bachelors,Yes,4.0,53.5,70.2
+STU3070,18,Male,1.5,,5.2,72.8,No,No,No,PhD,Yes,5.0,48.0,70.7
+STU3417,16,Male,2.6,8.0,7.2,93.3,No,No,No,High School,Yes,7.0,56.3,64.7
+STU2411,17,Male,0.5,7.1,3.2,82.9,No,No,Yes,High School,Yes,8.0,85.0,70.8
+STU2232,18,Female,3.2,9.2,3.9,83.1,Yes,No,No,Masters,Yes,5.0,62.2,78.4
+STU2623,17,Male,4.4,7.3,3.3,94.4,No,No,No,High School,Yes,9.0,78.8,87.4
+STU2374,17,Female,3.7,7.2,2.9,62.0,Yes,No,No,High School,Yes,3.0,55.6,76.0
+STU2448,16,Female,4.0,7.1,7.7,89.9,No,No,No,PhD,Yes,3.0,83.6,87.3
+STU2755,16,Male,6.0,7.4,3.8,91.6,No,No,No,High School,Yes,4.0,64.8,96.7
+STU2197,15,Male,2.5,6.6,5.0,90.9,No,No,Yes,High School,Yes,4.0,58.2,69.4
+STU2781,15,Male,4.0,5.8,3.9,78.7,No,Yes,Yes,Bachelors,Yes,4.0,81.3,93.1
+STU2477,17,Female,4.0,5.6,3.0,90.0,No,No,No,Bachelors,Yes,5.0,65.9,88.3
+STU2787,16,Female,3.5,,3.6,100.0,Yes,No,No,High School,Yes,4.0,56.3,83.1
+STU3309,15,Female,3.6,7.1,3.5,79.2,No,No,No,,No,3.0,63.4,69.6
+STU2965,16,Female,3.1,7.6,3.8,80.8,No,No,Yes,Bachelors,Yes,6.0,63.2,82.2
+STU3228,15,Male,1.2,6.5,3.2,100.0,No,No,No,Masters,Yes,4.0,83.3,84.6
+STU2923,16,Female,5.1,7.0,4.0,88.7,Yes,Yes,No,Bachelors,Yes,5.0,56.5,80.7
+STU2377,17,Male,1.0,6.3,3.7,86.9,No,Yes,No,High School,Yes,8.0,51.6,58.9
+STU2587,15,Male,3.9,6.6,4.8,94.4,Yes,No,No,High School,No,7.0,57.4,68.8
+STU2003,17,Male,4.1,6.9,3.0,86.5,No,No,No,Bachelors,Yes,5.0,74.7,85.5
+STU2493,17,Female,3.7,5.4,3.0,82.9,No,No,Yes,Masters,Yes,9.0,61.9,88.5
+STU2573,15,Female,2.7,5.2,1.2,100.0,No,No,No,Masters,No,8.0,63.9,81.7
+STU2927,17,Male,4.2,6.6,4.3,91.0,No,No,Yes,Bachelors,Yes,5.0,68.8,78.4
+STU2288,18,Male,6.8,7.0,3.4,70.7,No,Yes,No,High School,Yes,6.0,59.9,89.4
+STU2861,16,Female,1.5,7.8,3.0,86.2,No,No,No,Bachelors,Yes,8.0,80.8,78.7
+STU3160,17,Male,3.3,6.8,2.5,78.7,Yes,No,No,Bachelors,Yes,4.0,80.9,80.8
+STU2611,17,Female,4.4,6.2,4.4,68.6,No,No,Yes,PhD,Yes,4.0,60.4,78.4
+STU3294,15,Female,4.7,5.2,3.5,87.4,No,No,No,PhD,Yes,5.0,53.5,79.7
+STU2148,17,Male,0.9,6.0,5.6,68.4,Yes,Yes,Yes,Bachelors,Yes,3.0,61.4,60.0
+STU3047,18,Female,3.2,7.0,0.0,97.8,No,No,No,PhD,Yes,9.0,42.3,81.6
+STU2160,15,Female,0.0,5.5,4.2,100.0,No,No,No,Masters,No,7.0,54.7,69.6
+STU3236,17,Female,2.2,8.5,0.8,100.0,No,Yes,No,High School,Yes,4.0,54.2,90.1
+STU2304,15,Male,25.66378397137135,5.7,3.5,91.1,No,No,No,Masters,Yes,6.0,43.6,77.2
+STU3041,16,Female,3.5,4.9,3.1,82.4,No,Yes,No,Bachelors,Yes,7.0,74.9,79.4
+STU2475,18,Female,5.6,6.1,3.4,90.7,Yes,Yes,No,Bachelors,Yes,4.0,70.7,100.0
+STU3351,18,Female,4.4,5.0,4.6,96.2,No,No,No,PhD,Yes,7.0,72.6,82.8
+STU3418,15,Male,3.0,6.4,2.2,88.2,No,Yes,No,High School,Yes,10.0,74.4,80.6
+STU2112,16,Male,2.5,3.0,2.0,97.5,No,No,No,Bachelors,Yes,6.0,57.6,72.7
+STU2318,16,Male,1.4,6.3,0.5,90.6,No,Yes,No,High School,Yes,4.0,88.2,86.8
+STU2081,16,Male,3.8,7.5,1.9,96.7,No,No,Yes,PhD,Yes,6.0,65.6,96.3
+STU2515,15,Female,5.0,5.7,2.9,90.4,No,Yes,Yes,Bachelors,Yes,3.0,65.5,92.5
+STU2144,18,Male,3.0,8.6,5.1,87.3,Yes,Yes,No,Bachelors,Yes,8.0,55.4,60.0
+STU3489,18,Male,2.8,6.6,3.6,80.7,No,No,Yes,Masters,No,5.0,76.9,80.5
+STU3248,15,Male,5.5,5.3,3.6,85.9,No,No,No,Masters,Yes,9.0,63.2,82.6
+STU3348,16,Female,4.1,5.4,2.2,70.7,No,No,No,High School,Yes,4.0,77.6,84.1
+STU2881,16,Male,4.6,7.6,4.3,100.0,No,Yes,Yes,High School,Yes,6.0,86.3,92.6
+STU3151,16,Female,7.5,4.9,4.0,70.6,No,No,No,Bachelors,Yes,6.0,68.6,100.0
+STU3095,16,Male,3.1,7.7,4.4,92.3,No,Yes,Yes,Masters,Yes,6.0,100.0,98.1
+STU2416,18,Male,5.8,,1.5,93.9,Yes,No,Yes,Masters,Yes,8.0,57.2,100.0
+STU2137,16,Male,4.1,8.3,0.0,76.7,No,Yes,No,Bachelors,No,8.0,53.1,69.2
+STU2845,16,Male,4.9,5.2,0.0,78.1,Yes,No,No,Bachelors,Yes,3.0,75.9,99.2
+STU2979,16,Male,2.8,6.3,3.8,70.1,No,No,No,Bachelors,Yes,6.0,65.5,62.7
+STU2349,16,Male,4.1,6.7,0.6,82.5,No,Yes,No,Bachelors,No,8.0,67.2,88.9
+STU3181,17,Male,4.2,8.3,2.0,84.7,No,Yes,No,High School,Yes,6.0,55.1,80.2
+STU2608,17,Female,2.5,6.1,4.6,87.4,No,No,No,Masters,Yes,5.0,75.3,81.8
+STU3431,17,Female,4.7,7.2,2.7,79.0,Yes,Yes,Yes,Bachelors,Yes,6.0,80.6,99.8
+STU2001,15,Female,1.9,6.6,1.8,81.8,No,No,Yes,High School,Yes,7.0,56.1,68.3
+STU3192,16,Male,3.0,7.4,3.8,87.6,No,Yes,No,Bachelors,Yes,7.0,70.2,73.9
+STU2829,17,Female,3.8,6.6,0.9,87.7,No,No,No,Masters,Yes,5.0,75.0,85.9
+STU3234,16,Male,2.7,5.5,2.3,65.5,Yes,No,No,PhD,Yes,8.0,71.8,71.2
+STU3155,17,Female,3.8,,6.9,81.3,No,Yes,No,Bachelors,Yes,5.0,56.2,65.7
+STU2373,15,Female,3.9,6.6,2.8,70.1,No,No,No,PhD,Yes,7.0,68.3,83.1
+STU3363,15,Male,1.5,7.0,4.6,80.5,No,Yes,No,Masters,Yes,8.0,62.9,56.9
+STU2549,17,Female,2.7,8.2,5.7,74.8,No,No,No,Bachelors,Yes,5.0,57.1,78.6
+STU3035,17,Female,4.0,8.5,2.9,100.0,No,Yes,Yes,High School,Yes,7.0,75.9,87.4
+STU2934,16,Female,2.2,5.1,3.3,77.6,No,Yes,No,Bachelors,Yes,5.0,66.6,64.8
+STU2554,16,Female,2.5,8.0,1.9,80.6,No,No,No,Masters,Yes,9.0,60.2,71.6
+STU2638,17,Male,4.0,6.2,4.9,79.2,Yes,No,No,Bachelors,Yes,4.0,72.4,83.8
+STU2187,15,Female,5.4,5.5,2.3,83.0,No,Yes,No,Masters,Yes,5.0,58.1,88.5
+STU2087,18,Female,2.3,7.0,5.4,83.2,No,No,No,High School,Yes,4.0,71.9,69.6
+STU3327,15,Male,4.8,,4.4,83.6,No,No,No,Bachelors,Yes,6.0,55.8,61.8
+STU2360,17,Male,3.7,9.0,4.6,87.6,No,No,No,Masters,Yes,3.0,70.8,89.3
+STU3028,18,Male,6.0,8.7,0.5,70.3,Yes,Yes,Yes,Bachelors,Yes,4.0,77.8,100.0
+STU2381,15,Male,4.3,7.2,3.3,83.6,Yes,No,No,Bachelors,Yes,6.0,73.2,82.3
+STU2816,16,Female,3.7,8.2,1.1,83.4,No,Yes,No,PhD,Yes,6.0,70.7,85.7
+STU2006,18,Male,3.4,7.1,6.2,77.5,No,No,No,High School,Yes,10.0,30.7,51.1
+STU2248,17,Female,0.9,5.6,5.6,71.4,No,Yes,No,High School,No,5.0,56.1,47.9
+STU2890,15,Female,3.7,5.3,4.7,82.9,No,No,No,High School,No,4.0,51.6,71.1
+STU2031,15,Female,3.8,7.2,3.3,100.0,No,No,No,Masters,Yes,5.0,80.8,100.0
+STU2247,15,Female,1.4,8.7,5.1,68.8,Yes,No,No,Masters,No,6.0,80.4,65.1
+STU2954,15,Female,5.6,7.4,1.4,91.4,Yes,Yes,No,Bachelors,Yes,6.0,74.4,100.0
+STU3129,15,Female,3.6,5.1,3.5,98.2,Yes,No,No,High School,Yes,8.0,81.8,73.7
+STU2774,18,Female,4.2,8.0,2.6,90.6,No,No,No,Bachelors,Yes,4.0,51.7,83.9
+STU2180,17,Male,2.1,7.9,4.5,91.8,No,No,No,Masters,Yes,5.0,97.0,76.1
+STU2891,17,Female,3.8,7.2,2.1,80.1,No,No,No,Bachelors,Yes,7.0,56.1,87.7
+STU3226,16,Female,3.0,4.0,3.0,70.2,No,No,No,High School,Yes,9.0,66.8,58.6
+STU3182,15,Male,2.8,7.0,0.9,63.9,No,No,Yes,High School,Yes,5.0,58.0,67.1
+STU2883,16,Female,4.9,5.7,2.8,73.6,No,Yes,Yes,Bachelors,Yes,4.0,73.4,87.9
+STU3265,17,Male,2.6,7.2,3.4,100.0,No,No,No,PhD,Yes,8.0,84.8,94.4
+STU2186,17,Female,3.1,7.5,4.1,89.4,Yes,Yes,No,High School,Yes,4.0,63.4,71.8
+STU3231,17,Female,1.7,7.4,2.4,95.5,Yes,No,No,Bachelors,Yes,3.0,76.8,86.5
+STU2268,16,Male,3.9,6.7,3.8,75.4,No,Yes,Yes,Masters,No,4.0,85.2,96.4
+STU2328,18,Female,2.8,6.4,0.0,78.9,No,No,No,Bachelors,Yes,8.0,69.5,75.1
+STU2679,16,Male,3.9,6.2,1.6,91.2,No,Yes,Yes,High School,Yes,7.0,58.0,77.6
+STU2823,18,Female,3.6,5.5,3.6,93.4,No,No,No,Bachelors,Yes,5.0,58.0,71.1
+STU2807,16,Male,4.5,5.1,5.7,100.0,Yes,Yes,Yes,Bachelors,Yes,4.0,75.0,87.8
+STU2166,15,Female,4.7,7.2,2.8,100.0,Yes,Yes,No,High School,Yes,7.0,66.3,95.6
+STU2782,16,Male,3.8,6.7,4.2,70.8,No,No,No,Masters,Yes,4.0,69.4,77.5
+STU2086,18,Male,8.8,7.0,4.7,100.0,Yes,No,Yes,Bachelors,No,7.0,72.8,100.0
+STU2522,17,Male,2.5,6.5,4.9,79.6,No,No,No,Masters,Yes,8.0,97.2,92.9
+STU3296,15,Female,4.2,5.3,1.6,82.5,No,Yes,No,High School,No,8.0,85.5,87.8
+STU3109,15,Female,6.7,6.5,2.1,100.0,Yes,Yes,No,Masters,Yes,9.0,53.5,100.0
+STU2442,18,Male,1.5,7.1,1.8,95.8,No,No,No,Masters,Yes,5.0,57.1,78.6
+STU2718,15,Female,4.7,7.4,4.7,76.6,No,No,Yes,Bachelors,Yes,6.0,59.9,81.7
+STU2123,15,Female,4.5,10.0,3.9,56.9,No,No,No,Masters,Yes,5.0,65.2,95.8
+STU3153,16,Female,2.7,7.4,0.7,92.9,No,No,No,High School,Yes,5.0,47.8,82.2
+STU2243,17,Male,5.0,8.2,4.1,78.2,Yes,Yes,No,High School,Yes,6.0,60.6,74.8
+STU2886,18,Female,4.4,4.6,5.0,92.5,No,No,No,Masters,Yes,1.0,68.9,75.9
+STU2429,17,Female,2.7,6.4,3.0,97.1,No,Yes,No,Bachelors,Yes,7.0,70.8,88.9
+STU2805,15,Female,5.0,6.1,4.9,96.6,No,No,No,High School,Yes,1.0,64.0,89.2
+STU3004,16,Male,5.5,6.3,2.5,88.1,Yes,Yes,No,High School,No,4.0,64.8,87.2
+STU3163,16,Male,1.0,8.0,5.2,100.0,Yes,Yes,No,Masters,No,5.0,56.2,69.1
+STU3393,17,Male,4.8,6.1,4.3,100.0,No,No,Yes,Masters,Yes,6.0,49.8,80.9
+STU3346,17,Female,1.4,5.8,4.1,95.1,Yes,Yes,No,Bachelors,Yes,4.0,64.4,69.8
+STU2293,16,Female,3.6,8.4,0.6,75.7,No,No,No,Bachelors,Yes,4.0,79.2,90.0
+STU3387,18,Male,5.7,5.0,2.9,75.7,No,Yes,No,PhD,Yes,7.0,59.9,90.9
+STU2760,17,Male,5.5,8.4,5.3,72.1,No,Yes,Yes,Bachelors,Yes,5.0,78.4,91.6
+STU2262,15,Female,0.6,7.8,5.0,77.2,No,No,No,Bachelors,Yes,3.0,59.8,61.8
+STU2057,16,Female,3.5,5.0,3.8,89.2,No,No,No,Bachelors,Yes,5.0,65.1,80.8
+STU2249,18,Male,3.0,4.1,3.5,85.9,No,Yes,No,PhD,Yes,3.0,65.0,77.3
+STU2028,17,Male,2.6,6.3,1.3,84.1,No,No,No,Bachelors,Yes,8.0,81.3,70.7
+STU2712,17,Female,2.6,6.2,2.4,100.0,Yes,Yes,Yes,PhD,Yes,5.0,61.4,76.9
+STU2019,17,Male,3.5,8.1,1.5,67.4,No,Yes,No,High School,Yes,5.0,79.2,83.6
+STU3056,15,Female,4.5,6.3,4.5,81.1,No,No,No,Bachelors,No,6.0,78.7,72.4
+STU2586,15,Male,5.9,5.8,1.6,75.1,Yes,Yes,No,Bachelors,Yes,6.0,71.2,86.8
+STU2706,15,Female,4.2,6.3,5.3,82.9,Yes,Yes,No,High School,Yes,1.0,74.1,89.9
+STU2656,17,Male,3.1,6.2,3.6,85.0,No,No,No,Masters,Yes,6.0,50.6,72.3
+STU3285,17,Male,4.0,5.3,4.1,82.6,No,Yes,No,High School,Yes,5.0,84.1,70.4
+STU3275,15,Male,3.3,7.2,2.5,84.6,No,No,No,Bachelors,No,2.0,69.1,98.7
+STU2211,18,Female,5.0,8.2,0.0,91.4,No,No,Yes,High School,Yes,7.0,75.7,100.0
+STU3478,16,Male,4.2,7.5,0.8,83.6,No,No,No,Bachelors,Yes,7.0,91.6,100.0
+STU2490,18,Male,5.8,9.0,2.3,88.9,No,No,No,,Yes,6.0,62.2,89.0
+STU2616,16,Male,4.2,6.6,5.0,92.8,No,Yes,No,High School,Yes,5.0,79.6,84.0
+STU3388,15,Female,2.7,7.6,2.4,91.0,No,No,No,Masters,Yes,1.0,65.1,81.5
+STU3451,18,Female,2.7,4.7,2.3,75.9,No,No,No,Bachelors,Yes,6.0,74.1,76.7
+STU2051,18,Male,2.6,7.0,2.4,83.9,No,No,No,High School,Yes,5.0,80.1,78.5
+STU2635,16,Male,3.0,6.2,2.8,81.4,Yes,No,No,PhD,No,4.0,52.1,75.9
+STU2578,15,Male,5.9,6.6,4.4,77.4,Yes,No,Yes,High School,Yes,7.0,53.6,84.1
+STU2758,18,Male,6.0,5.2,1.8,85.8,Yes,Yes,No,High School,No,7.0,85.3,97.3
+STU2058,15,Female,1.4,6.8,5.4,92.1,Yes,Yes,No,Bachelors,Yes,10.0,89.1,77.0
+STU2504,18,Male,1.7,7.8,3.9,76.3,No,Yes,No,High School,Yes,9.0,71.3,65.9
+STU2727,15,Female,2.7,6.5,1.6,78.0,No,No,No,High School,Yes,4.0,80.2,78.9
+STU2048,15,Female,4.0,7.1,3.6,97.7,No,Yes,No,Bachelors,Yes,5.0,84.2,94.1
+STU3067,17,Male,3.9,6.2,4.3,91.3,No,Yes,No,Bachelors,Yes,7.0,59.6,84.1
+STU2042,15,Male,3.1,5.0,2.0,74.2,Yes,No,No,High School,Yes,5.0,53.9,70.5
+STU3295,18,Female,3.1,8.4,3.3,74.6,Yes,Yes,No,High School,Yes,8.0,65.2,61.1
+STU3317,18,Male,2.4,5.8,3.5,96.6,No,Yes,No,Bachelors,Yes,5.0,45.7,75.5
+STU2362,18,Male,2.2,6.6,4.2,99.7,Yes,No,No,High School,Yes,3.0,54.3,78.7
+STU2552,17,Male,3.4,6.4,4.4,88.2,Yes,No,No,Masters,Yes,7.0,63.2,75.8
+STU2126,18,Female,4.2,7.7,3.9,93.7,Yes,Yes,No,High School,Yes,6.0,53.6,73.8
+STU3328,16,Male,3.6,5.3,3.9,83.3,No,No,No,High School,Yes,10.0,58.1,72.1
+STU2896,15,Male,1.3,7.0,1.6,75.3,No,No,No,Masters,Yes,8.0,89.7,87.5
+STU2574,15,Male,1.8,8.2,1.1,91.6,No,Yes,No,Masters,Yes,7.0,75.1,84.7
+STU3119,18,Male,4.6,8.0,0.0,89.7,Yes,Yes,Yes,Masters,Yes,5.0,79.9,95.4
+STU2312,16,Male,4.6,9.6,3.9,100.0,Yes,No,Yes,Masters,Yes,8.0,71.4,100.0
+STU2905,16,Male,2.4,6.5,4.3,88.5,Yes,No,No,Masters,No,6.0,58.1,68.4
+STU3437,15,Female,3.0,5.5,1.8,64.8,Yes,Yes,No,Masters,Yes,4.0,79.2,69.0
+STU2301,15,Male,4.7,8.3,3.7,76.4,No,No,No,Masters,Yes,7.0,67.2,85.0
+STU3015,18,Male,2.8,6.6,2.6,72.4,No,No,No,PhD,No,7.0,64.0,70.1
+STU2119,17,Male,0.6,5.1,3.8,71.4,No,Yes,Yes,Masters,Yes,6.0,73.9,61.6
+STU2287,17,Male,2.6,6.6,5.0,100.0,Yes,No,No,Bachelors,Yes,7.0,85.8,82.1
+STU2539,15,Female,3.0,5.1,2.0,92.1,No,Yes,Yes,Bachelors,Yes,7.0,68.0,83.8
+STU3208,17,Male,2.5,6.7,3.6,81.5,No,Yes,Yes,High School,Yes,4.0,91.2,86.7
+STU2603,17,Female,5.9,6.8,1.2,85.3,No,No,No,Bachelors,Yes,3.0,74.4,99.6
+STU2615,15,Female,3.3,8.0,2.5,72.2,Yes,No,No,PhD,Yes,3.0,53.3,79.7
+STU3367,18,Male,3.1,6.9,6.3,64.0,No,No,Yes,Masters,Yes,6.0,50.3,68.9
+STU2030,18,Female,3.2,8.8,3.7,96.6,No,No,No,,Yes,5.0,92.0,88.0
+STU3495,18,Male,4.1,8.4,2.5,98.1,Yes,Yes,No,Bachelors,Yes,6.0,70.0,89.6
+STU2855,17,Male,3.6,5.5,0.0,70.3,No,No,No,Bachelors,Yes,5.0,76.0,80.5
+STU2201,18,Male,5.3,7.3,2.8,100.0,No,Yes,No,Masters,Yes,5.0,53.4,95.1
+STU2357,16,Male,5.0,4.9,5.9,80.8,No,No,No,High School,Yes,9.0,69.2,89.7
+STU2763,15,Female,2.4,6.5,3.2,100.0,Yes,No,No,High School,Yes,5.0,78.7,81.4
+STU2064,15,Male,0.3,6.6,2.1,82.4,No,Yes,No,High School,Yes,4.0,66.1,59.1
+STU2642,17,Female,3.8,6.1,2.6,73.6,Yes,No,Yes,Bachelors,Yes,10.0,100.0,92.8
+STU2841,15,Male,4.1,8.5,1.8,78.0,No,No,No,Bachelors,Yes,5.0,70.3,100.0
+STU2178,16,Male,7.2,9.1,0.8,91.9,No,Yes,Yes,Bachelors,Yes,5.0,67.0,100.0
+STU2709,17,Female,6.0,7.0,1.6,94.7,No,No,No,Bachelors,Yes,5.0,62.8,91.4
+STU2228,18,Male,3.0,6.7,3.6,85.6,Yes,Yes,No,High School,Yes,4.0,68.7,71.2
+STU3240,17,Male,3.6,5.2,2.0,86.7,No,Yes,No,Masters,Yes,4.0,74.5,94.9
+STU2080,18,Male,4.5,5.9,4.8,75.6,No,No,No,Bachelors,Yes,5.0,78.9,72.1
+STU2778,18,Male,4.0,7.1,4.4,75.7,No,Yes,No,High School,No,4.0,86.3,87.0
+STU2990,16,Female,4.5,6.4,0.4,63.3,No,No,No,Bachelors,Yes,6.0,57.8,77.6
+STU2464,18,Female,6.0,7.2,5.1,85.3,Yes,No,No,High School,Yes,4.0,74.5,85.5
+STU3298,16,Female,3.0,6.3,4.1,84.3,Yes,No,No,High School,Yes,8.0,83.8,87.7
+STU2327,15,Female,3.7,6.8,0.1,81.7,No,Yes,No,Masters,Yes,6.0,69.8,82.7
+STU3332,17,Female,2.2,6.6,1.4,67.5,Yes,Yes,No,High School,Yes,8.0,78.1,67.0
+STU2284,15,Male,1.9,7.3,3.1,64.8,No,No,No,Masters,Yes,6.0,67.7,66.8
+STU2889,18,Female,3.4,5.2,2.0,90.5,No,Yes,No,High School,Yes,3.0,91.0,91.6
+STU3171,15,Female,2.3,6.7,6.4,78.5,Yes,No,No,Bachelors,Yes,5.0,75.8,54.9
+STU2671,17,Female,2.6,5.6,3.6,100.0,No,No,No,High School,Yes,2.0,57.6,82.7
+STU3250,18,Female,4.2,8.5,4.5,100.0,No,Yes,No,Bachelors,Yes,4.0,76.2,99.9
+STU2209,15,Male,1.4,6.4,3.3,72.9,No,Yes,Yes,High School,Yes,7.0,65.5,64.1
+STU3241,15,Male,1.6,6.1,2.2,82.6,No,No,No,High School,Yes,3.0,34.6,66.7
+STU2675,16,Female,5.0,7.3,1.4,88.7,No,No,Yes,Bachelors,Yes,5.0,78.8,95.0
+STU2097,16,Male,4.9,7.1,1.8,82.7,Yes,No,No,High School,Yes,8.0,51.7,84.4
+STU2283,16,Male,3.7,5.5,1.4,71.3,Yes,Yes,Yes,Masters,Yes,8.0,72.7,81.6
+STU3040,15,Female,1.5,5.5,2.7,68.1,No,No,Yes,Bachelors,Yes,5.0,61.3,59.7
+STU3225,15,Male,4.3,7.8,3.0,87.6,No,Yes,No,Masters,Yes,7.0,61.1,92.6
+STU2597,15,Male,3.9,8.7,5.5,93.9,No,No,No,High School,Yes,7.0,45.8,73.5
+STU3014,18,Male,3.9,4.9,5.8,68.3,No,No,No,Bachelors,Yes,8.0,72.2,70.8
+STU2840,16,Male,2.9,7.0,0.0,85.7,No,Yes,No,Masters,No,3.0,74.6,82.6
+STU3124,16,Female,5.3,5.6,1.2,61.4,No,Yes,No,Bachelors,Yes,1.0,69.3,90.1
+STU2985,15,Male,1.7,5.9,3.3,89.2,Yes,Yes,No,Bachelors,Yes,7.0,69.8,64.8
+STU3436,17,Male,5.1,9.4,2.8,100.0,Yes,No,No,PhD,Yes,3.0,61.0,91.5
+STU2623,17,Male,4.4,7.3,3.3,94.4,No,No,No,High School,Yes,9.0,78.8,87.4
+STU3322,16,Male,4.0,6.8,4.0,83.0,No,No,Yes,,Yes,6.0,77.1,88.7
+STU2930,15,Male,4.0,,2.5,86.6,No,Yes,No,Masters,Yes,5.0,75.7,89.7
+STU2614,17,Male,4.2,5.5,3.2,91.7,Yes,Yes,No,Bachelors,Yes,4.0,83.5,98.2
+STU2361,15,Male,3.2,6.1,3.4,88.7,Yes,No,No,Bachelors,Yes,3.0,57.7,78.3
+STU2884,17,Male,2.9,6.3,4.9,75.9,Yes,Yes,Yes,High School,Yes,2.0,76.9,67.8
+STU3006,17,Male,2.3,4.5,6.2,100.0,No,No,Yes,Bachelors,Yes,1.0,83.4,79.6
+STU3218,16,Female,5.5,6.8,2.9,93.9,No,Yes,No,High School,Yes,5.0,71.5,93.6
+STU2335,17,Male,5.1,7.6,4.6,77.6,Yes,Yes,No,Masters,Yes,8.0,51.6,73.9
+STU2132,17,Female,1.7,7.8,6.9,84.4,No,No,No,Masters,Yes,4.0,75.5,66.1
+STU3242,15,Male,4.0,7.2,2.7,58.5,No,Yes,No,Bachelors,Yes,6.0,66.4,72.7
+STU2353,17,Male,3.6,4.0,3.5,75.1,Yes,No,No,,Yes,5.0,50.3,69.5
+STU2072,16,Male,1.7,7.7,3.7,99.3,Yes,No,No,Masters,No,6.0,56.6,66.0
+STU2548,17,Male,2.4,8.1,4.1,94.7,Yes,Yes,Yes,High School,No,4.0,67.9,87.7
+STU2143,15,Female,0.9,7.9,2.0,82.8,No,Yes,No,High School,Yes,9.0,51.4,61.9
+STU2689,15,Male,3.0,8.2,3.9,80.7,No,No,No,Bachelors,Yes,3.0,74.8,78.2
+STU3315,15,Female,4.7,6.5,2.6,89.0,No,Yes,No,Bachelors,Yes,5.0,57.8,93.1
+STU2799,17,Male,0.0,6.3,6.1,74.3,No,Yes,No,Masters,Yes,8.0,68.9,46.4
+STU3239,16,Male,3.7,7.9,1.3,85.7,No,No,No,High School,No,4.0,62.3,82.1
+STU2380,17,Female,4.7,5.7,2.8,82.0,No,No,Yes,High School,Yes,3.0,58.6,84.6
+STU3083,16,Female,4.8,6.1,4.2,78.8,No,No,No,,Yes,5.0,59.3,69.2
+STU2289,17,Female,3.4,6.2,1.7,95.1,No,No,No,Bachelors,Yes,6.0,62.8,73.6
+STU2314,17,Female,1.5,,3.0,100.0,No,Yes,No,Bachelors,Yes,3.0,62.2,79.0
+STU2725,18,Female,4.4,6.9,3.1,71.5,No,Yes,No,High School,No,6.0,76.9,84.9
+STU3308,15,Male,3.2,7.6,2.5,94.9,Yes,Yes,No,High School,Yes,4.0,96.8,89.7
+STU2981,17,Male,2.6,6.2,2.8,73.4,No,Yes,No,High School,Yes,3.0,67.7,74.1
+STU3366,15,Female,5.0,7.7,2.6,81.1,No,Yes,No,,Yes,8.0,68.8,93.2
+STU2499,17,Female,2.7,8.7,4.3,81.0,No,No,No,Masters,Yes,5.0,50.1,67.8
+STU2334,15,Female,1.9,7.3,3.7,78.2,No,Yes,No,Bachelors,Yes,5.0,61.6,68.4
+STU2208,18,Female,5.8,6.6,3.8,94.1,No,Yes,No,PhD,Yes,7.0,71.9,93.5
+STU2703,15,Female,1.8,10.0,3.0,100.0,No,No,Yes,,Yes,5.0,65.5,93.1
+STU2407,15,Female,4.9,7.6,2.6,82.7,Yes,No,No,High School,Yes,2.0,87.6,95.2
+STU3063,18,Male,2.9,10.0,5.4,87.5,No,Yes,Yes,Bachelors,Yes,10.0,58.4,79.0
+STU2626,18,Female,2.9,8.3,0.0,98.0,Yes,No,No,PhD,Yes,10.0,85.1,80.7
+STU3051,18,Male,4.6,4.5,0.4,85.8,No,No,No,High School,Yes,6.0,67.4,80.0
+STU2888,18,Female,0.4,6.0,3.4,65.3,Yes,No,No,Masters,Yes,6.0,63.1,55.9
+STU2154,18,Female,3.9,6.9,3.0,84.9,No,No,No,High School,Yes,7.0,37.6,83.0
+STU2880,18,Female,3.2,8.2,3.8,88.4,No,No,No,Masters,Yes,8.0,74.9,86.7
+STU2175,17,Female,4.3,8.0,4.5,93.1,No,No,No,Bachelors,Yes,4.0,44.1,85.0
+STU2007,18,Male,4.0,6.6,4.4,96.1,Yes,No,No,High School,Yes,7.0,86.5,91.0
+STU3140,18,Female,3.0,6.6,1.6,85.2,Yes,Yes,No,High School,Yes,10.0,68.1,68.6
+STU3354,16,Male,1.5,7.7,2.4,87.0,No,No,No,High School,Yes,7.0,71.2,69.4
+STU3300,15,Male,4.7,7.0,1.5,81.2,No,No,No,Masters,Yes,5.0,98.9,97.2
+STU2152,15,Female,7.3,6.9,3.4,79.0,Yes,No,No,Bachelors,Yes,2.0,73.5,100.0
+STU3370,17,Male,3.6,6.9,3.6,91.0,Yes,No,No,High School,Yes,3.0,44.6,73.2
+STU2980,15,Male,2.9,8.4,4.3,80.2,No,Yes,No,Masters,No,10.0,41.9,70.1
+STU2707,17,Female,1.6,8.7,2.5,74.3,Yes,Yes,No,Bachelors,Yes,2.0,61.4,70.2
+STU2238,16,Female,3.4,7.1,3.2,73.0,No,No,Yes,Masters,No,6.0,59.6,76.1
+STU2359,17,Male,3.6,6.7,1.9,80.9,No,Yes,No,Bachelors,Yes,6.0,51.4,67.5
+STU2078,16,Female,3.4,,3.3,88.0,No,No,No,High School,Yes,3.0,78.0,79.9
+STU2227,17,Female,1.1,6.0,4.0,90.9,No,No,No,Masters,Yes,4.0,82.6,76.7
+STU2596,16,Female,1.3,7.4,1.8,78.1,No,No,Yes,Bachelors,Yes,6.0,78.0,75.7
+STU3477,15,Male,1.3,7.4,1.4,78.6,Yes,Yes,No,PhD,Yes,3.0,65.8,77.0
+STU2116,15,Female,7.0,5.9,2.6,95.4,No,No,No,Bachelors,Yes,9.0,55.2,93.4
+STU2323,16,Male,3.8,8.2,1.9,57.0,No,No,Yes,High School,Yes,8.0,71.7,77.3
+STU2146,15,Female,1.1,8.1,3.6,83.8,Yes,Yes,Yes,Masters,Yes,8.0,60.8,61.6
+STU3442,17,Male,2.0,6.6,3.8,89.1,Yes,Yes,No,Bachelors,No,3.0,71.0,85.7
+STU2487,15,Male,1.4,6.4,5.6,90.1,No,No,Yes,Masters,Yes,6.0,93.7,75.0
+STU2173,17,Male,2.1,7.1,3.2,100.0,Yes,Yes,Yes,Bachelors,Yes,7.0,61.4,76.7
+STU2692,15,Female,3.4,6.8,6.6,83.2,Yes,No,Yes,High School,Yes,7.0,74.8,76.3
+STU3148,16,Male,1.1,8.2,3.1,80.1,Yes,No,No,Bachelors,Yes,7.0,61.4,62.5
+STU2046,17,Female,3.0,5.1,6.3,87.0,No,No,No,Masters,Yes,7.0,65.0,56.9
+STU2674,16,Male,5.3,8.3,0.6,97.3,No,No,Yes,Masters,Yes,5.0,89.7,100.0
+STU3288,18,Male,3.5,6.5,3.4,86.5,No,No,No,High School,No,4.0,69.1,79.4
+STU2743,16,Female,4.7,5.8,3.7,70.7,Yes,No,No,High School,Yes,10.0,88.0,81.4
+STU2147,17,Male,2.4,5.6,2.6,88.0,Yes,Yes,No,Bachelors,Yes,7.0,82.2,76.9
+STU2414,15,Male,3.1,3.6,3.0,100.0,No,No,Yes,High School,Yes,2.0,78.1,83.0
+STU2153,18,Female,3.6,4.8,5.0,70.9,No,No,No,Bachelors,Yes,4.0,58.0,66.1
+STU2571,15,Female,3.2,5.9,3.5,90.5,No,No,No,High School,Yes,6.0,73.3,90.7
+STU3362,18,Female,5.0,5.9,5.7,74.9,No,Yes,No,High School,Yes,7.0,67.7,73.1
+STU2427,18,Female,2.8,5.7,2.8,81.3,No,No,No,Bachelors,Yes,5.0,67.8,77.0
+STU2164,17,Male,5.2,4.4,5.3,79.8,No,No,No,Bachelors,Yes,9.0,63.0,73.2
+STU3483,16,Female,3.6,3.6,2.3,83.2,No,No,No,Masters,Yes,5.0,68.5,80.0
+STU2947,18,Male,2.5,4.2,5.2,83.9,Yes,No,No,Bachelors,Yes,2.0,73.2,67.9
+STU2631,17,Male,3.1,7.6,3.5,82.6,No,No,No,Bachelors,Yes,6.0,68.3,87.9
+STU3496,18,Female,5.2,,4.4,71.9,No,No,Yes,Masters,Yes,3.0,90.7,92.4
+STU3493,15,Male,2.8,6.6,4.0,92.7,Yes,No,No,High School,Yes,6.0,65.2,81.2
+STU3278,15,Female,4.4,7.4,4.9,73.1,No,Yes,No,Masters,Yes,5.0,63.1,77.3
+STU2386,18,Male,3.2,7.3,5.7,84.4,No,No,Yes,High School,Yes,8.0,68.3,78.0
+STU2235,16,Female,4.0,6.0,3.9,77.9,No,No,No,Masters,Yes,6.0,42.4,70.7
+STU2122,16,Female,5.4,5.7,2.9,85.7,No,Yes,No,High School,Yes,5.0,64.1,83.4
+STU2095,16,Female,2.2,7.1,1.5,100.0,No,No,No,High School,Yes,4.0,47.4,79.7
+STU2210,15,Female,4.8,6.9,1.9,85.7,No,No,No,Masters,Yes,6.0,69.9,100.0
+STU2045,16,Female,3.0,8.3,5.3,74.5,No,No,No,Masters,Yes,8.0,72.6,81.6
+STU3282,16,Male,3.8,6.9,3.0,83.2,No,Yes,No,Bachelors,Yes,5.0,55.1,75.1
+STU2584,16,Male,3.4,5.8,1.8,73.1,No,No,Yes,Bachelors,Yes,4.0,48.1,74.2
+STU2162,16,Female,2.9,4.8,4.1,95.8,No,Yes,No,Bachelors,Yes,6.0,73.0,87.7
+STU2382,15,Male,2.5,7.7,5.8,90.1,Yes,Yes,No,PhD,Yes,4.0,55.4,79.2
+STU2853,17,Female,4.2,5.4,3.4,75.9,Yes,No,No,High School,Yes,10.0,83.4,72.9
+STU2458,16,Male,26.896718350557073,5.1,0.2,91.1,No,Yes,No,Bachelors,Yes,6.0,58.3,71.9
+STU2702,15,Male,3.1,8.2,1.5,80.6,Yes,No,No,High School,Yes,3.0,56.6,81.6
+STU2982,17,Female,2.2,7.2,0.0,72.6,Yes,No,Yes,Bachelors,Yes,7.0,87.9,88.9
+STU3457,16,Male,2.7,7.2,2.6,97.2,No,No,No,High School,Yes,6.0,75.0,83.3
+STU2720,17,Male,1.6,6.9,4.8,97.5,Yes,No,No,Bachelors,Yes,1.0,74.5,68.1
+STU2859,17,Female,2.5,7.1,4.5,92.0,No,Yes,No,Bachelors,Yes,5.0,64.1,69.1
+STU2190,15,Female,3.4,5.9,2.8,85.3,Yes,No,No,Bachelors,Yes,3.0,54.0,80.6
+STU2565,16,Female,2.8,7.2,3.6,80.7,Yes,No,Yes,Bachelors,Yes,3.0,57.5,63.3
+STU2941,16,Female,2.7,6.2,2.6,79.5,Yes,Yes,No,PhD,Yes,6.0,69.9,79.5
+STU2874,16,Female,2.2,7.1,7.1,93.3,No,Yes,No,Bachelors,Yes,6.0,88.3,77.0
+STU3224,15,Male,4.5,7.2,2.1,72.4,No,Yes,No,Bachelors,Yes,4.0,55.1,88.6
+STU3484,16,Male,0.5,6.8,3.9,100.0,No,No,No,High School,Yes,7.0,66.5,66.1
+STU2168,17,Male,2.8,6.6,4.8,79.7,No,No,No,High School,Yes,7.0,61.6,62.8
+STU2255,16,Male,6.3,6.1,3.6,99.6,No,No,No,Masters,Yes,3.0,75.1,99.3
+STU2091,18,Male,2.2,6.3,2.6,80.2,Yes,Yes,No,High School,Yes,3.0,62.0,79.5
+STU3325,16,Male,4.2,7.2,2.8,66.1,No,No,No,High School,Yes,6.0,81.5,82.4
+STU3022,16,Female,4.8,4.7,8.1,93.2,No,No,No,High School,Yes,10.0,54.5,73.3
+STU2856,15,Male,5.2,7.0,1.4,84.4,Yes,Yes,No,Masters,Yes,6.0,67.6,92.0
+STU2813,17,Male,4.2,7.5,5.2,82.0,No,No,No,High School,Yes,7.0,87.7,84.3
+STU2749,16,Female,2.4,9.7,4.0,82.6,Yes,Yes,Yes,High School,Yes,3.0,69.5,79.7
+STU2581,15,Male,3.0,8.4,2.9,94.2,No,No,No,Masters,Yes,6.0,72.5,96.8
+STU3199,17,Male,2.5,5.5,3.6,92.2,No,Yes,Yes,Bachelors,Yes,5.0,64.1,84.9
+STU2250,15,Male,1.3,7.0,4.8,79.3,Yes,Yes,No,Masters,Yes,5.0,67.0,56.9
+STU2370,18,Male,3.9,7.4,0.9,100.0,Yes,Yes,Yes,Masters,Yes,5.0,53.0,91.0
+STU3420,16,Female,4.0,6.7,5.1,80.2,No,No,No,Bachelors,Yes,5.0,58.9,74.3
+STU2169,17,Female,4.5,7.9,3.0,100.0,No,No,No,Masters,Yes,7.0,73.8,100.0
+STU2073,18,Female,6.2,5.9,3.1,88.6,Yes,Yes,No,High School,Yes,6.0,77.4,92.2
+STU3279,15,Female,5.2,7.4,2.8,87.2,No,No,No,Masters,Yes,4.0,61.3,99.0
+STU2040,18,Male,1.4,4.3,0.0,77.4,No,Yes,Yes,Bachelors,Yes,6.0,92.0,82.8
+STU2768,17,Female,1.1,6.8,1.9,91.0,No,No,No,Bachelors,No,8.0,57.7,67.7
+STU2687,16,Male,5.0,6.2,2.6,100.0,No,No,Yes,Masters,Yes,4.0,72.2,100.0
+STU2393,17,Female,4.1,7.1,1.9,71.5,No,No,Yes,Bachelors,Yes,7.0,81.6,90.8
+STU3312,16,Male,4.8,5.1,1.4,76.7,No,No,No,High School,Yes,8.0,83.3,84.1
+STU2568,18,Male,4.6,6.7,3.5,69.1,No,No,No,Masters,Yes,7.0,76.6,82.9
+STU2943,18,Male,1.5,8.1,0.0,89.8,No,Yes,No,High School,Yes,9.0,73.4,70.4
+STU2423,15,Male,4.0,8.4,1.7,77.0,No,No,No,High School,Yes,4.0,78.5,83.6
+STU2347,17,Female,7.2,6.1,1.2,83.9,Yes,No,No,Bachelors,Yes,7.0,67.6,92.5
+STU2822,17,Male,1.7,5.4,3.2,65.6,Yes,Yes,Yes,Bachelors,Yes,4.0,48.0,64.8
+STU2421,15,Female,2.2,7.1,2.0,79.8,Yes,No,No,High School,Yes,6.0,75.0,75.5
+STU3036,16,Female,2.5,6.4,3.5,88.7,No,Yes,No,Masters,Yes,7.0,79.7,80.4
+STU2600,17,Female,3.4,6.1,5.0,86.7,No,Yes,No,High School,Yes,4.0,74.8,73.7
+STU3132,16,Male,5.9,7.4,3.9,82.2,Yes,No,No,High School,Yes,3.0,71.8,99.2
+STU2747,17,Female,3.6,8.9,3.9,69.7,Yes,Yes,No,Masters,Yes,5.0,74.4,74.2
+STU2833,17,Female,6.4,6.6,4.5,76.4,No,Yes,No,Masters,Yes,6.0,57.3,79.7
+STU2570,17,Female,1.7,8.2,1.7,83.6,No,Yes,No,High School,Yes,7.0,62.5,68.0
+STU3167,15,Male,2.8,6.8,3.1,98.3,No,No,No,Bachelors,No,6.0,75.9,82.9
+STU2296,17,Male,2.2,5.7,3.8,90.9,No,No,No,Bachelors,Yes,4.0,76.3,89.3
+STU3105,16,Female,1.5,5.4,4.5,92.8,Yes,Yes,No,High School,Yes,8.0,68.2,63.2
+STU2115,16,Male,0.9,6.8,3.2,77.4,No,Yes,No,PhD,No,6.0,66.8,76.4
+STU3469,15,Male,3.0,7.2,4.6,90.7,No,No,No,Masters,No,6.0,82.4,87.3
+STU3307,18,Male,1.1,,5.5,84.2,No,No,No,Bachelors,No,6.0,70.9,62.5
+STU2468,17,Female,4.4,6.2,1.4,84.1,No,Yes,No,PhD,Yes,7.0,67.1,100.0
+STU2901,15,Male,4.6,6.6,4.0,93.2,No,Yes,No,Bachelors,Yes,6.0,60.4,84.9
+STU2450,17,Female,5.9,10.0,3.2,88.5,No,Yes,No,High School,Yes,5.0,79.7,100.0
+STU3117,18,Female,3.0,6.5,0.4,77.2,No,Yes,No,Bachelors,Yes,5.0,79.5,71.1
+STU3075,18,Female,4.3,5.4,0.7,79.7,No,Yes,No,High School,Yes,6.0,68.6,74.7
+STU2750,18,Male,4.8,6.6,4.5,68.8,Yes,Yes,No,Bachelors,Yes,5.0,87.3,85.0
+STU2514,18,Female,4.3,6.1,2.7,89.6,Yes,No,No,High School,Yes,6.0,84.4,91.4
+STU2482,18,Male,4.7,5.4,0.8,81.0,Yes,Yes,No,Bachelors,Yes,9.0,54.4,69.3
+STU2951,15,Female,3.2,6.0,5.7,88.2,No,No,No,Bachelors,Yes,6.0,50.6,69.8
+STU2806,15,Male,3.5,5.9,2.9,95.9,No,Yes,No,High School,Yes,3.0,62.6,85.7
+STU3473,18,Male,3.0,6.6,0.0,89.5,No,Yes,No,High School,Yes,5.0,95.8,91.0
+STU2387,16,Male,1.9,8.8,0.0,87.5,No,Yes,No,High School,Yes,5.0,65.4,78.5
+STU2202,17,Female,5.7,7.2,2.0,78.6,Yes,No,No,Masters,Yes,4.0,64.4,90.8
+STU2502,18,Female,4.1,7.6,3.5,93.4,No,Yes,No,High School,Yes,7.0,70.0,94.6
+STU3081,15,Female,1.3,8.4,0.8,92.8,Yes,Yes,No,Bachelors,Yes,6.0,74.7,71.3
+STU3174,15,Male,3.4,6.1,0.5,91.9,No,Yes,Yes,High School,Yes,3.0,50.8,84.7
+STU2953,18,Female,3.6,8.3,4.9,79.2,No,Yes,No,High School,Yes,5.0,78.3,75.2
+STU2109,18,Male,6.0,7.3,3.8,86.5,No,No,No,Masters,Yes,3.0,65.2,96.8
+STU2142,15,Male,2.2,8.7,4.6,73.4,Yes,Yes,No,Masters,Yes,7.0,77.1,78.1
+STU2843,17,Male,6.1,7.1,5.9,75.8,No,Yes,No,Bachelors,No,6.0,66.8,86.4
+STU3343,17,Male,4.9,5.0,3.3,100.0,No,Yes,Yes,High School,Yes,7.0,88.0,100.0
+STU2158,16,Male,4.7,,4.0,84.9,Yes,Yes,No,High School,Yes,8.0,81.3,88.2
+STU3342,18,Male,1.9,7.9,2.1,76.3,No,No,No,Masters,Yes,4.0,62.7,74.9
+STU3189,17,Female,5.7,4.6,4.6,72.0,Yes,No,No,Masters,No,5.0,55.6,74.1
+STU3135,17,Male,4.0,7.6,2.2,89.4,No,No,No,High School,Yes,6.0,64.4,80.5
+STU2214,16,Male,3.3,5.3,3.7,88.3,No,No,No,Bachelors,Yes,6.0,79.7,84.2
+STU3258,17,Male,4.6,8.4,5.8,59.6,No,Yes,Yes,PhD,Yes,2.0,70.4,95.2
+STU3091,17,Male,3.5,6.2,2.0,93.1,No,Yes,Yes,Masters,Yes,5.0,59.6,95.1
+STU3390,16,Female,4.0,6.3,0.3,100.0,No,Yes,No,Bachelors,No,5.0,61.9,88.6
+STU2620,16,Male,2.4,6.6,4.9,100.0,No,No,Yes,High School,Yes,9.0,76.4,86.7
+STU2330,15,Male,2.7,9.0,7.1,77.1,No,No,Yes,Bachelors,Yes,5.0,84.9,77.0
+STU2780,16,Female,4.4,4.1,0.3,100.0,No,No,No,Masters,Yes,5.0,72.0,92.3
+STU2576,17,Male,3.9,7.9,4.1,92.2,No,No,No,High School,Yes,6.0,60.8,75.5
+STU3130,15,Female,3.4,5.4,1.4,79.1,No,No,No,High School,Yes,5.0,55.7,68.8
+STU2428,18,Female,2.2,6.3,3.5,72.4,No,No,No,Bachelors,Yes,6.0,62.8,65.3
+STU2898,18,Male,3.3,7.5,3.8,70.8,No,Yes,Yes,Bachelors,No,6.0,58.6,75.7
+STU2879,17,Female,4.2,5.6,4.3,85.4,No,Yes,No,High School,Yes,3.0,50.0,72.0
+STU2585,15,Male,1.4,7.4,1.1,88.3,No,No,No,High School,Yes,9.0,62.7,72.2
+STU3097,17,Female,5.4,6.1,4.6,98.2,No,Yes,No,Bachelors,Yes,5.0,58.8,93.5
+STU3209,15,Female,2.1,7.7,2.9,99.5,No,No,No,Masters,Yes,4.0,73.4,85.4
+STU2713,17,Male,4.8,5.7,3.6,81.6,No,No,No,Bachelors,No,4.0,66.7,90.6
+STU2837,16,Male,2.4,6.5,3.0,86.8,No,Yes,No,High School,Yes,7.0,68.3,64.7
+STU2447,15,Female,4.4,9.2,1.1,85.5,Yes,No,No,Bachelors,Yes,6.0,63.4,92.6
+STU2804,16,Male,5.4,7.1,1.7,73.0,Yes,No,No,Bachelors,Yes,3.0,76.0,98.4
+STU2667,15,Female,6.1,8.6,4.6,87.4,No,Yes,No,Bachelors,Yes,2.0,60.4,92.5
+STU2824,17,Female,2.4,8.5,5.9,77.0,Yes,Yes,No,High School,Yes,6.0,65.2,77.1
+STU2516,17,Male,4.6,5.2,2.1,79.1,No,No,No,Bachelors,Yes,6.0,67.7,89.8
+STU2563,17,Male,3.2,5.0,3.2,86.4,Yes,Yes,Yes,Bachelors,Yes,2.0,72.9,81.6
+STU2272,15,Female,3.7,6.7,3.8,81.4,No,Yes,No,High School,Yes,4.0,64.1,78.8
+STU3433,16,Female,2.0,5.3,5.3,90.0,No,Yes,No,High School,Yes,6.0,65.4,67.7
+STU2139,18,Female,4.0,7.3,0.7,81.9,No,No,No,PhD,Yes,3.0,64.1,91.3
+STU2740,18,Male,4.1,5.0,2.6,89.5,No,Yes,No,High School,No,9.0,58.4,63.7
+STU2648,15,Male,2.0,6.1,0.0,90.4,No,Yes,No,Masters,Yes,1.0,54.1,76.9
+STU3448,15,Female,3.4,6.5,2.8,92.6,No,No,Yes,High School,Yes,5.0,71.6,84.1
+STU2431,17,Male,4.0,7.4,3.3,86.7,Yes,Yes,Yes,PhD,Yes,6.0,62.4,83.3
+STU3459,17,Male,4.6,6.4,4.1,96.1,No,Yes,No,PhD,Yes,7.0,73.0,96.8
+STU3297,16,Female,3.5,5.9,5.5,95.0,No,Yes,Yes,Masters,Yes,6.0,71.9,93.4
+STU3428,18,Male,5.4,,0.9,86.2,Yes,Yes,No,Bachelors,Yes,6.0,70.1,81.0
+STU2752,17,Male,5.7,7.0,3.1,89.5,No,Yes,No,Bachelors,Yes,6.0,57.3,96.3
+STU3206,18,Male,5.5,7.3,2.9,72.4,No,No,Yes,High School,No,5.0,57.1,72.9
+STU3381,17,Male,5.4,7.7,2.5,75.3,Yes,Yes,No,Bachelors,Yes,3.0,76.0,95.6
+STU3111,15,Female,3.8,6.7,0.9,69.2,Yes,No,Yes,Masters,Yes,3.0,66.4,88.1
+STU3365,17,Male,3.3,6.4,5.7,95.7,No,Yes,Yes,High School,Yes,6.0,65.3,86.4
+STU3272,17,Male,3.6,6.8,3.6,54.5,No,No,Yes,High School,Yes,7.0,73.0,78.7
+STU3053,15,Female,2.9,6.7,6.0,80.6,No,Yes,No,High School,No,5.0,75.0,70.5
+STU3341,18,Male,4.0,5.0,2.7,74.9,Yes,Yes,No,Bachelors,Yes,9.0,57.5,72.2
+STU2128,15,Male,2.9,5.3,1.4,77.5,Yes,Yes,No,High School,Yes,6.0,80.0,78.3
+STU2008,15,Female,2.7,8.6,4.9,85.1,Yes,Yes,No,Bachelors,Yes,7.0,63.0,76.6
+STU2311,15,Male,6.2,,3.3,100.0,No,No,No,Masters,Yes,3.0,71.1,97.3
+STU3221,16,Male,2.2,5.5,3.8,70.8,Yes,No,No,Bachelors,Yes,7.0,52.1,63.9
+STU2526,15,Male,5.3,6.5,3.0,72.7,Yes,No,No,High School,Yes,7.0,75.4,85.2
+STU3080,18,Female,3.4,7.8,1.8,100.0,No,Yes,Yes,Bachelors,No,6.0,65.1,88.4
+STU3079,15,Male,2.6,6.9,5.5,100.0,No,Yes,No,High School,Yes,4.0,58.2,74.4
+STU2206,16,Male,3.8,5.2,3.9,85.8,No,No,No,Masters,Yes,6.0,86.8,82.6
+STU3444,15,Male,2.0,6.9,3.1,77.7,Yes,Yes,Yes,Bachelors,Yes,7.0,63.8,64.6
+STU2846,16,Male,2.7,7.4,0.2,78.2,No,No,Yes,High School,Yes,4.0,66.1,85.1
+STU2919,18,Female,3.1,5.6,4.2,88.1,No,No,No,Masters,Yes,5.0,72.5,85.3
+STU2203,15,Female,3.3,6.5,3.6,84.7,No,No,No,PhD,Yes,4.0,63.8,85.5
+STU2054,15,Female,2.2,7.9,4.9,67.1,Yes,No,No,Masters,No,6.0,69.8,64.5
+STU3121,18,Female,4.0,7.4,4.5,78.6,Yes,No,No,High School,Yes,7.0,45.0,63.6
+STU2488,16,Male,4.7,7.5,3.0,76.9,Yes,No,No,High School,Yes,4.0,66.8,78.1
+STU2540,17,Male,4.0,5.5,4.5,72.5,No,Yes,No,Masters,Yes,7.0,54.5,68.9
+STU3230,18,Male,3.1,7.4,1.3,75.7,Yes,No,Yes,Masters,No,9.0,74.4,81.0
+STU2189,15,Male,3.0,7.9,5.1,100.0,Yes,Yes,No,High School,No,5.0,83.2,77.9
+STU2108,17,Male,6.3,6.5,0.1,87.2,No,Yes,No,Bachelors,Yes,8.0,51.5,97.7
+STU2537,15,Male,3.1,8.9,3.2,79.2,Yes,Yes,No,High School,Yes,7.0,50.8,66.2
+STU2521,17,Male,4.1,5.8,3.4,94.9,Yes,No,No,Masters,Yes,4.0,66.1,86.8
+STU2897,18,Male,2.6,5.5,3.1,80.6,Yes,Yes,Yes,High School,Yes,7.0,49.6,58.7
+STU2550,15,Female,4.1,4.6,3.3,83.2,No,No,No,High School,No,6.0,65.6,77.5
+STU2022,18,Male,3.0,8.7,0.0,81.8,Yes,Yes,No,Masters,No,8.0,67.2,73.4
+STU2376,18,Male,4.3,6.4,3.3,76.9,Yes,Yes,Yes,Bachelors,Yes,4.0,66.5,81.7
+STU2948,17,Female,3.9,6.1,2.1,74.1,Yes,No,Yes,High School,Yes,4.0,73.6,82.3
+STU2594,18,Female,3.1,6.2,4.1,69.7,No,Yes,No,Bachelors,Yes,6.0,65.5,90.3
+STU3350,17,Male,2.4,7.8,4.5,92.8,No,No,No,Bachelors,No,3.0,48.8,82.4
+STU2205,16,Female,2.2,,3.6,82.7,No,Yes,No,Bachelors,Yes,6.0,77.1,74.0
+STU2093,16,Male,1.3,6.1,2.8,86.3,Yes,Yes,No,PhD,Yes,3.0,72.2,66.7
+STU2224,18,Male,3.2,7.8,2.8,89.5,No,Yes,No,Masters,Yes,4.0,79.2,96.6
+STU3306,18,Female,2.5,6.6,1.5,90.7,Yes,Yes,No,High School,No,4.0,84.2,79.1
+STU3077,15,Male,3.4,5.9,2.7,91.0,No,Yes,Yes,Bachelors,Yes,5.0,77.4,88.7
+STU3256,18,Female,3.5,5.3,4.3,88.2,Yes,Yes,No,High School,Yes,5.0,41.0,69.4
+STU3134,15,Male,0.8,8.2,3.9,83.5,No,No,No,Bachelors,Yes,1.0,88.3,65.7
+STU2440,15,Male,3.4,5.8,2.0,93.0,Yes,No,No,Bachelors,Yes,6.0,66.0,72.0
+STU2588,16,Male,1.9,7.7,2.2,87.5,No,Yes,Yes,High School,No,8.0,53.9,76.2
+STU2877,15,Male,6.0,6.6,4.7,86.7,Yes,No,Yes,PhD,Yes,8.0,92.0,100.0
+STU3068,17,Male,3.4,7.0,1.9,90.1,Yes,No,Yes,Masters,Yes,3.0,73.4,85.2
+STU2745,15,Male,2.6,6.3,2.6,84.7,No,Yes,No,High School,Yes,6.0,93.6,80.9
+STU2092,17,Female,0.9,5.2,5.0,89.0,No,No,No,Bachelors,Yes,7.0,74.6,67.9
+STU2988,15,Male,0.1,7.2,2.3,85.5,Yes,No,No,Bachelors,No,2.0,82.9,69.9
+STU3011,18,Male,4.5,,3.0,100.0,No,Yes,No,Bachelors,Yes,3.0,75.5,100.0
+STU2270,18,Male,2.1,6.8,0.2,80.1,Yes,No,No,Bachelors,Yes,7.0,54.3,52.7
+STU3259,17,Female,5.7,5.2,3.8,79.1,Yes,No,Yes,High School,Yes,6.0,44.4,77.0
+STU3352,16,Male,2.0,7.4,3.7,78.4,Yes,Yes,No,Bachelors,No,3.0,59.1,71.7
+STU2075,15,Male,3.6,8.1,4.2,80.4,Yes,Yes,No,Bachelors,Yes,8.0,69.3,82.0
+STU2971,15,Male,3.9,7.3,4.6,92.3,No,No,No,High School,Yes,7.0,52.1,79.1
+STU3152,17,Female,0.2,3.7,3.3,74.0,No,Yes,No,Bachelors,Yes,2.0,82.7,65.7
+STU3499,17,Male,0.9,7.4,3.1,96.5,No,No,No,High School,Yes,9.0,65.9,64.7
+STU2560,18,Female,5.0,5.8,3.1,97.6,No,Yes,No,Bachelors,Yes,5.0,65.3,100.0
+STU2792,17,Female,3.4,6.1,5.4,77.4,Yes,No,Yes,Bachelors,Yes,6.0,78.8,74.8
+STU3127,15,Male,1.7,6.0,3.7,57.8,No,No,No,Masters,Yes,4.0,76.3,63.4
+STU2904,18,Female,4.2,6.6,1.8,86.4,No,Yes,No,Bachelors,Yes,6.0,71.8,94.2
+STU2246,17,Female,3.2,7.3,2.2,81.0,No,Yes,No,High School,Yes,6.0,82.2,81.4
+STU3391,17,Male,3.9,6.4,0.7,93.3,No,No,No,Bachelors,Yes,7.0,77.6,91.6
+STU3052,17,Female,3.5,6.6,4.8,84.6,No,Yes,Yes,Bachelors,Yes,6.0,69.2,76.3
+STU2469,18,Female,3.5,6.5,3.8,99.5,No,Yes,Yes,Bachelors,No,4.0,77.2,91.3
+STU3498,16,Female,3.8,5.7,2.8,100.0,No,No,Yes,High School,Yes,5.0,57.9,80.6
+STU3384,16,Male,3.8,6.5,1.2,73.4,No,No,No,Masters,Yes,7.0,86.8,92.3
+STU3144,17,Male,3.9,6.4,2.5,100.0,Yes,No,No,Bachelors,Yes,9.0,75.7,72.4
+STU2130,15,Female,3.7,8.5,3.0,100.0,No,Yes,Yes,Masters,Yes,6.0,72.9,100.0
+STU3262,17,Male,3.6,,0.8,72.2,No,No,No,High School,Yes,5.0,83.7,84.4
+STU2024,15,Male,4.0,8.6,4.3,58.0,Yes,Yes,No,Bachelors,Yes,8.0,57.2,70.0
+STU2583,15,Male,4.1,8.8,6.4,84.7,No,No,Yes,Bachelors,Yes,4.0,63.1,90.9
+STU2391,17,Male,0.0,6.3,2.4,100.0,No,No,No,Bachelors,Yes,5.0,79.2,68.4
+STU2719,16,Female,0.7,5.1,0.9,64.0,No,Yes,No,Bachelors,Yes,1.0,64.0,62.2
+STU3170,17,Male,4.4,8.4,2.4,91.4,No,Yes,No,Masters,Yes,6.0,49.5,83.1
+STU3378,18,Female,4.3,6.6,0.3,84.3,Yes,No,No,PhD,Yes,3.0,72.1,99.4
+STU2791,18,Male,4.7,6.7,1.8,77.3,No,No,Yes,Bachelors,Yes,3.0,88.1,100.0
+STU2025,15,Male,1.2,6.5,3.8,71.9,No,Yes,No,Bachelors,Yes,5.0,77.6,64.9
+STU2155,16,Male,4.3,7.3,1.5,86.8,No,No,No,Masters,Yes,5.0,72.4,90.9
+STU3439,15,Male,2.4,6.3,3.2,80.0,No,Yes,No,High School,Yes,6.0,88.9,73.6
+STU2542,18,Male,2.2,6.2,4.3,79.5,No,Yes,Yes,Bachelors,Yes,7.0,54.2,66.0
+STU2542,18,Male,2.2,6.2,4.3,79.5,No,Yes,Yes,Bachelors,Yes,7.0,54.2,66.0
+STU2959,15,Female,3.7,4.1,5.4,81.8,No,Yes,No,High School,Yes,6.0,90.2,79.5
+STU2669,18,Female,2.8,4.7,4.8,92.1,Yes,Yes,Yes,Bachelors,Yes,9.0,87.1,90.3
+STU2670,18,Female,3.1,7.3,3.5,85.4,No,No,No,High School,Yes,7.0,59.9,83.3
+STU3126,17,Female,3.7,4.3,1.6,79.6,Yes,No,No,High School,Yes,4.0,71.6,85.3
+STU2677,15,Female,5.7,8.5,3.4,84.8,Yes,No,No,Bachelors,Yes,3.0,61.4,100.0
+STU2445,15,Male,1.0,5.8,2.2,74.9,No,No,Yes,Bachelors,Yes,3.0,84.9,77.5
+STU2685,15,Male,4.5,8.5,3.7,88.6,No,Yes,No,Bachelors,Yes,2.0,71.1,90.4
+STU3356,17,Female,5.6,7.8,4.9,81.9,No,Yes,No,Masters,Yes,8.0,43.7,80.4
+STU2962,15,Female,0.7,5.2,3.0,83.1,No,Yes,No,Bachelors,Yes,7.0,78.1,63.1
+STU2179,16,Male,2.4,6.4,0.8,80.5,No,No,No,Bachelors,Yes,5.0,77.9,77.2
+STU3421,18,Male,3.3,7.3,2.2,100.0,No,Yes,No,Bachelors,Yes,6.0,57.7,83.2
+STU3358,16,Female,0.0,6.5,4.6,83.9,No,Yes,No,Masters,Yes,1.0,65.4,57.1
+STU3494,17,Female,2.9,7.8,6.7,82.5,No,No,Yes,Masters,No,7.0,72.6,72.1
+STU2010,17,Female,3.8,6.2,0.5,90.4,No,No,No,Bachelors,Yes,8.0,60.6,85.3
+STU2354,18,Female,4.3,6.6,0.6,79.7,No,Yes,No,High School,Yes,5.0,64.1,87.0
+STU2067,18,Female,2.7,6.5,2.2,78.2,No,No,No,Masters,No,7.0,51.5,73.6
+STU3385,17,Female,2.6,9.7,3.0,82.3,No,No,No,Bachelors,Yes,7.0,71.8,89.1
+STU2145,16,Female,2.9,7.1,6.7,74.1,No,Yes,No,High School,Yes,6.0,63.1,62.5
+STU3137,16,Male,1.7,7.2,0.6,80.9,No,No,No,Bachelors,No,5.0,66.5,69.4
+STU2415,16,Female,2.9,6.0,2.1,89.8,Yes,No,No,Bachelors,Yes,8.0,60.5,64.0
+STU2913,16,Male,2.5,7.6,2.1,69.7,Yes,No,Yes,Bachelors,No,1.0,50.1,70.1
+STU2506,15,Male,2.8,,3.4,87.8,No,No,No,High School,Yes,8.0,78.6,72.6
+STU2300,15,Female,3.1,7.6,5.9,75.6,No,No,No,Masters,Yes,6.0,60.8,69.8
+STU2523,15,Female,1.7,6.8,2.3,84.9,No,Yes,Yes,Masters,Yes,5.0,53.2,74.9
+STU3468,15,Male,6.1,7.2,4.1,80.2,Yes,Yes,Yes,High School,Yes,7.0,70.5,91.4
+STU3133,18,Female,4.6,8.1,3.7,79.7,Yes,Yes,Yes,Bachelors,No,2.0,71.7,81.0
+STU2437,16,Male,1.5,5.6,1.3,79.4,No,Yes,No,Bachelors,Yes,9.0,76.5,63.2
+STU3168,17,Male,2.7,7.5,4.1,77.9,Yes,No,No,Masters,No,3.0,70.4,72.9
+STU2811,17,Female,4.0,7.8,4.6,91.0,Yes,Yes,No,High School,Yes,7.0,84.4,72.8
+STU2842,15,Male,1.8,9.4,4.0,78.3,Yes,Yes,No,Bachelors,Yes,4.0,67.6,61.9
+STU2138,17,Male,2.3,6.7,3.8,99.6,No,Yes,No,High School,Yes,8.0,66.1,74.7
+STU3233,17,Male,5.4,4.6,4.2,93.1,No,Yes,Yes,High School,Yes,5.0,49.6,85.9
+STU2195,18,Female,3.6,7.0,3.9,76.8,No,No,No,Masters,Yes,10.0,80.9,85.8
+STU3326,17,Male,4.2,6.5,4.4,86.3,No,Yes,No,Masters,No,6.0,74.2,88.2
+STU2449,16,Female,5.1,6.4,2.4,84.5,Yes,No,No,Masters,Yes,9.0,39.7,74.6
+STU3161,16,Female,5.8,5.7,3.1,96.6,No,Yes,No,High School,Yes,5.0,79.8,100.0
+STU3201,15,Male,3.2,6.6,3.5,90.3,No,Yes,No,High School,Yes,2.0,48.6,79.0
+STU2730,18,Female,7.7,9.4,2.8,77.0,No,No,No,Bachelors,Yes,6.0,86.3,100.0
+STU3177,18,Male,2.4,4.9,4.1,91.4,No,No,No,High School,Yes,6.0,83.0,76.0
+STU2174,18,Male,4.5,7.5,4.9,84.2,No,No,No,Masters,No,3.0,81.5,91.7
+STU2222,16,Female,4.0,9.2,4.5,93.6,No,Yes,No,High School,Yes,7.0,68.0,84.7
+STU2254,16,Male,4.5,7.5,6.7,72.3,No,No,No,Masters,No,9.0,72.2,81.6
+STU3380,18,Female,1.2,8.0,0.0,89.6,No,Yes,No,High School,Yes,8.0,73.5,72.9
+STU2385,15,Male,7.9,5.0,2.3,97.6,No,Yes,Yes,Bachelors,Yes,9.0,60.4,100.0
+STU2831,18,Male,3.9,7.1,2.7,100.0,Yes,No,No,High School,Yes,6.0,50.2,82.3
+STU3426,17,Female,2.6,6.0,2.8,82.6,No,No,No,High School,Yes,10.0,43.7,46.4
+STU2825,15,Male,3.0,6.4,3.1,82.8,No,Yes,No,High School,Yes,7.0,61.8,71.0
+STU3481,15,Female,3.1,6.5,1.3,100.0,No,No,No,Bachelors,Yes,5.0,75.1,95.3
+STU2034,16,Female,2.3,8.8,3.5,93.5,No,Yes,No,Masters,Yes,4.0,70.5,83.4
+STU2809,15,Male,4.5,5.8,3.9,93.3,Yes,Yes,No,Bachelors,No,5.0,64.4,89.5
+STU2265,16,Female,1.6,8.3,5.0,81.5,Yes,No,No,Masters,Yes,6.0,59.6,59.0
+STU2557,18,Female,3.2,5.4,1.9,93.6,Yes,Yes,No,,Yes,6.0,82.6,83.7
+STU2089,18,Female,4.8,6.6,2.7,79.1,No,No,No,Bachelors,Yes,2.0,67.7,97.6
+STU2777,17,Male,2.7,7.1,3.5,67.4,No,No,Yes,High School,Yes,2.0,79.0,86.0
+STU3157,16,Female,3.6,7.5,6.6,91.0,No,Yes,No,Masters,No,8.0,74.9,81.6
+STU3065,17,Female,5.6,6.6,5.4,80.4,Yes,Yes,No,High School,Yes,9.0,69.8,91.5
+STU2000,18,Male,3.6,7.3,5.7,79.6,Yes,No,Yes,Masters,No,8.0,55.3,64.5
+STU3185,18,Female,3.1,10.0,2.3,72.8,No,No,No,Bachelors,Yes,4.0,75.8,89.7
+STU2613,18,Male,6.9,9.0,4.5,88.7,No,Yes,No,High School,Yes,6.0,79.5,95.6
+STU2005,18,Female,4.8,7.7,3.3,100.0,Yes,No,No,Bachelors,Yes,6.0,54.4,87.9
+STU2342,16,Female,4.5,6.3,1.3,92.2,No,Yes,No,Bachelors,Yes,6.0,67.2,100.0
+STU2892,15,Male,6.6,6.2,1.9,76.4,No,Yes,No,High School,Yes,4.0,62.7,99.8
+STU2101,18,Female,4.7,4.4,4.4,100.0,No,No,Yes,Bachelors,No,6.0,72.9,88.8
+STU3386,18,Female,3.5,8.0,5.2,100.0,No,No,No,PhD,Yes,4.0,71.2,90.7
+STU2039,15,Male,6.1,4.5,3.4,90.0,No,Yes,No,Masters,No,8.0,57.2,81.4
+STU2528,18,Female,2.9,7.6,2.9,92.1,No,Yes,Yes,Masters,Yes,5.0,74.0,92.2
+STU2665,18,Female,4.2,6.6,3.3,69.7,No,No,No,Masters,Yes,3.0,59.2,81.6
+STU2452,18,Male,3.2,6.1,4.9,100.0,No,Yes,Yes,PhD,Yes,5.0,65.9,88.2
+STU2660,18,Male,6.0,6.5,2.0,74.0,No,Yes,No,PhD,Yes,3.0,71.0,99.9
+STU2124,18,Male,3.1,8.0,3.1,77.1,Yes,Yes,No,Bachelors,No,4.0,57.5,75.5
+STU2177,15,Male,1.6,4.4,3.6,92.3,No,No,No,Masters,Yes,7.0,67.1,61.2
+STU2136,18,Male,2.0,7.4,5.1,86.1,Yes,No,No,Bachelors,Yes,8.0,67.4,70.1
+STU2336,18,Female,3.6,7.4,0.7,77.9,Yes,Yes,Yes,Masters,Yes,6.0,79.2,93.1
+STU2118,17,Male,2.3,4.8,1.6,75.1,No,No,No,High School,Yes,4.0,49.5,65.9
+STU3082,17,Female,1.9,7.4,4.5,89.6,No,Yes,No,,Yes,5.0,75.6,71.3
+STU3407,15,Female,1.6,5.4,2.9,76.3,No,Yes,No,Bachelors,Yes,6.0,77.3,76.4
+STU2505,17,Female,4.7,5.8,5.5,76.8,No,No,No,Bachelors,Yes,5.0,61.9,88.8
+STU3266,16,Male,2.9,8.3,0.8,80.9,No,Yes,Yes,High School,No,5.0,76.2,79.2
+STU2617,18,Female,4.5,7.5,5.7,75.3,No,Yes,No,PhD,Yes,5.0,48.3,79.0
+STU2978,15,Male,2.3,5.9,4.8,96.4,No,No,Yes,High School,Yes,4.0,64.1,69.7
+STU2870,15,Male,2.2,7.6,2.7,79.8,No,Yes,No,PhD,Yes,5.0,60.2,73.9
+STU2192,18,Male,4.2,8.1,3.7,77.9,No,Yes,No,Bachelors,Yes,5.0,72.6,83.7
+STU3406,15,Male,3.4,3.9,4.0,90.6,No,No,Yes,PhD,Yes,5.0,61.5,72.9
+STU3271,16,Female,2.6,5.8,2.0,75.0,No,No,No,Bachelors,Yes,4.0,72.9,80.5
+STU3491,16,Male,0.3,6.8,2.1,93.2,Yes,Yes,Yes,Masters,Yes,8.0,63.6,56.6
+STU2800,15,Male,3.6,6.2,3.9,74.5,No,No,No,Bachelors,No,5.0,67.0,70.4
+STU2135,18,Female,5.5,7.5,2.1,87.3,No,No,No,High School,Yes,5.0,79.7,92.3
+STU2244,16,Female,5.5,7.1,6.6,87.0,No,No,Yes,High School,Yes,8.0,69.1,97.2
+STU2460,16,Female,0.0,7.8,2.5,80.9,No,No,No,Masters,No,3.0,77.2,76.2
+STU2041,16,Female,3.5,8.1,5.7,62.4,Yes,Yes,Yes,PhD,Yes,5.0,79.5,79.1
+STU2723,15,Male,3.1,6.7,4.8,89.4,No,Yes,No,PhD,Yes,6.0,60.9,85.3
+STU2903,17,Male,3.3,8.4,3.3,94.4,No,No,No,Masters,Yes,6.0,62.4,83.7
+STU2636,18,Male,1.7,6.5,2.5,72.3,Yes,No,No,Bachelors,Yes,3.0,57.9,67.0
+STU2358,16,Male,5.0,7.3,4.0,83.6,No,No,Yes,High School,Yes,6.0,71.0,89.3
+STU3142,15,Female,2.3,7.8,1.6,76.0,No,No,Yes,High School,Yes,1.0,95.3,91.6
+STU2297,18,Female,0.0,6.4,5.0,85.4,No,No,No,High School,Yes,6.0,39.8,49.6
+STU2796,18,Female,2.1,7.4,5.5,89.3,Yes,Yes,No,Bachelors,Yes,1.0,53.3,61.5
+STU3414,16,Female,3.2,9.2,2.5,92.2,No,No,No,Masters,No,6.0,63.8,76.4
+STU2517,15,Male,1.8,6.5,5.7,82.1,No,Yes,No,Masters,Yes,1.0,66.9,76.4
+STU2558,16,Male,2.5,4.4,2.8,100.0,No,Yes,No,Masters,Yes,5.0,61.1,84.5
+STU3100,17,Female,3.3,5.3,2.8,72.0,No,No,Yes,High School,Yes,3.0,48.2,77.6
+STU2618,16,Male,3.3,7.3,2.8,81.1,No,Yes,Yes,Masters,Yes,3.0,74.8,84.5
+STU2465,18,Female,3.6,7.8,0.5,77.3,Yes,Yes,No,High School,Yes,5.0,61.7,76.5
+STU2410,16,Male,3.1,,3.8,93.6,No,No,No,Masters,Yes,5.0,58.5,88.4
+STU2921,18,Female,4.0,7.5,2.0,83.2,No,Yes,No,High School,Yes,4.0,85.8,90.3
+STU3257,17,Male,5.0,7.9,2.4,98.6,No,Yes,No,High School,Yes,9.0,54.9,92.2
+STU3061,15,Male,4.0,3.9,5.2,96.7,No,No,No,,Yes,5.0,41.8,62.1
+STU2038,16,Female,4.7,5.4,7.3,93.4,No,Yes,No,Bachelors,Yes,7.0,64.0,74.9
+STU2678,16,Female,7.1,10.0,2.3,73.8,No,Yes,No,High School,Yes,6.0,68.5,91.5
+STU2079,15,Female,2.4,3.0,3.0,83.1,No,No,Yes,Masters,Yes,5.0,62.1,68.9
+STU3318,18,Female,4.8,7.0,1.6,81.5,No,No,No,Bachelors,Yes,7.0,74.8,95.4
+STU2686,16,Female,2.9,7.0,5.3,86.2,Yes,Yes,No,High School,Yes,3.0,87.0,87.9
+STU2491,15,Male,4.6,8.5,2.7,80.0,Yes,No,Yes,Masters,Yes,3.0,92.1,100.0
+STU2527,16,Male,2.3,8.0,0.8,91.5,Yes,Yes,Yes,PhD,No,5.0,70.0,98.5
+STU2911,17,Female,7.3,7.1,1.0,74.5,No,Yes,No,Bachelors,Yes,8.0,90.9,100.0
+STU2759,16,Female,4.2,6.7,3.0,99.9,No,No,Yes,Bachelors,Yes,5.0,76.3,92.1
+STU3293,17,Female,2.7,8.4,2.7,100.0,No,No,No,High School,Yes,5.0,63.5,79.6
+STU2938,16,Female,2.1,6.8,0.9,83.4,No,No,No,High School,Yes,8.0,63.0,55.6
+STU2958,17,Female,4.7,7.1,4.1,87.7,No,Yes,Yes,High School,Yes,5.0,68.5,75.0
+STU3465,18,Male,2.3,8.2,1.0,86.9,No,Yes,No,Bachelors,Yes,6.0,59.1,72.3
+STU2693,18,Male,5.3,8.5,1.2,85.9,No,No,No,Masters,Yes,9.0,51.8,87.7
+STU2902,15,Female,5.0,5.8,0.2,94.6,Yes,No,No,Masters,Yes,4.0,58.1,87.6
+STU2420,17,Male,1.4,7.7,4.6,95.5,No,Yes,No,High School,Yes,5.0,80.8,72.1
+STU3194,16,Female,3.5,3.6,3.6,82.1,No,No,No,High School,Yes,6.0,74.1,78.6
+STU2472,16,Female,4.1,4.6,3.6,86.6,No,Yes,No,,Yes,7.0,85.6,81.8
+STU3349,18,Male,1.9,6.9,0.9,88.9,No,No,No,Masters,Yes,6.0,74.1,75.6
+STU3456,15,Female,2.7,5.8,2.7,76.7,No,No,No,Masters,Yes,7.0,66.5,79.6
+STU2590,15,Female,3.6,8.9,2.4,90.8,No,No,No,Bachelors,Yes,5.0,75.4,93.9
+STU3267,17,Male,6.2,5.5,5.9,79.9,No,No,No,Bachelors,Yes,5.0,61.8,96.3
+STU2457,18,Male,4.2,6.1,0.9,76.7,No,No,No,High School,Yes,6.0,65.3,76.5
+STU2766,16,Female,4.9,8.1,1.6,77.8,No,No,Yes,Bachelors,Yes,4.0,50.5,81.7
+STU2111,15,Female,1.0,9.4,3.3,83.5,No,No,No,Bachelors,Yes,6.0,45.3,64.0
+STU2871,18,Male,6.4,5.7,1.8,100.0,No,No,No,Bachelors,Yes,3.0,55.7,98.7
+STU2916,15,Male,4.0,7.0,4.1,78.7,No,Yes,No,PhD,Yes,2.0,77.1,83.5
+STU3122,18,Male,0.0,6.6,2.9,96.6,No,No,No,High School,Yes,6.0,64.9,70.8
+STU2935,16,Male,6.3,6.3,2.6,80.7,Yes,No,No,Bachelors,Yes,8.0,76.8,87.3
+STU2956,18,Male,4.6,5.0,1.4,65.2,No,No,No,Bachelors,Yes,6.0,80.6,83.6
+STU2973,18,Male,2.3,6.5,3.2,82.0,No,No,No,High School,Yes,10.0,61.8,69.2
+STU2102,17,Male,5.5,6.8,4.8,93.4,No,Yes,No,High School,Yes,6.0,62.9,89.7
+STU2454,15,Male,6.1,6.0,1.7,91.8,No,Yes,Yes,PhD,Yes,2.0,58.1,100.0
+STU3237,18,Female,3.7,5.8,6.1,76.3,No,No,No,Masters,Yes,4.0,76.8,69.8
+STU3043,17,Female,4.0,6.3,5.2,69.9,No,Yes,No,Masters,Yes,7.0,56.9,74.7
+STU2663,17,Male,2.8,8.2,2.0,84.2,No,Yes,No,Bachelors,Yes,6.0,72.7,86.0
+STU3482,18,Male,3.5,6.9,1.9,83.2,No,Yes,Yes,Bachelors,Yes,7.0,94.2,98.8
+STU3031,15,Female,2.5,10.0,2.5,67.3,Yes,Yes,No,Masters,Yes,3.0,56.1,80.9
+STU3305,15,Female,4.1,7.3,2.5,87.5,No,No,Yes,High School,Yes,6.0,68.1,89.6
+STU3251,18,Female,3.5,9.0,3.0,94.2,No,Yes,Yes,Bachelors,Yes,6.0,73.3,86.9
+STU2756,16,Male,4.2,4.1,4.9,72.3,No,No,Yes,Bachelors,Yes,7.0,71.3,64.8
+STU3210,16,Female,1.6,5.6,4.9,73.0,No,No,No,High School,Yes,4.0,79.0,67.4
+STU3000,16,Male,3.2,6.3,0.0,82.4,No,No,No,PhD,No,6.0,64.0,84.2
+STU3440,17,Male,3.6,6.4,2.5,73.9,No,No,No,High School,Yes,4.0,88.1,75.7
+STU2931,17,Male,1.7,7.3,4.6,100.0,No,No,No,Masters,Yes,3.0,57.1,70.3
+STU2114,16,Female,4.2,5.9,3.2,87.3,Yes,No,No,High School,No,7.0,79.7,76.2
+STU2068,17,Female,4.1,7.9,1.9,83.5,Yes,Yes,No,High School,Yes,7.0,68.5,84.2
+STU2915,18,Female,5.2,8.5,2.1,82.5,No,No,Yes,High School,Yes,3.0,55.5,95.0
+STU2546,17,Female,0.8,7.4,3.0,76.0,No,No,No,Bachelors,Yes,3.0,66.0,63.7
+STU2717,16,Female,2.5,8.0,1.6,84.3,No,Yes,No,High School,No,5.0,62.5,87.7
+STU3419,16,Male,1.4,7.3,2.6,75.7,Yes,No,Yes,Bachelors,Yes,3.0,77.2,76.2
+STU2726,15,Male,2.9,7.0,5.0,79.1,No,No,No,High School,Yes,4.0,63.4,74.1
+STU2899,18,Female,3.2,6.8,4.2,79.9,No,No,Yes,High School,Yes,4.0,51.1,65.1
+STU2649,16,Male,4.5,6.0,1.3,90.0,No,Yes,No,Bachelors,No,7.0,78.8,94.4
+STU2271,17,Female,4.6,8.0,5.6,84.1,Yes,Yes,No,PhD,Yes,6.0,84.5,86.8
+STU2963,17,Female,1.8,6.3,1.5,88.0,Yes,No,No,High School,Yes,8.0,87.2,71.0
+STU2786,18,Male,3.8,8.4,2.0,82.4,Yes,No,Yes,High School,Yes,3.0,57.9,84.6
+STU2252,17,Male,2.9,8.1,4.0,77.7,No,No,No,High School,Yes,7.0,63.0,68.5
+STU2989,17,Male,4.2,8.2,4.5,54.9,No,No,No,PhD,Yes,3.0,78.0,83.6
+STU2784,16,Male,3.8,6.4,2.9,76.5,No,No,Yes,Bachelors,Yes,10.0,36.4,67.2
+STU3204,17,Male,2.5,7.1,2.6,82.5,No,Yes,No,Masters,No,8.0,68.3,78.0
+STU2134,18,Male,1.3,4.7,3.2,94.1,No,No,Yes,Masters,Yes,5.0,70.9,71.2
+STU3364,18,Male,2.1,7.6,5.5,82.9,No,No,No,Bachelors,Yes,6.0,79.6,79.6
+STU3139,17,Female,2.8,5.0,3.7,82.8,Yes,Yes,No,Bachelors,Yes,2.0,52.6,66.8
+STU3042,17,Male,4.0,6.5,3.3,98.3,Yes,No,No,Bachelors,Yes,7.0,89.1,93.7
+STU2424,16,Male,2.3,7.4,4.5,100.0,No,Yes,No,Masters,Yes,8.0,59.2,78.2
+STU2658,15,Male,1.1,,4.7,93.7,No,No,Yes,High School,No,6.0,67.3,60.8
+STU2127,15,Female,4.7,7.9,4.7,78.6,Yes,No,No,Bachelors,Yes,7.0,60.0,83.9
+STU3422,15,Male,2.7,7.3,7.0,61.5,Yes,No,No,High School,Yes,8.0,81.1,72.0
+STU3377,16,Female,5.3,6.4,2.0,100.0,No,Yes,Yes,Bachelors,Yes,5.0,85.8,100.0
+STU3128,17,Male,4.6,6.6,2.6,89.0,No,No,Yes,Bachelors,Yes,6.0,69.4,92.2
+STU2237,18,Male,3.2,6.7,1.9,83.0,Yes,No,No,High School,Yes,6.0,61.1,80.1
+STU3368,15,Female,1.9,8.1,5.3,100.0,No,Yes,No,High School,No,7.0,64.1,72.1
+STU3102,18,Female,1.3,4.3,3.4,90.9,No,No,No,Masters,Yes,4.0,73.7,74.1
+STU2459,18,Female,3.1,7.7,3.2,84.2,No,No,Yes,High School,Yes,8.0,59.7,83.0
+STU3141,17,Female,3.3,8.1,1.2,87.5,No,Yes,No,Masters,Yes,6.0,60.7,88.9
+STU2055,18,Male,5.0,6.3,0.1,88.7,No,Yes,No,Bachelors,Yes,6.0,64.7,100.0
+STU2769,16,Male,1.6,5.7,3.6,89.0,No,Yes,Yes,High School,Yes,8.0,68.6,63.6
+STU2074,18,Male,3.9,4.6,1.4,81.5,No,Yes,No,High School,Yes,3.0,90.6,95.8
+STU3175,18,Female,0.4,7.0,5.7,66.6,No,No,No,Bachelors,Yes,5.0,63.1,57.9
+STU2105,18,Male,4.5,7.6,3.3,91.9,No,No,No,Bachelors,Yes,5.0,89.2,93.2
+STU2163,16,Female,2.5,4.6,2.2,97.7,No,No,No,High School,Yes,6.0,66.0,76.0
+STU3110,16,Male,1.9,7.6,2.5,82.3,No,No,No,Bachelors,Yes,3.0,69.0,76.9
+STU2957,18,Male,2.3,4.9,3.4,74.1,Yes,Yes,No,Masters,Yes,1.0,83.4,86.5
+STU2955,16,Male,1.9,,3.4,84.5,No,Yes,No,Bachelors,No,2.0,84.4,77.7
+STU3088,18,Female,1.8,6.6,5.4,69.0,No,No,No,Bachelors,Yes,2.0,72.7,78.8
+STU2639,17,Male,0.3,6.3,2.5,100.0,Yes,No,No,Bachelors,Yes,6.0,90.2,77.9
+STU3283,17,Male,0.7,7.9,4.1,90.9,Yes,No,No,Bachelors,Yes,2.0,41.6,49.3
+STU3405,18,Male,6.3,3.6,3.7,91.0,No,Yes,No,PhD,Yes,8.0,62.2,90.9
+STU2518,17,Male,3.5,6.3,3.8,83.6,Yes,No,No,Masters,Yes,3.0,51.2,77.0
+STU3264,16,Female,6.0,5.5,5.6,75.9,Yes,No,No,Bachelors,Yes,3.0,68.1,89.5
+STU2591,15,Male,4.6,6.8,4.8,89.4,No,Yes,Yes,Bachelors,Yes,6.0,58.5,90.0
+STU3009,16,Male,3.1,8.3,4.1,71.3,Yes,No,No,Masters,Yes,5.0,73.4,74.0
+STU2770,15,Male,4.1,4.8,4.3,72.2,Yes,No,Yes,High School,Yes,2.0,77.5,79.2
+STU2412,15,Male,3.1,5.0,3.6,100.0,No,Yes,No,High School,Yes,9.0,74.7,76.5
+STU3432,17,Male,1.8,6.9,1.6,85.4,No,No,No,Bachelors,Yes,3.0,68.1,73.1
+STU2555,16,Female,5.1,7.3,1.8,98.4,No,Yes,No,Bachelors,Yes,5.0,64.9,86.8
+STU2543,18,Male,1.8,7.3,3.8,85.5,Yes,Yes,No,High School,Yes,7.0,71.1,63.9
+STU2933,15,Male,5.2,4.4,3.4,73.5,Yes,No,No,PhD,No,5.0,66.6,87.2
+STU2536,15,Female,5.2,5.6,2.4,72.7,Yes,No,Yes,Masters,No,10.0,67.8,84.9
+STU3087,18,Female,3.1,6.3,3.6,85.4,No,No,No,Masters,Yes,3.0,68.3,89.8
+STU2910,15,Male,2.5,8.5,0.0,87.1,No,No,No,High School,No,6.0,84.9,93.3
+STU3038,18,Female,2.2,6.3,4.1,94.0,No,No,No,High School,Yes,3.0,70.9,68.3
+STU3190,17,Female,4.0,7.3,2.7,88.8,No,No,No,High School,No,7.0,80.8,89.8
+STU2624,18,Male,3.5,5.1,5.2,82.6,No,No,Yes,Bachelors,Yes,9.0,77.5,81.9
+STU2406,17,Female,2.9,6.6,2.8,96.1,No,Yes,No,High School,Yes,7.0,80.4,80.0
+STU3311,15,Male,2.5,7.0,1.3,87.3,No,Yes,No,Bachelors,Yes,2.0,61.7,82.1
+STU2644,16,Female,1.2,8.1,2.0,88.9,No,No,No,Masters,Yes,9.0,74.8,78.1
+STU2863,15,Female,3.8,5.3,3.7,90.1,No,Yes,No,High School,Yes,4.0,44.5,70.9
+STU2141,16,Male,4.2,6.4,6.6,97.0,No,No,Yes,PhD,No,9.0,72.5,93.1
+STU3333,16,Male,4.7,6.8,0.6,94.7,Yes,No,Yes,Masters,Yes,5.0,71.9,100.0
+STU2446,15,Female,3.5,7.2,1.7,97.8,No,Yes,No,High School,Yes,5.0,79.6,97.9
+STU2664,16,Female,3.5,6.5,4.2,73.2,No,Yes,Yes,Masters,Yes,5.0,85.2,86.2
+STU3400,17,Male,4.8,6.6,4.6,68.1,No,Yes,No,Bachelors,Yes,10.0,71.2,82.3
+STU3404,16,Male,4.3,9.2,3.3,81.2,No,Yes,No,Masters,Yes,5.0,41.5,85.3
+STU2771,18,Female,4.4,7.0,3.6,83.2,No,No,No,High School,Yes,5.0,55.1,64.9
+STU2479,18,Male,5.6,7.1,2.8,80.5,No,No,No,Masters,Yes,5.0,74.2,100.0
+STU3104,15,Female,3.5,7.6,4.4,82.1,Yes,No,No,High School,Yes,5.0,83.1,83.5
+STU2579,17,Male,3.1,5.3,3.9,89.4,No,Yes,No,Bachelors,Yes,7.0,67.6,67.3
+STU3353,16,Female,3.9,7.2,4.3,80.8,Yes,No,No,High School,Yes,6.0,63.7,62.7
+STU2261,17,Male,1.8,5.1,2.3,95.7,No,Yes,No,Bachelors,No,4.0,73.4,77.5
+STU2294,18,Male,3.7,7.4,5.8,97.2,Yes,Yes,No,Bachelors,Yes,5.0,64.7,81.5
+STU2721,18,Female,2.5,5.8,4.5,90.8,No,No,Yes,Bachelors,Yes,7.0,65.2,72.1
+STU2914,16,Female,3.7,5.9,4.9,80.3,No,No,Yes,High School,Yes,6.0,73.2,84.3
+STU3198,16,Female,3.7,7.9,5.7,83.1,No,No,No,Bachelors,Yes,7.0,50.2,73.5
+STU3037,18,Male,4.7,6.3,5.2,70.9,Yes,No,Yes,High School,Yes,3.0,69.9,76.6
+STU2969,16,Male,21.782912469925126,6.8,2.2,96.0,Yes,No,No,Masters,Yes,7.0,66.6,91.1
+STU3413,16,Male,4.6,7.3,4.3,97.1,No,No,No,Bachelors,Yes,5.0,64.6,88.6
+STU2159,15,Male,4.9,7.2,4.8,80.6,No,Yes,No,Bachelors,Yes,5.0,56.8,87.4
+STU3379,17,Female,2.0,6.0,3.4,100.0,No,No,No,High School,Yes,3.0,83.3,81.7
+STU2650,15,Male,5.3,6.9,2.4,85.2,No,Yes,No,Bachelors,Yes,4.0,65.5,94.7
+STU2609,15,Male,3.5,,4.7,72.3,No,No,No,High School,Yes,7.0,79.7,85.6
+STU3253,17,Female,2.3,6.6,1.2,88.8,No,Yes,No,Bachelors,Yes,5.0,30.7,69.1
+STU2333,17,Female,5.3,8.6,3.3,87.3,No,Yes,No,Bachelors,Yes,1.0,83.3,100.0
+STU3415,15,Male,3.9,4.0,1.9,62.8,No,No,Yes,High School,Yes,6.0,63.5,76.0
+STU2279,18,Female,2.6,8.1,1.2,78.1,No,No,Yes,Masters,Yes,5.0,64.4,88.3
+STU3029,15,Male,3.5,6.4,3.3,81.6,Yes,No,No,High School,Yes,9.0,74.9,78.7
+STU2698,18,Female,1.5,7.1,6.1,78.6,No,No,No,High School,Yes,5.0,72.5,67.8
+STU3475,18,Male,3.4,6.9,0.0,70.7,No,Yes,No,PhD,Yes,9.0,57.1,82.4
+STU2868,16,Female,3.6,3.8,2.9,78.0,No,No,No,Bachelors,Yes,5.0,63.2,87.7
+STU2629,18,Female,5.3,4.7,0.8,84.7,No,Yes,No,Bachelors,Yes,4.0,70.9,88.0
+STU2533,16,Male,5.8,7.0,5.8,85.1,Yes,No,No,,Yes,6.0,48.1,71.8
+STU3284,15,Female,0.0,6.4,4.5,81.6,No,Yes,Yes,High School,Yes,5.0,64.3,59.6
+STU2736,18,Male,4.8,8.3,4.4,72.0,Yes,Yes,No,High School,Yes,4.0,76.9,97.2
+STU2014,17,Female,2.3,7.2,1.6,78.0,Yes,No,Yes,Bachelors,Yes,9.0,77.0,75.7
+STU2682,16,Male,4.4,7.3,3.2,97.5,No,Yes,No,Bachelors,Yes,6.0,71.4,90.4
+STU2999,16,Male,1.5,7.8,5.0,100.0,Yes,No,Yes,High School,Yes,5.0,62.8,75.0
+STU2392,16,Female,5.8,8.9,3.9,96.1,Yes,No,Yes,High School,Yes,7.0,54.4,93.3
+STU2422,16,Male,3.1,6.1,4.1,82.9,Yes,Yes,No,Bachelors,Yes,2.0,64.8,74.4
+STU3292,18,Male,2.1,5.5,3.7,100.0,Yes,Yes,Yes,Bachelors,Yes,6.0,62.0,75.1
+STU2462,16,Male,5.1,6.4,2.3,78.4,No,Yes,No,High School,Yes,4.0,62.4,87.5
+STU3286,16,Female,2.5,7.9,3.0,77.8,No,Yes,No,High School,Yes,4.0,56.8,70.1
+STU2995,18,Female,3.7,6.5,4.0,88.0,Yes,Yes,No,Masters,Yes,2.0,57.7,93.0
+STU3249,16,Female,4.0,6.1,3.2,100.0,Yes,No,No,High School,Yes,9.0,69.8,84.8
+STU2801,15,Male,4.0,4.4,3.3,78.9,No,No,No,Masters,Yes,7.0,44.7,71.6
+STU3424,15,Male,3.6,5.6,2.8,96.2,No,No,Yes,Bachelors,Yes,10.0,75.2,85.6
+STU3120,16,Male,2.4,7.9,4.9,71.0,Yes,Yes,Yes,Bachelors,Yes,5.0,66.0,60.1
+STU3203,18,Male,5.8,6.9,2.4,91.8,Yes,No,No,Bachelors,Yes,7.0,70.2,97.3
+STU2908,17,Female,2.7,7.1,3.4,91.0,No,Yes,No,Masters,No,7.0,87.6,86.1
+STU2619,17,Female,2.0,7.1,3.8,80.3,Yes,Yes,Yes,Bachelors,Yes,3.0,60.8,73.3
+STU3223,16,Male,3.9,7.0,4.2,79.6,Yes,No,No,Masters,No,7.0,72.3,89.2
+STU3214,17,Female,4.7,8.3,3.5,94.9,No,No,No,High School,Yes,8.0,71.0,97.2
+STU2236,18,Female,3.1,4.5,4.6,90.5,Yes,Yes,No,Bachelors,Yes,8.0,73.9,67.4
+STU2857,17,Male,1.6,6.6,5.6,86.1,No,Yes,Yes,High School,No,6.0,67.1,62.6
+STU2873,15,Female,4.2,6.2,4.4,77.7,No,Yes,No,High School,Yes,4.0,67.4,79.0
+STU2466,17,Male,29.454286431344343,6.7,4.4,89.2,No,Yes,No,Bachelors,Yes,5.0,78.3,83.4
+STU3072,18,Female,3.4,7.0,4.2,85.1,No,Yes,Yes,Bachelors,Yes,5.0,48.1,85.1
+STU2753,17,Female,4.9,9.7,1.8,100.0,No,Yes,No,,Yes,5.0,64.8,100.0
+STU3147,18,Female,2.5,5.5,7.2,92.8,No,No,No,High School,Yes,8.0,58.7,81.1
+STU2882,17,Female,2.6,7.2,3.4,84.9,No,No,Yes,Masters,Yes,6.0,68.8,82.1
+STU2291,15,Female,1.5,7.8,1.8,97.6,No,Yes,Yes,Masters,Yes,4.0,66.1,90.9
+STU2233,16,Female,5.6,7.5,3.1,85.5,No,No,No,Bachelors,Yes,7.0,79.2,100.0
+STU2741,17,Male,3.3,8.1,2.2,100.0,No,Yes,No,High School,No,5.0,59.6,93.7
+STU3443,15,Male,4.0,7.7,4.5,93.6,No,No,No,Bachelors,Yes,7.0,69.9,86.4
+STU2409,17,Male,5.7,5.7,3.3,58.7,Yes,No,No,Masters,Yes,2.0,42.4,84.1
+STU2850,16,Male,3.3,6.1,6.3,91.1,No,Yes,No,High School,Yes,5.0,62.9,75.2
+STU3183,15,Male,2.4,9.0,1.0,72.6,No,Yes,No,Bachelors,No,4.0,53.1,74.9
+STU3488,15,Male,5.4,6.3,4.0,97.0,No,Yes,No,Bachelors,Yes,9.0,70.7,92.8
+STU2319,15,Female,0.7,6.8,4.9,80.0,No,Yes,No,Bachelors,Yes,5.0,84.7,68.1
+STU2742,18,Female,2.8,7.5,4.8,71.1,No,Yes,No,Bachelors,Yes,8.0,70.9,72.0
+STU3212,16,Female,3.6,7.3,5.0,81.3,No,Yes,Yes,High School,Yes,8.0,54.7,73.5
+STU3453,17,Female,2.0,7.2,4.1,90.1,No,Yes,Yes,High School,Yes,5.0,55.3,71.3
+STU3375,17,Male,0.0,6.9,1.9,92.7,No,No,No,PhD,Yes,6.0,68.7,63.0
+STU3136,15,Male,3.8,7.8,3.6,68.6,No,Yes,No,Bachelors,Yes,4.0,76.8,89.8
+STU2049,17,Male,5.0,8.4,3.6,75.4,Yes,No,No,Masters,Yes,7.0,57.6,98.5
+STU2785,16,Male,4.8,5.1,3.3,79.6,No,No,No,High School,Yes,5.0,68.3,85.2
+STU2059,15,Male,2.9,5.7,2.6,62.3,No,No,No,High School,Yes,6.0,79.2,64.0
+STU3217,15,Male,1.6,5.7,3.6,85.3,No,Yes,Yes,High School,Yes,6.0,65.6,62.5
+STU2977,18,Female,2.9,9.2,1.4,80.7,No,No,Yes,Bachelors,No,4.0,80.3,92.5
+STU2461,18,Male,2.9,,5.4,78.3,Yes,Yes,Yes,Masters,Yes,5.0,68.6,74.8
+STU3339,17,Male,2.1,6.0,2.9,75.3,No,Yes,No,High School,Yes,7.0,50.6,60.2
+STU2534,16,Female,2.9,6.2,4.1,90.2,No,No,No,Bachelors,Yes,5.0,48.4,68.3
+STU2628,15,Male,5.8,7.0,3.8,80.5,No,No,No,Masters,Yes,2.0,61.2,88.2
+STU2928,18,Female,4.3,6.4,2.9,75.0,No,No,No,High School,Yes,6.0,73.0,71.5
+STU3303,15,Female,1.2,8.0,1.5,91.5,Yes,Yes,No,Masters,Yes,5.0,60.0,66.4
+STU2950,15,Female,1.4,5.6,2.4,88.7,No,Yes,No,High School,Yes,6.0,47.7,55.8
+STU3020,17,Female,5.2,6.9,3.7,89.1,Yes,No,No,Bachelors,Yes,4.0,84.7,85.5
+STU3329,15,Female,4.2,7.8,0.4,76.8,Yes,Yes,No,Bachelors,Yes,6.0,71.2,90.6
+STU2401,18,Female,3.6,5.3,4.0,89.8,No,Yes,No,Bachelors,Yes,7.0,61.2,67.5
+STU3254,17,Female,2.9,3.8,5.1,75.3,No,No,Yes,High School,Yes,6.0,92.2,75.2
+STU2371,16,Female,3.1,7.2,2.3,86.6,No,No,No,High School,Yes,9.0,65.1,75.1
+STU2399,16,Female,2.8,8.0,6.0,75.8,No,Yes,No,Bachelors,Yes,8.0,59.1,69.2
+STU2984,16,Female,2.6,6.2,3.4,100.0,No,No,No,High School,Yes,7.0,81.3,75.8
+STU3207,18,Male,7.0,7.6,3.9,82.0,Yes,No,No,High School,Yes,4.0,61.4,88.9
+STU3008,16,Male,2.5,,2.1,85.9,No,Yes,No,High School,Yes,8.0,53.7,58.5
+STU3213,18,Male,3.1,6.4,4.8,84.7,No,No,No,High School,No,2.0,91.4,82.4
+STU2037,18,Male,4.0,9.2,2.9,93.1,No,No,No,Bachelors,No,7.0,56.0,85.6
+STU2589,18,Male,0.3,6.6,4.3,91.9,No,Yes,No,High School,Yes,3.0,67.2,71.4
+STU2673,15,Female,0.6,6.6,0.7,84.4,No,Yes,No,Masters,Yes,6.0,60.6,63.7
+STU3085,18,Male,0.7,7.4,1.4,81.0,Yes,No,Yes,PhD,Yes,8.0,73.8,67.0
+STU2106,18,Female,5.7,4.9,1.9,92.8,No,No,No,Bachelors,Yes,6.0,70.2,91.5
+STU2322,16,Female,7.0,6.1,2.6,81.6,Yes,No,Yes,High School,Yes,9.0,65.2,100.0
+STU2351,18,Male,0.3,6.4,2.4,70.1,No,Yes,No,High School,Yes,7.0,84.9,53.3
+STU2356,18,Male,4.7,6.1,2.6,86.0,No,No,Yes,Bachelors,Yes,1.0,69.4,96.3
+STU2835,17,Female,4.3,7.0,2.4,85.1,No,Yes,Yes,High School,Yes,5.0,69.6,91.8
+STU2715,18,Female,4.0,9.0,1.4,100.0,Yes,No,No,PhD,Yes,7.0,82.1,100.0
+STU2251,18,Female,0.9,8.0,0.0,99.9,Yes,Yes,No,Bachelors,Yes,7.0,64.0,67.8
+STU3188,17,Male,3.8,7.1,2.9,81.3,No,Yes,Yes,High School,Yes,7.0,56.9,83.0
+STU3336,15,Male,5.4,7.2,1.0,100.0,Yes,Yes,No,Bachelors,Yes,6.0,75.5,89.6
+STU2847,15,Female,1.8,4.6,4.1,81.6,No,No,No,High School,No,6.0,74.3,65.4
+STU2390,16,Female,2.7,6.4,0.8,90.4,No,Yes,No,PhD,Yes,6.0,40.8,77.8
+STU2443,16,Female,3.5,7.2,2.5,89.0,No,Yes,Yes,Bachelors,Yes,6.0,79.8,89.6
+STU2567,17,Female,2.9,6.5,0.1,57.7,No,No,No,Bachelors,Yes,5.0,48.1,55.3
+STU2215,15,Male,1.1,6.6,3.1,85.7,No,No,No,Bachelors,No,4.0,70.1,73.0
+STU2338,17,Female,5.4,7.5,2.2,89.4,Yes,No,No,Bachelors,No,5.0,78.8,89.8
+STU2794,16,Male,4.0,7.7,2.7,87.8,Yes,No,No,High School,No,10.0,69.4,71.6
+STU3071,17,Female,2.7,8.1,4.1,76.1,No,No,Yes,Bachelors,Yes,5.0,46.9,70.1
+STU2909,18,Male,0.0,8.7,3.7,87.2,Yes,No,No,Masters,Yes,6.0,67.3,61.4
+STU2056,15,Female,2.2,7.4,4.0,94.8,No,Yes,No,Masters,Yes,8.0,66.9,78.2
+STU2668,15,Male,1.6,6.5,2.6,89.4,Yes,No,No,High School,Yes,7.0,73.3,68.7
+STU2632,15,Male,3.9,8.5,3.2,100.0,No,Yes,Yes,High School,Yes,10.0,68.3,84.4
+STU2681,17,Female,4.2,7.2,3.7,89.1,Yes,Yes,Yes,Bachelors,Yes,3.0,62.6,100.0
+STU2803,15,Male,7.2,8.7,3.4,68.2,No,Yes,No,High School,Yes,7.0,73.3,83.9
+STU2181,17,Male,4.1,6.8,2.2,82.9,No,No,No,,Yes,7.0,87.3,100.0
+STU2053,18,Female,3.0,8.0,3.1,100.0,Yes,No,No,Masters,No,3.0,65.5,85.5
+STU3479,15,Female,1.0,5.7,3.1,84.2,No,Yes,No,PhD,Yes,4.0,66.2,56.8
+STU3412,17,Female,4.5,6.4,1.1,85.7,No,Yes,No,High School,Yes,6.0,57.9,88.6
+STU2346,16,Female,2.9,5.7,2.1,92.6,No,No,No,High School,Yes,4.0,75.9,73.5
+STU2231,16,Male,3.7,8.7,3.0,86.6,No,Yes,No,High School,No,8.0,73.0,88.1
+STU2151,16,Male,3.4,6.2,3.1,80.2,No,Yes,No,Masters,Yes,5.0,63.3,79.6
+STU2500,15,Male,1.4,6.9,3.1,90.0,No,No,Yes,High School,Yes,5.0,82.8,73.2
+STU3290,16,Male,3.0,6.5,2.7,100.0,No,No,No,Bachelors,No,5.0,70.2,83.0
+STU2827,15,Female,4.5,7.7,5.7,93.6,No,No,No,Bachelors,Yes,4.0,68.6,86.5
+STU2230,15,Male,1.9,7.0,1.8,97.5,Yes,Yes,No,High School,Yes,7.0,78.6,69.6
+STU2925,15,Female,2.0,5.1,4.2,97.7,No,No,No,Bachelors,No,4.0,56.7,68.4
+STU2524,18,Female,2.9,5.7,1.7,97.4,No,No,No,Bachelors,Yes,5.0,71.0,87.0
+STU3227,16,Male,3.2,6.9,2.1,87.2,No,Yes,No,Bachelors,Yes,5.0,65.6,77.9
+STU2021,15,Female,4.7,7.8,2.9,87.0,No,Yes,Yes,Bachelors,No,7.0,56.2,90.7
+STU2405,17,Female,4.6,5.6,6.0,87.5,No,No,No,Masters,Yes,7.0,69.3,79.2
+STU2257,16,Male,3.9,6.0,2.9,69.8,Yes,No,No,PhD,Yes,6.0,64.1,70.4
+STU2929,15,Female,4.7,9.2,1.5,76.1,No,Yes,No,,Yes,4.0,78.2,95.2
+STU2700,17,Male,6.1,7.0,4.2,98.5,Yes,No,No,High School,Yes,5.0,52.5,83.5
+STU2388,17,Male,3.1,8.2,2.7,90.3,No,Yes,No,PhD,Yes,7.0,62.9,81.4
+STU2694,17,Female,3.7,,2.3,100.0,No,No,No,PhD,Yes,8.0,73.5,79.4
+STU2525,16,Female,5.1,6.8,3.7,71.4,No,Yes,Yes,High School,Yes,2.0,65.1,81.2
+STU3330,18,Female,3.1,6.5,3.2,84.3,Yes,No,No,Masters,Yes,8.0,63.2,84.1
+STU2185,16,Male,4.9,8.5,0.2,72.8,No,Yes,No,PhD,Yes,8.0,68.6,95.2
+STU2942,17,Male,4.4,5.5,4.3,80.4,No,Yes,No,High School,No,7.0,60.6,80.0
+STU2043,17,Male,2.8,6.4,1.4,96.5,Yes,No,Yes,High School,Yes,7.0,66.3,82.4
+STU2473,15,Female,1.9,6.9,5.6,75.3,No,No,No,High School,Yes,9.0,77.2,60.8
+STU2852,18,Male,2.7,5.7,5.1,87.9,Yes,Yes,No,High School,Yes,6.0,77.2,63.1
+STU3314,17,Male,2.9,6.9,4.2,76.0,No,Yes,No,Bachelors,Yes,3.0,54.0,69.7
+STU2340,18,Female,3.9,7.0,3.8,84.0,No,Yes,No,Bachelors,Yes,7.0,67.0,82.2
+STU3263,17,Female,1.0,6.2,3.6,89.2,No,No,No,Masters,Yes,6.0,57.2,59.0
+STU3154,15,Male,2.1,8.8,4.2,85.1,No,Yes,Yes,High School,Yes,3.0,58.1,63.5
+STU3454,15,Female,1.6,7.9,3.0,100.0,Yes,Yes,No,Bachelors,Yes,4.0,44.5,73.4
+STU2960,16,Male,3.8,6.0,3.0,78.8,Yes,No,No,Bachelors,No,3.0,86.3,85.7
+STU3125,16,Female,2.6,6.8,1.4,80.7,No,No,No,Masters,Yes,8.0,64.3,77.6
+STU2315,15,Male,3.9,,3.8,100.0,No,Yes,Yes,High School,Yes,5.0,74.5,88.8
+STU2329,18,Male,1.5,5.9,3.6,92.7,Yes,Yes,No,Bachelors,Yes,7.0,67.5,60.1
+STU2512,15,Male,4.3,5.8,3.5,89.0,No,Yes,Yes,High School,Yes,7.0,76.4,82.6
+STU3497,17,Female,3.1,6.5,5.7,69.8,No,No,No,PhD,Yes,4.0,71.5,81.2
+STU2345,18,Male,4.3,8.4,2.4,75.0,No,Yes,No,Masters,Yes,6.0,76.2,85.8
+STU2832,16,Female,0.0,7.3,3.4,84.6,Yes,No,No,Masters,Yes,5.0,55.3,43.9
+STU2683,17,Female,2.9,5.3,3.8,92.3,No,Yes,No,Bachelors,Yes,6.0,86.4,78.0
+STU3002,17,Male,5.3,7.9,3.2,100.0,No,Yes,No,PhD,Yes,8.0,94.9,100.0
+STU3467,17,Male,3.1,6.8,2.4,81.9,No,No,Yes,High School,Yes,7.0,52.0,84.4
+STU2772,15,Male,2.5,6.6,3.4,65.9,No,No,Yes,Bachelors,Yes,6.0,62.5,67.9
+STU2066,18,Female,2.2,7.6,1.5,98.6,No,Yes,No,High School,Yes,10.0,86.5,85.0
+STU2932,18,Female,0.6,6.6,3.4,72.8,Yes,Yes,Yes,High School,Yes,6.0,44.1,57.9
+STU3461,16,Female,6.2,6.9,2.8,81.4,No,No,Yes,Bachelors,Yes,2.0,45.2,87.9
+STU3376,16,Male,3.9,7.4,3.4,92.8,No,No,No,Bachelors,No,1.0,49.0,92.4
+STU2643,17,Female,3.6,6.3,3.2,80.6,No,No,No,Masters,Yes,6.0,51.0,79.9
+STU3334,16,Male,2.0,7.6,2.7,83.4,Yes,No,No,Bachelors,Yes,6.0,52.3,58.6
+STU2808,15,Male,5.0,7.0,2.7,95.8,Yes,No,No,Bachelors,Yes,8.0,43.9,84.3
+STU2645,15,Female,6.0,,4.3,79.5,No,Yes,Yes,High School,No,5.0,83.6,100.0
+STU2417,18,Male,3.3,,2.2,72.0,No,No,Yes,Bachelors,Yes,5.0,59.0,77.5
+STU3287,18,Male,4.7,6.3,2.7,71.7,No,Yes,No,High School,Yes,4.0,75.9,77.9
+STU3219,16,Female,5.1,5.9,1.9,87.5,Yes,No,No,Bachelors,Yes,8.0,52.1,85.3
+STU2541,16,Female,6.3,6.2,6.6,79.4,Yes,No,No,High School,Yes,5.0,75.8,87.7
+STU3369,15,Female,21.835138311526844,5.2,4.7,97.2,Yes,Yes,No,Bachelors,Yes,5.0,94.7,88.0
+STU2313,18,Female,5.9,6.8,3.5,81.5,Yes,Yes,No,High School,Yes,6.0,76.0,90.9
+STU2306,15,Female,4.6,7.3,4.2,82.8,No,Yes,No,High School,Yes,6.0,59.0,74.5
+STU2940,16,Male,4.5,5.8,2.3,85.3,No,Yes,No,Masters,Yes,7.0,63.1,95.5
+STU2129,18,Male,3.8,4.8,6.0,91.3,No,Yes,No,Bachelors,No,5.0,59.8,74.6
+STU2395,16,Male,4.6,7.9,1.8,76.7,Yes,Yes,No,High School,Yes,6.0,49.1,68.8
+STU3382,16,Female,2.7,8.3,4.2,74.1,Yes,No,No,High School,Yes,8.0,76.4,71.6
+STU2326,15,Female,3.0,5.6,3.7,88.5,No,No,No,PhD,Yes,5.0,72.0,82.9
+STU2191,17,Female,2.9,7.0,3.1,83.7,No,No,No,High School,Yes,4.0,84.3,81.4
+STU2722,17,Female,4.7,5.9,4.0,82.4,Yes,No,No,High School,Yes,7.0,64.0,75.6
+STU3131,17,Male,4.8,7.9,1.0,75.6,No,No,No,Bachelors,Yes,7.0,67.2,92.6
+STU3064,15,Male,2.5,6.4,0.2,94.9,No,No,No,High School,Yes,3.0,78.1,82.0
+STU2993,16,Male,2.3,6.3,4.0,98.6,Yes,No,No,Bachelors,Yes,4.0,72.8,78.7
+STU2920,18,Male,1.7,7.1,4.6,86.9,Yes,No,No,High School,No,6.0,50.5,60.7
+STU2495,18,Female,3.8,6.2,0.6,91.1,No,No,No,Bachelors,Yes,6.0,68.3,82.8
+STU3032,17,Female,4.1,5.7,0.6,65.2,No,Yes,No,High School,Yes,5.0,76.2,77.0
+STU2867,16,Female,4.6,5.8,3.7,91.3,Yes,Yes,No,Bachelors,Yes,4.0,76.3,91.1
+STU2384,18,Female,3.0,3.0,5.6,81.5,No,No,No,High School,Yes,7.0,60.2,72.0
+STU3103,15,Female,4.5,6.7,2.0,99.8,No,Yes,Yes,Masters,No,3.0,83.3,100.0
+STU2652,17,Female,3.3,6.9,2.6,73.3,No,No,No,Masters,Yes,3.0,73.1,90.8
+STU3238,16,Female,6.1,8.2,1.6,80.0,No,Yes,No,Bachelors,Yes,6.0,72.0,92.5
+STU2397,18,Male,1.8,4.4,2.2,58.6,Yes,Yes,No,Bachelors,No,8.0,64.2,52.1
+STU2946,17,Male,2.6,7.6,2.4,87.0,No,No,No,High School,Yes,8.0,70.3,85.5
+STU3116,15,Female,3.8,7.0,4.9,86.5,Yes,Yes,No,Masters,Yes,6.0,58.6,76.5
+STU3485,17,Male,2.1,4.5,2.4,90.7,Yes,Yes,No,Bachelors,Yes,5.0,60.9,63.6
+STU2724,18,Female,2.4,7.0,2.9,79.5,No,Yes,No,High School,Yes,6.0,64.9,63.9
+STU2532,16,Male,5.9,8.4,3.5,80.1,Yes,No,Yes,,Yes,8.0,66.5,95.5
+STU2762,17,Female,5.5,7.7,4.4,68.7,Yes,No,No,Bachelors,Yes,7.0,54.9,82.2
+STU2161,16,Female,3.1,6.0,1.0,91.8,No,No,Yes,Masters,Yes,9.0,43.1,69.4
+STU3246,17,Male,2.5,7.9,1.5,96.9,No,No,No,Bachelors,Yes,7.0,81.7,88.9
+STU2936,16,Male,0.3,,5.1,85.6,No,Yes,Yes,Masters,Yes,5.0,86.4,74.6
+STU3039,15,Male,0.8,7.7,2.1,94.9,No,Yes,No,Bachelors,Yes,7.0,56.6,65.3
+STU3073,16,Male,3.7,7.5,4.4,82.0,No,Yes,No,High School,Yes,5.0,71.5,72.4
+STU3270,18,Male,3.4,7.0,1.9,88.0,No,No,No,Bachelors,Yes,3.0,45.7,76.5
+STU2020,15,Female,2.4,7.7,3.1,68.8,No,No,No,High School,No,8.0,83.8,66.0
+STU2569,17,Female,5.7,6.7,3.6,81.3,No,Yes,No,Masters,Yes,2.0,54.3,82.8
+STU2653,18,Female,2.9,6.1,2.1,69.8,No,Yes,No,Bachelors,Yes,5.0,67.1,71.6
+STU2696,17,Female,0.7,5.9,3.5,93.1,No,No,Yes,Bachelors,Yes,3.0,57.1,64.2
+STU2481,17,Female,5.9,6.3,4.7,64.5,Yes,No,No,PhD,No,6.0,66.8,79.7
+STU2033,18,Male,4.1,9.2,2.3,91.4,Yes,No,No,Masters,Yes,9.0,61.9,91.8
+STU3049,18,Male,3.3,7.9,3.5,70.8,No,Yes,No,High School,No,8.0,74.0,67.1
+STU2047,17,Female,2.4,6.8,2.6,97.5,Yes,No,No,Bachelors,Yes,6.0,37.4,68.7
+STU2029,17,Female,3.1,7.3,4.0,88.4,No,No,Yes,Masters,Yes,6.0,77.0,96.0
+STU3005,18,Male,5.3,6.4,7.6,96.5,Yes,Yes,No,Bachelors,Yes,8.0,59.9,73.7
+STU3106,15,Male,2.1,8.7,5.3,75.9,Yes,No,No,Masters,Yes,6.0,60.7,60.3
+STU3138,15,Male,1.0,8.4,1.4,100.0,Yes,No,Yes,Bachelors,Yes,8.0,68.6,82.8
+STU3277,15,Male,3.0,4.8,0.5,87.6,No,Yes,No,High School,Yes,6.0,59.4,63.6
+STU2510,17,Female,3.1,5.6,1.5,80.9,No,Yes,No,Bachelors,Yes,6.0,62.1,76.3
+STU2530,16,Female,0.5,8.0,2.5,93.0,No,No,No,Masters,Yes,8.0,73.1,69.9
+STU2922,17,Male,5.8,,1.1,90.4,Yes,Yes,Yes,High School,Yes,7.0,100.0,100.0
+STU2501,16,Female,24.276143470948732,7.7,4.3,85.4,No,No,No,Bachelors,Yes,6.0,82.9,74.8
+STU2432,17,Female,2.3,6.6,3.2,88.1,Yes,Yes,Yes,High School,Yes,6.0,71.4,81.7
+STU2253,17,Female,1.9,6.2,2.9,86.5,Yes,Yes,Yes,High School,No,4.0,82.0,71.3
+STU3462,15,Male,3.3,8.2,3.7,99.1,No,No,No,High School,Yes,5.0,81.5,91.3
+STU3372,16,Male,3.2,6.9,1.9,85.5,Yes,No,No,High School,Yes,4.0,70.2,74.1
+STU3216,15,Male,2.6,6.1,1.9,75.1,No,Yes,No,High School,Yes,4.0,78.1,72.6
+STU2779,16,Male,3.5,6.5,3.1,81.2,Yes,No,No,Bachelors,Yes,3.0,73.8,83.5
+STU2366,17,Male,3.9,8.4,5.2,94.3,Yes,Yes,Yes,PhD,Yes,7.0,59.5,93.6
+STU3076,16,Male,4.4,8.1,2.8,67.9,Yes,Yes,No,High School,Yes,8.0,77.6,83.2
+STU3078,15,Male,5.4,7.7,6.6,74.6,No,No,No,Masters,Yes,10.0,51.9,57.9
+STU2680,17,Male,4.7,8.1,0.5,82.9,No,No,Yes,High School,Yes,7.0,62.4,87.6
+STU3205,17,Male,1.6,5.6,0.4,82.9,No,Yes,Yes,Masters,Yes,9.0,48.5,63.0
+STU2812,15,Male,3.9,7.9,1.9,81.6,No,Yes,Yes,High School,Yes,1.0,85.3,89.2
+STU2735,15,Female,6.0,8.0,5.1,87.6,Yes,No,No,Masters,Yes,6.0,57.9,85.3
+STU3048,18,Male,5.0,7.2,4.5,81.0,No,Yes,No,Masters,Yes,7.0,64.9,83.2
+STU2298,15,Male,2.6,6.2,3.5,96.3,Yes,Yes,No,High School,Yes,6.0,78.2,74.9
+STU2556,17,Male,5.6,6.9,0.0,74.5,No,No,Yes,High School,Yes,5.0,45.5,99.7
+STU2575,18,Female,4.9,7.6,4.0,100.0,No,No,No,Masters,Yes,9.0,70.1,91.1
+STU2018,18,Male,3.9,8.0,0.5,89.7,No,Yes,Yes,Bachelors,Yes,3.0,67.5,98.1
+STU2572,18,Male,3.3,7.0,2.3,93.2,No,Yes,No,Bachelors,No,7.0,68.6,86.2
+STU2225,18,Male,5.0,7.5,3.1,80.9,Yes,Yes,Yes,High School,Yes,2.0,60.4,93.5
+STU2599,17,Male,2.7,5.3,1.8,88.8,No,Yes,Yes,High School,Yes,9.0,70.6,78.9
+STU2419,15,Female,3.8,7.3,4.7,81.6,Yes,No,No,High School,Yes,8.0,72.5,73.1
+STU3173,18,Male,2.6,7.5,3.3,98.1,No,Yes,No,Bachelors,Yes,9.0,85.8,78.9
+STU2218,15,Female,1.9,6.4,4.1,92.3,No,Yes,No,Bachelors,No,7.0,68.1,61.3
+STU2307,18,Male,4.3,5.1,3.7,79.3,No,No,No,Bachelors,Yes,5.0,40.5,71.0
+STU2156,17,Female,3.2,6.3,1.0,83.7,No,Yes,No,High School,Yes,2.0,72.9,80.5
+STU2171,17,Male,3.1,5.3,5.1,92.4,No,Yes,No,High School,No,4.0,77.1,73.2
+STU3193,16,Male,1.9,6.4,2.2,68.9,No,No,No,Bachelors,No,9.0,65.8,63.7
+STU2705,18,Female,3.1,8.4,4.3,85.5,Yes,Yes,No,High School,Yes,8.0,53.2,64.7
+STU2286,15,Female,3.8,6.8,2.1,84.2,No,No,No,Masters,Yes,8.0,65.1,78.3
+STU3090,15,Female,3.1,7.4,2.6,80.1,No,Yes,Yes,Masters,Yes,3.0,58.6,85.9
+STU2453,18,Female,6.8,7.9,2.3,100.0,No,Yes,No,Masters,No,8.0,59.7,100.0
+STU3466,16,Female,2.5,4.0,4.5,79.0,No,No,No,Bachelors,Yes,6.0,75.5,71.6
+STU2071,15,Female,4.2,,4.7,100.0,No,No,No,High School,No,5.0,54.1,71.4
+STU2082,18,Male,4.5,6.3,2.1,92.6,No,No,No,High School,Yes,2.0,62.9,84.5
+STU3169,16,Female,2.4,9.1,6.1,88.5,No,Yes,No,Masters,Yes,7.0,71.7,76.5
+STU3452,18,Male,4.3,9.0,2.9,97.6,No,No,Yes,Bachelors,Yes,3.0,80.6,99.0
+STU2015,17,Male,3.4,7.1,1.9,71.8,No,Yes,No,High School,Yes,2.0,96.8,83.8
+STU2535,15,Male,5.6,7.3,4.5,73.3,No,No,No,High School,Yes,6.0,55.2,94.4
+STU3159,18,Male,2.3,6.9,4.8,69.4,No,Yes,No,Bachelors,Yes,5.0,59.8,69.3
+STU2918,16,Female,1.6,7.5,3.9,76.9,No,No,Yes,Masters,Yes,4.0,74.8,89.3
+STU2451,18,Female,4.9,7.2,3.2,81.5,No,No,No,High School,Yes,2.0,74.7,85.6
+STU3156,15,Male,2.1,6.2,4.2,96.9,No,No,Yes,Masters,Yes,7.0,61.1,72.0
+STU2404,17,Female,0.5,7.2,3.6,79.3,No,No,No,Bachelors,Yes,10.0,68.5,62.0
+STU3397,16,Male,5.9,5.7,0.3,63.5,Yes,Yes,Yes,High School,Yes,3.0,80.5,92.0
+STU3355,18,Male,5.0,4.0,2.4,85.6,Yes,No,No,Bachelors,No,4.0,60.9,83.8
+STU2739,17,Male,2.4,6.5,1.7,78.7,No,No,Yes,Bachelors,Yes,9.0,54.9,73.9
+STU2364,15,Female,1.7,6.9,2.4,79.5,No,No,No,Masters,Yes,4.0,64.4,66.2
+STU2104,16,Male,2.3,6.1,3.8,90.3,Yes,No,No,Bachelors,Yes,5.0,70.3,77.5
+STU3403,15,Male,3.6,6.6,1.3,79.2,No,Yes,No,PhD,Yes,8.0,87.3,87.4
+STU3244,18,Female,2.9,9.0,3.9,72.9,No,Yes,No,High School,Yes,6.0,75.3,75.8
+STU2661,15,Male,4.9,5.1,3.9,75.7,No,No,No,Masters,Yes,6.0,69.7,76.6
+STU2241,15,Female,4.3,7.2,4.0,71.0,No,Yes,Yes,Bachelors,Yes,7.0,66.3,81.7
+STU2430,17,Male,6.4,6.4,1.5,97.3,No,Yes,No,High School,Yes,4.0,55.3,99.9
+STU2814,18,Male,2.2,4.8,4.1,87.9,No,Yes,No,Bachelors,Yes,5.0,67.0,71.7
+STU2630,16,Male,5.7,7.5,3.0,82.1,No,No,No,PhD,Yes,7.0,59.4,98.2
+STU2096,16,Male,3.2,7.9,4.4,95.9,No,No,No,Masters,Yes,4.0,75.5,92.2
+STU2467,16,Female,3.1,6.1,1.8,86.5,No,Yes,No,High School,Yes,6.0,60.8,81.9
+STU2084,18,Female,4.4,5.8,2.9,100.0,Yes,Yes,No,Bachelors,Yes,5.0,67.1,88.8
+STU2701,18,Female,6.3,6.9,2.4,74.6,No,No,No,Bachelors,No,6.0,78.2,91.8
+STU2009,16,Female,2.7,6.4,3.9,91.4,No,Yes,Yes,Masters,Yes,6.0,72.3,82.6
+STU2604,15,Male,2.0,5.5,1.2,83.9,Yes,Yes,No,High School,Yes,4.0,63.1,77.2
+STU2878,16,Male,2.7,5.5,2.2,100.0,No,No,No,Bachelors,Yes,3.0,58.7,72.9
+STU2773,17,Female,4.9,7.1,5.2,70.4,No,Yes,No,High School,Yes,5.0,75.9,70.0
+STU3162,18,Male,4.7,,4.1,74.8,No,No,No,Bachelors,Yes,9.0,63.1,80.8
+STU2276,17,Female,4.9,6.1,4.3,91.6,No,No,No,High School,No,6.0,49.6,82.6
+STU2088,15,Male,2.7,5.1,4.7,86.5,No,No,No,High School,Yes,8.0,53.0,56.5
+STU2090,16,Female,5.3,7.1,2.9,94.0,No,No,No,Masters,Yes,5.0,63.8,91.3
+STU2765,17,Female,1.6,7.1,4.9,67.5,Yes,No,No,Bachelors,No,8.0,90.1,67.0
+STU2280,15,Male,2.4,7.4,4.7,68.1,Yes,No,Yes,Masters,Yes,4.0,70.5,72.6
+STU3007,16,Male,1.8,4.8,4.2,84.6,No,Yes,No,Bachelors,Yes,7.0,67.3,59.6
+STU2651,17,Male,3.1,6.6,4.0,78.8,No,Yes,No,Bachelors,Yes,5.0,67.4,86.9
+STU2992,16,Female,2.8,5.3,0.0,60.2,No,No,No,High School,Yes,6.0,76.5,61.3
+STU2365,16,Male,3.5,4.6,2.4,90.7,No,No,No,Bachelors,No,4.0,74.3,82.2
+STU2023,18,Female,6.3,7.0,7.9,85.5,No,Yes,Yes,Masters,Yes,4.0,58.5,89.8
+STU2676,16,Female,4.1,6.3,4.6,83.4,Yes,Yes,Yes,Masters,Yes,6.0,38.5,67.3
+STU2998,15,Male,2.8,6.3,4.3,79.1,No,Yes,Yes,Bachelors,Yes,6.0,50.7,72.3
+STU2310,16,Male,4.0,6.1,2.2,92.7,Yes,Yes,Yes,High School,Yes,7.0,78.7,85.6
+STU3060,16,Female,3.8,5.4,1.4,84.7,Yes,Yes,No,High School,Yes,7.0,66.1,87.0
+STU2640,17,Female,1.5,6.4,5.4,89.5,No,Yes,No,Bachelors,Yes,5.0,80.2,69.6
+STU2240,15,Male,2.3,9.7,4.0,81.8,No,Yes,Yes,PhD,Yes,4.0,61.8,78.3
+STU2666,18,Male,3.4,6.0,3.9,89.1,No,No,No,High School,Yes,6.0,54.8,81.3
+STU3301,17,Male,2.2,6.2,2.3,85.9,No,Yes,Yes,Bachelors,Yes,6.0,74.3,83.3
+STU2098,18,Male,5.0,7.2,0.0,93.5,No,No,No,PhD,Yes,5.0,60.5,100.0
+STU2167,17,Male,2.6,7.6,2.3,66.0,No,Yes,Yes,High School,Yes,6.0,66.7,65.7
+STU2496,16,Male,4.4,8.6,2.2,92.3,No,No,No,Bachelors,Yes,7.0,56.1,93.2
+STU2275,17,Female,2.9,6.9,3.0,87.9,No,No,No,High School,Yes,7.0,64.3,72.7
+STU3113,16,Male,3.4,7.2,3.3,84.1,Yes,No,No,High School,Yes,6.0,36.5,63.2
+STU2714,17,Male,0.7,5.3,2.6,92.2,No,No,No,High School,Yes,6.0,63.8,66.4
+STU3268,17,Female,1.9,5.9,2.4,77.5,No,No,Yes,High School,Yes,3.0,65.3,77.0
+STU2331,18,Female,4.6,6.6,0.7,75.6,No,No,No,Bachelors,No,3.0,68.8,93.2
+STU2219,18,Male,2.0,7.4,1.6,98.6,Yes,No,No,High School,Yes,5.0,40.6,74.6
+STU2433,16,Female,3.5,5.9,4.4,70.8,Yes,Yes,No,High School,Yes,4.0,77.1,85.6
+STU3455,18,Male,3.1,8.7,2.8,93.7,Yes,Yes,No,Masters,Yes,7.0,62.2,75.7
+STU3319,15,Male,2.9,6.0,2.6,74.5,Yes,Yes,No,Masters,Yes,6.0,56.1,65.8
+STU2486,15,Male,4.5,6.7,2.1,78.5,No,No,Yes,High School,No,3.0,58.1,87.3
+STU2531,17,Female,4.5,6.1,3.4,94.8,No,No,No,High School,Yes,6.0,77.1,85.5
+STU3310,17,Female,2.7,8.2,0.9,100.0,Yes,Yes,No,Bachelors,Yes,6.0,49.6,89.0
+STU2260,18,Female,2.4,5.4,1.4,100.0,No,No,Yes,Bachelors,Yes,7.0,65.3,93.3
+STU2810,18,Female,2.7,6.3,2.0,100.0,No,Yes,Yes,Bachelors,Yes,7.0,64.0,78.9
+STU2305,17,Male,4.4,6.4,5.5,87.9,No,Yes,No,High School,Yes,8.0,63.5,72.5
+STU2127,15,Female,4.7,7.9,4.7,78.6,Yes,No,No,Bachelors,Yes,7.0,60.0,83.9
+STU2196,16,Male,2.6,7.9,2.3,82.6,No,No,Yes,Bachelors,Yes,4.0,53.1,77.6
+STU3164,16,Male,6.5,7.3,1.6,81.9,No,Yes,Yes,High School,Yes,3.0,52.6,100.0
+STU3146,18,Female,4.0,6.6,2.9,74.1,Yes,Yes,No,Bachelors,Yes,4.0,78.4,84.2
+STU2494,16,Male,4.6,7.6,0.8,90.1,No,No,Yes,Masters,Yes,9.0,63.4,91.0
+STU2110,15,Female,3.0,6.9,4.5,70.3,No,No,No,High School,Yes,3.0,54.8,60.9
+STU3108,17,Male,1.6,8.2,5.7,85.2,Yes,Yes,No,Bachelors,Yes,5.0,64.4,70.0
+STU2513,16,Female,1.1,6.0,4.5,83.9,No,No,Yes,Bachelors,Yes,4.0,63.1,67.9
+STU2691,17,Female,3.8,5.6,3.5,88.9,No,No,Yes,Bachelors,No,3.0,80.5,100.0
+STU2369,15,Male,3.0,6.4,2.9,62.9,Yes,No,No,High School,Yes,1.0,55.7,60.1
+STU2793,16,Female,4.0,6.1,5.1,79.3,No,Yes,No,Bachelors,Yes,5.0,91.9,85.6
+STU3098,17,Male,4.1,7.7,3.1,77.3,No,No,No,Bachelors,Yes,6.0,91.3,83.5
+STU2926,16,Female,1.4,4.4,1.3,83.6,No,Yes,No,Masters,Yes,8.0,68.9,69.9
+STU2273,16,Male,1.3,7.5,2.4,77.9,Yes,No,No,Masters,Yes,2.0,75.0,70.7
+STU2396,18,Male,2.2,7.8,5.7,62.0,Yes,Yes,No,Masters,Yes,5.0,53.3,55.7
+STU3178,17,Male,4.5,7.1,4.1,93.0,No,Yes,No,Masters,Yes,3.0,66.3,100.0
+STU2898,18,Male,3.3,7.5,3.8,70.8,No,Yes,Yes,Bachelors,No,6.0,58.6,75.7
+STU3215,18,Female,2.2,7.6,5.7,83.6,No,No,No,Bachelors,Yes,7.0,71.5,62.1
+STU2797,17,Female,6.0,4.5,4.3,81.5,Yes,Yes,Yes,Bachelors,Yes,6.0,74.2,82.2
+STU3211,18,Male,3.4,6.5,1.8,86.7,No,Yes,No,Bachelors,Yes,3.0,66.9,83.4
+STU3074,15,Female,5.1,7.4,4.3,81.9,Yes,No,Yes,Bachelors,No,5.0,72.7,100.0
+STU3062,17,Male,5.1,5.5,3.8,74.9,Yes,Yes,No,High School,Yes,9.0,69.2,87.9
+STU2961,18,Male,2.6,7.4,3.6,95.9,No,No,No,High School,Yes,4.0,57.3,76.6
+STU2418,18,Female,5.1,7.1,2.6,89.4,No,No,Yes,Bachelors,No,2.0,68.5,99.2
+STU2375,16,Female,5.1,6.3,3.0,88.3,Yes,Yes,No,Bachelors,Yes,9.0,53.8,78.2
+STU2463,17,Female,3.6,8.1,2.6,89.8,No,Yes,No,High School,Yes,7.0,82.5,91.0
+STU2470,17,Female,5.4,7.1,3.4,82.5,No,Yes,No,High School,Yes,5.0,77.0,94.1
+STU3099,18,Female,2.9,7.1,1.2,99.1,Yes,No,No,High School,Yes,5.0,77.6,89.3
+STU2559,15,Female,6.7,5.7,4.0,77.7,No,Yes,No,Masters,Yes,4.0,68.9,84.1
+STU2302,16,Male,6.8,6.9,4.6,76.7,No,Yes,No,,Yes,5.0,52.3,82.9
+STU2582,17,Female,3.5,3.6,2.7,80.8,Yes,No,No,High School,Yes,6.0,74.9,71.6
+STU2798,15,Male,3.7,6.2,5.1,85.3,Yes,No,No,Bachelors,Yes,5.0,69.5,82.7
+STU2011,18,Male,4.0,6.6,0.0,92.6,No,No,No,PhD,Yes,7.0,55.5,84.0
+STU3274,16,Male,4.4,8.0,1.6,76.2,No,Yes,No,Bachelors,Yes,3.0,59.2,93.4
+STU2538,17,Male,3.6,7.1,2.1,94.3,No,No,Yes,Bachelors,Yes,4.0,66.3,99.0
+STU2627,18,Male,4.0,7.8,2.5,76.8,No,No,Yes,Bachelors,Yes,4.0,67.7,88.7
+STU2281,15,Male,5.0,6.5,1.8,71.0,Yes,No,No,Bachelors,Yes,4.0,67.2,79.8
+STU2983,18,Male,5.1,8.1,1.9,100.0,No,No,No,Bachelors,Yes,4.0,74.2,100.0
+STU3427,17,Male,2.3,6.4,2.4,89.0,No,Yes,No,Masters,No,7.0,71.0,68.0
+STU2223,17,Male,4.5,8.0,5.0,88.0,Yes,Yes,No,Bachelors,Yes,10.0,57.5,82.1
+STU2672,16,Female,4.9,7.3,4.8,83.0,No,No,Yes,High School,Yes,4.0,58.1,76.6
+STU3243,17,Female,4.4,6.7,2.4,89.9,Yes,No,Yes,Masters,No,5.0,79.0,100.0
+STU2966,15,Female,4.6,5.0,5.5,91.5,No,No,No,Bachelors,Yes,6.0,73.3,87.4
+STU3149,18,Male,3.4,6.4,5.0,74.9,No,No,No,Bachelors,Yes,1.0,85.4,84.9
+STU3093,16,Female,2.6,5.8,0.0,77.3,No,Yes,No,High School,Yes,8.0,74.9,67.9
+STU2789,18,Male,5.2,7.4,1.4,64.3,No,No,No,Bachelors,Yes,7.0,65.5,88.9
+STU2994,18,Male,3.7,6.0,0.0,92.9,Yes,No,No,Bachelors,Yes,6.0,87.9,86.1
+STU2580,18,Female,4.4,7.2,1.5,94.3,No,No,No,Bachelors,Yes,4.0,92.1,100.0
+STU3045,16,Female,4.7,6.3,3.9,88.2,No,No,No,Masters,Yes,6.0,66.5,87.2
+STU2077,15,Male,3.4,8.3,3.0,85.6,Yes,No,No,Bachelors,Yes,8.0,75.2,85.7
+STU2547,17,Male,2.1,5.7,3.1,95.3,No,No,No,Masters,No,7.0,82.9,78.4
+STU3414,16,Female,3.2,9.2,2.5,92.2,No,No,No,Masters,No,6.0,63.8,76.4
+STU2748,18,Male,4.7,6.4,1.9,90.7,Yes,No,No,High School,Yes,7.0,88.1,96.5
+STU2826,18,Male,5.2,5.3,0.7,85.0,Yes,Yes,No,Bachelors,Yes,4.0,64.9,93.1
+STU2125,18,Male,0.4,6.4,3.5,68.2,Yes,Yes,No,PhD,No,6.0,71.6,63.0
+STU3252,16,Female,2.5,5.8,5.5,79.5,No,No,No,High School,Yes,4.0,60.9,75.3
+STU2757,16,Male,2.8,7.5,2.8,95.0,No,No,Yes,Masters,Yes,6.0,60.0,86.5
+STU3066,18,Male,2.9,7.0,3.1,86.3,No,Yes,No,Bachelors,Yes,6.0,72.9,78.4
+STU2576,17,Male,3.9,7.9,4.1,92.2,No,No,No,High School,Yes,6.0,60.8,75.5
+STU2621,15,Female,3.9,6.8,5.6,86.7,No,No,No,PhD,No,7.0,78.0,83.4
+STU2767,18,Female,0.8,6.9,4.6,92.9,No,No,No,Bachelors,Yes,7.0,82.6,71.0
+STU3229,15,Male,2.6,7.6,0.0,78.9,No,Yes,No,High School,Yes,5.0,66.2,79.5
+STU2899,18,Female,3.2,6.8,4.2,79.9,No,No,Yes,High School,Yes,4.0,51.1,65.1
+STU3030,15,Male,6.0,6.5,5.3,90.8,Yes,No,Yes,Bachelors,Yes,3.0,75.6,94.5
+STU3371,18,Female,4.2,6.7,2.5,89.9,No,No,Yes,Masters,Yes,6.0,77.5,95.7
+STU2802,18,Female,1.9,6.2,2.0,80.4,No,Yes,Yes,Bachelors,No,3.0,73.2,93.9
+STU2844,16,Female,2.0,6.3,4.6,82.7,Yes,Yes,No,PhD,Yes,4.0,63.3,69.0
+STU3280,16,Female,0.9,7.0,2.9,82.3,No,No,No,High School,Yes,5.0,66.9,67.7
+STU3490,16,Male,3.3,5.2,4.1,56.4,No,No,Yes,High School,No,8.0,72.0,68.9
+STU3302,18,Male,4.0,5.3,2.1,94.2,Yes,Yes,Yes,High School,Yes,4.0,71.2,98.8
+STU2259,16,Male,3.7,8.0,2.4,80.1,No,Yes,No,Bachelors,Yes,5.0,62.8,80.8
+STU2282,18,Female,1.0,7.8,3.4,91.2,No,No,No,PhD,Yes,4.0,75.4,81.2
+STU2634,17,Male,5.0,6.5,5.0,82.1,Yes,Yes,Yes,PhD,Yes,6.0,90.8,90.1
+STU3430,18,Male,3.3,7.1,4.5,97.4,No,Yes,No,PhD,Yes,6.0,78.8,97.2
+STU2474,15,Male,4.4,7.7,4.5,93.3,No,No,No,Bachelors,Yes,4.0,76.7,93.0
+STU2455,15,Male,5.0,6.4,2.6,87.9,No,No,Yes,Masters,Yes,9.0,57.3,86.6
+STU2320,18,Male,0.3,4.2,6.4,78.5,No,Yes,Yes,Bachelors,Yes,9.0,77.7,60.4
+STU2434,17,Female,5.9,8.6,4.1,100.0,No,Yes,No,Masters,Yes,6.0,56.5,99.8
+STU3463,17,Male,6.0,7.7,4.3,77.8,No,Yes,No,Bachelors,Yes,6.0,67.9,83.4
+STU2299,15,Male,2.1,7.7,4.4,91.5,Yes,Yes,Yes,PhD,Yes,9.0,62.3,81.4
+STU2436,17,Male,3.4,6.9,4.0,100.0,Yes,Yes,No,High School,Yes,3.0,79.6,75.3
+STU3383,15,Female,3.1,6.2,0.6,97.4,No,No,No,Masters,No,4.0,70.5,93.7
+STU2438,18,Male,1.0,6.1,4.4,89.8,Yes,No,No,Masters,Yes,7.0,76.8,80.7
+STU2325,17,Female,4.0,6.4,5.4,66.4,Yes,No,No,Bachelors,Yes,6.0,82.1,75.4
+STU2403,15,Male,3.7,,5.5,78.3,Yes,Yes,No,High School,Yes,7.0,64.0,81.1
+STU3289,17,Male,3.5,7.3,4.1,84.4,No,No,No,Masters,Yes,7.0,54.3,80.2
+STU2564,15,Female,5.4,6.3,4.1,98.4,No,Yes,No,Bachelors,Yes,5.0,64.1,89.6
+STU2292,18,Male,3.3,4.6,1.4,87.8,No,Yes,No,Bachelors,Yes,6.0,70.7,85.9
+STU2278,17,Female,1.7,7.2,1.2,84.6,No,No,No,Bachelors,No,6.0,61.3,72.8
+STU2655,18,Female,3.3,6.0,2.5,91.4,No,No,No,Bachelors,Yes,3.0,85.2,83.2
+STU3320,17,Female,4.9,7.1,4.5,81.8,Yes,Yes,No,PhD,Yes,4.0,63.3,92.8
+STU2732,16,Female,4.1,6.6,0.0,86.7,Yes,No,Yes,Masters,Yes,4.0,63.9,89.4
+STU2553,15,Male,3.8,5.9,3.5,89.3,No,Yes,Yes,Masters,Yes,7.0,69.0,77.8
+STU2094,16,Male,1.9,5.6,1.8,77.6,No,No,No,Bachelors,Yes,3.0,61.0,68.8
+STU3434,16,Male,2.0,7.4,4.5,81.0,No,No,No,High School,No,5.0,86.0,77.1
+STU3255,18,Male,3.6,8.4,2.4,99.7,No,Yes,No,Bachelors,Yes,5.0,63.4,98.2
+STU2245,16,Male,6.0,7.8,3.3,73.4,Yes,No,No,Masters,Yes,8.0,70.4,80.5
+STU2945,18,Female,1.7,7.4,5.0,97.9,No,Yes,Yes,Bachelors,Yes,3.0,53.1,76.6
+STU3191,15,Male,5.2,6.5,2.7,83.4,No,No,No,High School,No,6.0,71.4,92.0
+STU2775,17,Female,5.5,7.8,2.7,93.4,No,No,No,Masters,Yes,9.0,43.7,88.8
+STU2426,15,Female,2.0,8.1,4.7,75.3,No,Yes,No,High School,No,7.0,66.3,67.1
+STU3186,15,Female,2.6,7.4,4.1,81.8,No,No,No,High School,Yes,8.0,72.9,83.3
+STU2149,16,Female,3.6,7.9,1.1,81.8,No,Yes,No,Bachelors,Yes,7.0,71.3,83.6
+STU2226,18,Male,5.0,6.9,6.2,86.5,No,No,No,Bachelors,Yes,5.0,78.9,98.1
+STU2865,17,Male,1.1,6.8,2.7,100.0,No,No,No,High School,Yes,8.0,41.0,48.0
+STU2967,17,Female,1.5,6.7,4.5,75.7,Yes,No,No,Masters,Yes,3.0,73.2,66.3
+STU3118,17,Male,6.7,7.2,1.7,97.2,No,Yes,No,Bachelors,Yes,7.0,57.0,100.0
+STU3245,18,Male,3.4,7.5,4.4,94.0,No,No,No,Bachelors,Yes,2.0,67.7,79.3
+STU2900,18,Male,4.4,7.9,2.1,96.0,Yes,Yes,No,Bachelors,Yes,10.0,68.8,84.3
+STU2699,16,Male,3.1,7.4,2.9,75.5,No,No,No,High School,No,7.0,81.2,71.7
+STU2601,17,Male,3.8,,5.9,87.8,Yes,No,No,Bachelors,Yes,6.0,74.6,77.4
+STU3291,17,Female,3.6,6.7,2.7,89.3,Yes,Yes,No,PhD,Yes,3.0,59.0,85.9
+STU3058,15,Female,7.4,6.3,2.4,86.9,No,Yes,Yes,High School,Yes,8.0,66.0,100.0
+STU2217,16,Male,1.7,5.6,3.2,83.5,Yes,Yes,Yes,High School,Yes,5.0,76.4,66.7
+STU3096,17,Female,3.1,7.9,2.2,79.4,No,No,No,Masters,Yes,7.0,35.6,75.7
+STU2817,15,Female,4.1,5.3,3.6,81.6,No,No,No,Masters,No,5.0,77.3,84.9
+STU2220,16,Female,1.1,8.4,3.7,100.0,No,No,No,High School,Yes,8.0,71.4,78.1
+STU2213,18,Male,3.7,6.4,1.0,85.0,No,No,No,Bachelors,Yes,5.0,46.8,79.5
+STU3409,15,Female,4.2,7.7,1.2,83.4,No,Yes,No,High School,Yes,6.0,59.0,87.7
+STU2907,15,Female,4.2,5.8,6.8,92.2,No,No,Yes,High School,Yes,6.0,52.5,64.3
+STU2394,17,Male,2.8,5.7,3.5,63.6,No,Yes,No,High School,Yes,6.0,70.6,62.6
+STU2367,17,Female,0.4,7.6,1.4,79.6,Yes,No,Yes,Bachelors,Yes,4.0,80.7,70.3
+STU2924,18,Male,2.6,8.3,3.5,81.3,Yes,No,Yes,High School,No,4.0,67.5,74.3
+STU2012,15,Female,4.0,,1.5,92.6,No,No,Yes,Bachelors,Yes,8.0,61.3,94.3
+STU3399,15,Female,2.2,8.0,2.4,80.8,No,Yes,No,High School,Yes,5.0,55.1,60.6
+STU3222,16,Male,5.5,7.7,3.8,93.6,No,No,Yes,PhD,Yes,4.0,49.4,100.0
+STU2234,15,Male,6.5,8.0,5.6,83.2,No,No,No,High School,No,6.0,69.1,88.6
+STU2695,17,Male,4.0,4.9,2.5,87.6,No,Yes,No,High School,No,7.0,80.0,86.7
+STU3084,17,Female,3.4,6.3,5.6,75.4,No,No,No,Bachelors,Yes,1.0,85.4,89.0
+STU3425,17,Male,2.3,7.5,4.7,79.3,No,Yes,Yes,High School,Yes,7.0,77.8,77.2
+STU3345,16,Male,0.0,6.9,4.0,89.1,No,Yes,No,High School,Yes,6.0,85.6,63.5
+STU3321,16,Female,2.5,7.5,1.6,79.5,Yes,Yes,No,High School,Yes,3.0,61.2,80.0
+STU2063,15,Male,4.0,7.0,2.2,71.6,Yes,Yes,Yes,Masters,Yes,8.0,76.9,83.2
+STU2734,16,Male,3.3,8.0,3.6,100.0,No,Yes,No,Bachelors,Yes,7.0,74.0,99.2
+STU3023,17,Male,4.8,5.9,5.8,77.5,No,No,Yes,PhD,Yes,3.0,63.6,90.1
+STU2964,16,Female,4.5,6.5,5.8,92.6,No,No,No,High School,Yes,3.0,97.1,94.5
+STU2607,16,Male,2.6,7.3,5.3,81.0,Yes,No,No,Bachelors,Yes,6.0,72.3,77.5
+STU2013,16,Female,1.9,5.5,2.6,100.0,Yes,No,No,Masters,Yes,7.0,83.0,69.9
+STU2839,17,Male,2.5,7.7,3.9,73.8,No,No,Yes,Bachelors,Yes,5.0,63.4,63.5
+STU2435,16,Female,4.5,8.5,5.1,84.7,No,No,No,PhD,Yes,5.0,80.7,89.3
+STU2017,15,Male,5.0,4.7,5.6,64.6,No,No,No,Bachelors,Yes,6.0,63.1,63.6
+STU2764,16,Female,1.8,6.4,3.8,80.5,No,Yes,Yes,High School,Yes,4.0,60.3,60.0
+STU2348,15,Female,3.5,5.6,2.3,84.1,Yes,Yes,No,PhD,Yes,5.0,80.7,91.7
+STU2207,17,Male,4.7,7.4,3.8,81.6,No,No,Yes,Bachelors,Yes,8.0,49.8,84.5
+STU3114,16,Male,2.7,8.0,3.2,90.9,No,Yes,No,Masters,Yes,5.0,73.8,88.3
+STU3331,15,Female,6.4,4.6,4.9,86.9,No,Yes,Yes,Bachelors,Yes,6.0,62.4,90.6
+STU2341,16,Male,4.5,6.2,5.0,76.1,Yes,No,No,High School,Yes,2.0,49.4,72.5
+STU2344,18,Male,5.5,7.0,2.1,100.0,No,Yes,No,High School,No,8.0,63.0,100.0
+STU3360,15,Male,4.9,5.5,1.2,87.6,No,Yes,No,High School,Yes,6.0,53.8,81.0
+STU3392,18,Female,4.9,5.7,4.2,78.0,Yes,No,Yes,Bachelors,Yes,4.0,68.2,81.8
+STU2551,18,Female,5.1,6.2,0.5,95.0,No,No,No,High School,Yes,5.0,49.9,74.1
+STU2598,17,Male,5.0,6.8,1.0,90.3,No,No,No,High School,Yes,2.0,65.3,95.0
+STU2032,15,Female,4.6,7.9,3.9,79.2,No,No,No,Bachelors,Yes,6.0,69.8,90.0
+STU2372,15,Female,1.3,6.3,4.0,98.6,Yes,No,No,Bachelors,Yes,7.0,89.9,68.9
+STU2657,15,Female,1.4,6.6,4.6,75.2,No,No,Yes,Masters,No,8.0,75.2,64.7
+STU2172,15,Male,1.7,5.7,1.4,77.0,Yes,Yes,Yes,Bachelors,Yes,9.0,86.0,81.9
+STU3086,17,Female,3.4,6.2,6.0,94.9,No,No,No,Bachelors,Yes,3.0,71.4,78.8
+STU3402,17,Male,3.4,7.5,3.1,87.8,No,Yes,Yes,High School,Yes,6.0,57.6,84.4
+STU2408,17,Female,3.7,,1.9,76.4,No,No,No,PhD,Yes,5.0,77.6,81.0
+STU3050,17,Female,0.7,6.8,1.2,81.4,No,No,No,Masters,Yes,9.0,52.9,64.3
+STU2727,15,Female,2.7,6.5,1.6,78.0,No,No,No,High School,Yes,4.0,80.2,78.9
+STU2200,16,Male,3.8,6.0,1.2,95.3,No,Yes,No,Masters,Yes,3.0,76.5,85.3
+STU3316,15,Male,3.5,,2.5,80.1,No,No,Yes,Bachelors,Yes,4.0,81.8,79.8
+STU2860,18,Female,2.4,8.6,4.1,77.2,Yes,Yes,No,Masters,Yes,3.0,75.9,74.9
+STU3416,17,Female,2.5,9.4,3.2,73.0,Yes,Yes,No,Bachelors,Yes,6.0,69.6,90.4
+STU3165,18,Female,2.4,4.1,0.9,70.6,Yes,Yes,Yes,Bachelors,Yes,4.0,71.4,69.2
+STU3394,18,Female,5.0,5.8,4.0,90.4,Yes,Yes,No,High School,Yes,5.0,76.9,72.7
+STU3476,16,Male,0.0,6.5,2.0,89.7,No,Yes,No,High School,No,7.0,51.8,51.3
+STU3361,18,Female,2.6,5.7,1.7,78.8,No,No,No,Bachelors,Yes,5.0,65.7,73.7
+STU2489,17,Male,3.7,7.3,3.0,83.9,Yes,No,Yes,High School,Yes,4.0,73.7,83.0
+STU3427,17,Male,2.3,6.4,2.4,89.0,No,Yes,No,Masters,No,7.0,71.0,68.0
+STU2212,18,Female,7.0,6.6,3.8,95.1,No,Yes,No,High School,Yes,8.0,74.0,100.0
+STU2133,17,Male,3.9,7.5,1.8,75.2,No,No,No,High School,Yes,3.0,78.6,87.5
+STU2060,17,Male,3.7,6.2,2.6,85.2,Yes,No,No,Masters,Yes,5.0,54.4,87.4
+STU2690,16,Female,4.2,7.7,2.4,77.3,No,Yes,Yes,Masters,Yes,2.0,80.5,100.0
+STU2026,18,Male,4.5,5.6,0.1,69.3,No,Yes,No,High School,Yes,7.0,67.4,85.1
+STU2100,17,Male,4.2,7.0,3.7,80.8,No,No,No,High School,Yes,6.0,75.6,81.6
+STU2974,18,Female,5.0,5.6,4.6,76.2,No,No,No,Bachelors,Yes,3.0,58.1,80.0
+STU2776,17,Female,5.1,5.7,1.8,82.6,Yes,No,No,Bachelors,Yes,4.0,72.4,90.7
+STU2788,17,Male,5.1,6.2,3.4,79.2,Yes,Yes,No,High School,Yes,3.0,69.1,81.0
+STU2520,16,Male,2.2,5.7,2.7,84.5,No,No,No,High School,Yes,7.0,79.1,76.6
+STU2363,15,Male,5.7,6.3,0.0,90.7,No,Yes,No,Bachelors,Yes,7.0,67.0,98.3
+STU2309,16,Female,3.0,6.9,1.9,93.3,Yes,No,No,High School,No,6.0,60.4,85.4
+STU2795,15,Female,1.1,6.6,1.5,86.0,No,No,No,Masters,No,2.0,46.2,63.8
+STU2828,17,Female,6.7,4.9,3.9,84.6,No,No,No,High School,Yes,8.0,55.6,91.1
+STU3276,15,Male,4.5,6.8,2.5,75.8,No,Yes,No,High School,Yes,10.0,81.7,79.5
+STU2544,18,Male,4.9,7.8,4.0,86.7,No,Yes,No,High School,Yes,3.0,89.7,98.6
+STU2939,15,Male,3.9,7.5,0.9,90.7,No,No,No,Bachelors,Yes,5.0,69.2,93.1
+STU2441,15,Female,1.1,5.7,3.3,84.0,No,Yes,No,High School,Yes,3.0,48.9,58.2
+STU2647,17,Female,4.7,7.3,6.3,91.6,No,Yes,No,Masters,Yes,8.0,60.2,84.1
+STU3003,17,Male,3.6,8.3,1.4,86.2,Yes,Yes,Yes,High School,Yes,8.0,77.3,94.3
+STU2476,17,Female,4.6,6.9,2.3,82.0,No,Yes,No,High School,Yes,5.0,65.0,77.7
+STU3046,15,Male,2.7,6.0,3.0,100.0,Yes,Yes,Yes,Masters,Yes,5.0,58.3,78.1
+STU2062,16,Female,2.4,9.3,2.3,87.6,No,Yes,No,High School,Yes,5.0,72.8,84.2
+STU3172,18,Male,1.5,8.1,4.2,94.5,No,No,No,Masters,Yes,6.0,45.4,60.8
+STU2483,15,Male,4.3,7.0,3.4,100.0,No,Yes,No,Bachelors,Yes,6.0,63.7,86.0
+STU3026,16,Female,3.8,7.7,3.4,74.0,No,No,No,,Yes,7.0,78.8,97.6
+STU3281,18,Female,3.1,6.8,0.1,94.2,No,Yes,No,Bachelors,Yes,4.0,74.3,84.5
+STU2052,18,Male,1.8,6.4,3.0,73.6,No,Yes,Yes,Bachelors,No,4.0,63.1,69.6
+STU2242,18,Female,3.0,8.4,3.2,84.4,Yes,Yes,No,Masters,Yes,10.0,57.3,72.8
+STU3197,15,Male,5.0,5.3,2.1,78.0,Yes,No,No,Bachelors,Yes,9.0,60.9,77.4
+STU2035,15,Female,1.4,6.8,0.0,83.4,No,No,No,Masters,Yes,8.0,78.1,72.0
+STU3202,16,Female,4.4,8.7,1.9,87.4,No,No,No,Bachelors,Yes,4.0,70.0,94.9
+STU2738,15,Male,3.0,7.3,2.7,94.0,No,No,No,High School,Yes,4.0,77.1,85.4
+STU2120,15,Male,3.1,5.7,5.8,65.0,No,No,Yes,High School,Yes,4.0,75.9,77.2
+STU3458,17,Female,3.2,6.6,3.7,99.3,No,No,No,Masters,Yes,4.0,59.9,74.1
+STU3299,18,Female,2.0,7.8,1.6,95.8,Yes,Yes,No,Bachelors,No,9.0,54.9,59.4
+STU3019,17,Female,2.4,9.3,2.2,65.2,No,Yes,No,Bachelors,Yes,4.0,59.6,78.1
+STU2044,15,Female,3.6,6.6,3.1,96.3,Yes,Yes,No,High School,Yes,8.0,77.0,90.4
+STU3324,15,Male,4.2,7.3,3.3,83.5,No,No,Yes,PhD,Yes,2.0,60.7,86.2
+STU2836,18,Female,3.9,,1.7,80.7,No,No,No,Bachelors,Yes,9.0,63.1,83.9
+STU2076,18,Female,3.1,9.0,2.8,66.3,No,Yes,No,Bachelors,Yes,7.0,72.3,83.6
+STU2368,15,Female,4.7,6.5,3.7,79.7,No,No,No,Masters,Yes,2.0,60.8,94.2
+STU2906,15,Male,4.0,6.5,2.5,68.1,Yes,Yes,No,Masters,Yes,8.0,67.9,75.1
+STU3236,17,Female,2.2,8.5,0.8,100.0,No,Yes,No,High School,Yes,4.0,54.2,90.1
+STU2267,16,Male,3.9,6.3,4.1,82.4,No,No,No,Masters,Yes,2.0,82.0,81.7
+STU3335,18,Female,4.3,7.3,4.3,89.8,No,Yes,No,Bachelors,Yes,6.0,81.5,90.7
+STU2728,18,Female,3.2,6.9,2.8,75.6,No,No,No,Masters,Yes,6.0,94.6,88.2
+STU2444,17,Female,0.2,7.4,4.8,85.4,No,Yes,No,Bachelors,Yes,6.0,64.4,57.8
+STU2503,18,Female,1.1,6.3,0.0,72.6,No,Yes,No,High School,Yes,5.0,76.2,59.3
+STU3057,16,Female,3.7,8.0,2.2,77.5,No,No,No,High School,No,3.0,74.2,86.2
+STU3033,17,Male,4.2,7.2,4.5,96.3,No,No,Yes,Bachelors,Yes,8.0,85.1,94.7
+STU3184,15,Male,0.6,6.4,1.9,95.4,No,Yes,No,Bachelors,Yes,4.0,57.6,65.0
+STU2285,16,Male,4.2,7.5,2.5,85.4,No,No,No,High School,Yes,6.0,62.6,79.4
+STU2295,15,Male,2.9,7.1,3.6,86.7,No,No,No,High School,Yes,5.0,51.8,68.5
+STU2625,15,Female,4.5,7.3,1.3,88.9,No,Yes,No,Bachelors,Yes,5.0,70.3,99.9
+STU2277,15,Male,1.3,5.7,1.4,100.0,Yes,No,No,Bachelors,Yes,7.0,38.4,69.8
+STU2025,15,Male,1.2,6.5,3.8,71.9,No,Yes,No,Bachelors,Yes,5.0,77.6,64.9
+STU2484,15,Female,2.8,6.8,4.0,73.3,No,No,No,Bachelors,Yes,9.0,42.2,65.7
+STU2182,16,Male,2.2,5.1,3.3,89.0,No,No,No,Bachelors,Yes,5.0,77.9,75.0
+STU2970,17,Female,0.2,4.8,4.3,97.8,No,Yes,No,PhD,Yes,8.0,70.3,59.8
+STU3480,17,Male,5.0,8.0,1.4,100.0,Yes,Yes,No,Bachelors,No,4.0,79.6,98.7
+STU2684,18,Male,2.6,5.6,4.6,87.4,No,Yes,Yes,Masters,No,7.0,31.7,58.0
+STU3492,18,Female,2.6,5.3,5.0,76.1,Yes,No,No,Masters,Yes,8.0,68.2,70.0
+STU2036,15,Female,2.2,5.9,4.4,74.6,No,Yes,No,High School,Yes,6.0,71.3,65.7
+STU3180,18,Female,3.9,5.6,0.1,87.1,No,No,No,High School,Yes,8.0,74.8,82.4
+STU2002,16,Male,3.3,4.5,5.4,92.5,No,Yes,No,Bachelors,Yes,9.0,75.0,76.3
+STU2754,15,Male,4.4,6.6,5.7,78.9,No,No,Yes,Bachelors,Yes,4.0,66.1,88.8
+STU2508,18,Female,1.7,6.6,1.3,76.3,No,No,Yes,Bachelors,No,5.0,64.5,78.2
+STU2497,16,Male,2.5,5.1,2.6,89.2,No,No,No,High School,Yes,4.0,65.4,70.5
+STU2308,18,Male,3.1,6.6,0.3,88.5,No,Yes,No,Masters,No,4.0,73.7,84.4
+STU3313,18,Male,3.3,7.7,4.5,68.9,No,No,No,High School,Yes,6.0,82.0,84.6
+STU3438,17,Male,1.7,8.0,5.0,88.2,Yes,No,No,High School,Yes,5.0,66.6,67.4
+STU3445,18,Male,2.7,5.7,2.5,91.9,No,No,No,High School,Yes,5.0,94.3,91.2
+STU2141,16,Male,4.2,6.4,6.6,97.0,No,No,Yes,PhD,No,9.0,72.5,93.1
+STU3247,18,Female,4.6,6.0,5.2,73.6,No,No,No,Bachelors,Yes,6.0,74.6,81.3
+STU2864,18,Female,3.4,4.2,2.9,84.8,Yes,No,No,High School,Yes,7.0,68.4,66.7
+STU2183,16,Female,2.8,8.4,4.3,80.0,Yes,No,No,High School,Yes,5.0,67.6,77.6
+STU3471,17,Female,5.3,,2.3,84.8,No,Yes,No,Bachelors,Yes,1.0,77.1,100.0
+STU3010,17,Male,2.3,8.9,3.8,85.2,No,No,Yes,High School,Yes,6.0,56.6,67.4
+STU2912,16,Male,3.4,7.5,4.8,80.4,No,No,No,PhD,Yes,2.0,69.8,87.0
+STU2848,16,Female,4.2,8.8,3.3,72.4,No,No,No,Bachelors,Yes,6.0,47.3,83.7
+STU2511,17,Male,6.0,8.4,0.4,74.4,Yes,Yes,No,High School,Yes,4.0,81.2,99.1
+STU2731,16,Female,2.0,8.2,2.7,74.7,Yes,No,No,PhD,Yes,6.0,50.8,66.4
+STU2996,18,Female,5.5,5.5,5.7,88.5,Yes,Yes,No,PhD,Yes,3.0,45.4,81.2
+STU2887,16,Female,3.9,,2.3,76.5,Yes,Yes,No,Masters,Yes,8.0,78.3,86.0
+STU2117,18,Female,6.9,5.9,1.3,77.3,No,Yes,No,High School,Yes,8.0,61.2,94.7
+STU3025,15,Male,4.0,8.1,1.3,79.9,No,Yes,No,High School,Yes,4.0,73.2,95.9
+STU2113,18,Male,2.9,5.0,4.2,100.0,Yes,No,No,Masters,Yes,7.0,79.1,78.0
+STU2545,16,Female,3.7,8.0,4.4,84.9,No,Yes,No,High School,Yes,8.0,50.0,72.5
+STU2165,15,Male,2.6,5.7,2.7,75.3,Yes,No,Yes,Masters,Yes,2.0,87.7,80.8
+STU2184,18,Male,4.7,7.3,0.2,80.5,No,Yes,No,Bachelors,Yes,4.0,59.4,93.1
+STU3396,17,Female,2.6,6.3,3.8,74.4,No,No,No,PhD,Yes,7.0,66.8,81.5
+STU2274,17,Male,5.8,5.2,2.8,100.0,Yes,No,No,High School,Yes,7.0,62.4,92.7
+STU3001,16,Female,3.6,6.0,0.1,76.0,No,No,No,High School,No,4.0,69.1,89.7
+STU2704,15,Female,4.3,,2.8,88.7,No,No,No,Masters,Yes,4.0,77.2,96.9
+STU3024,15,Female,3.4,8.5,3.2,92.9,Yes,No,No,Bachelors,Yes,6.0,70.7,88.3
+STU2383,15,Male,4.4,6.7,1.5,80.9,No,No,No,High School,Yes,5.0,58.4,87.9
+STU3429,15,Female,0.9,6.2,2.9,89.6,Yes,Yes,No,High School,Yes,4.0,67.1,63.1
+STU2561,17,Female,2.3,5.8,1.6,92.8,No,No,No,Masters,Yes,6.0,65.5,79.2
+STU2862,17,Female,3.1,,4.5,90.3,Yes,No,No,Bachelors,Yes,2.0,78.7,80.7
+STU3044,15,Male,2.4,7.3,1.6,89.1,Yes,Yes,No,High School,Yes,7.0,85.5,91.2
+STU2176,17,Female,1.7,5.1,4.2,71.8,No,Yes,No,Bachelors,Yes,7.0,67.0,49.9
+STU3359,15,Male,1.0,6.2,5.7,82.2,No,Yes,No,Bachelors,Yes,5.0,59.5,58.6
+STU2379,16,Female,4.8,5.3,0.8,93.3,Yes,Yes,No,Masters,Yes,7.0,65.4,96.1
+STU3195,17,Male,2.9,3.7,2.4,92.5,No,No,No,High School,No,3.0,81.5,77.3
+STU3016,17,Female,4.1,5.3,5.4,72.0,No,Yes,No,Bachelors,Yes,5.0,64.6,79.4
+STU2519,17,Female,6.8,6.7,2.6,91.4,No,No,No,High School,Yes,5.0,72.6,99.9
+STU2830,17,Male,2.0,7.2,2.2,83.7,Yes,No,No,Masters,No,6.0,63.2,63.8
+STU2507,17,Male,3.6,9.3,3.1,78.8,Yes,No,No,High School,Yes,6.0,71.4,87.8
+STU3176,15,Male,4.6,4.7,6.2,87.1,No,No,No,Masters,Yes,7.0,54.2,83.0
+STU2413,17,Male,4.3,6.4,4.3,100.0,No,No,No,Bachelors,Yes,5.0,73.4,87.7
+STU2622,15,Female,4.9,7.6,6.0,100.0,No,No,Yes,Masters,Yes,6.0,74.2,98.5
+STU2872,18,Male,6.1,6.1,0.3,88.6,Yes,Yes,No,Bachelors,Yes,5.0,72.9,98.9
+STU2858,16,Male,2.7,8.6,3.3,81.4,No,No,Yes,High School,Yes,6.0,85.3,84.3
+STU2641,15,Male,5.1,8.7,4.4,79.6,No,No,No,Masters,Yes,7.0,67.0,86.5
+STU3340,16,Female,2.3,8.4,3.6,85.4,No,No,Yes,Bachelors,Yes,6.0,68.9,73.4
+STU2258,18,Female,1.1,5.6,2.8,87.2,No,Yes,No,Bachelors,Yes,4.0,51.6,72.3
+STU2834,18,Male,4.1,3.8,2.8,72.4,No,No,No,High School,Yes,6.0,77.8,81.8
+STU2662,15,Male,5.8,4.7,2.9,78.7,No,Yes,Yes,Bachelors,Yes,5.0,58.9,81.9
+STU2337,17,Male,3.8,8.0,3.4,88.4,No,No,No,Masters,Yes,2.0,81.0,89.6
+STU2398,16,Female,5.0,6.1,6.3,75.0,No,Yes,Yes,Bachelors,Yes,7.0,50.8,78.2
+STU3447,18,Female,2.2,6.3,2.7,87.2,No,Yes,No,High School,Yes,4.0,73.9,75.6
+STU2605,18,Female,5.6,6.4,1.8,87.9,No,Yes,No,Bachelors,No,5.0,42.5,89.2
+STU2480,16,Female,0.0,6.8,3.9,67.6,Yes,No,No,Masters,Yes,7.0,62.4,51.4
+STU3446,17,Female,3.5,6.5,1.3,100.0,No,Yes,No,Bachelors,No,7.0,71.7,80.2
+STU3143,15,Male,3.7,6.9,5.9,70.3,No,Yes,Yes,PhD,Yes,8.0,60.9,78.3
+STU2917,15,Male,3.2,4.5,1.9,96.2,No,Yes,Yes,Bachelors,Yes,7.0,59.0,74.2
+STU3017,18,Female,2.1,6.7,3.0,85.0,No,Yes,No,Bachelors,Yes,4.0,81.6,87.4
+STU2875,15,Female,5.4,5.0,3.2,95.6,No,Yes,Yes,High School,Yes,5.0,57.6,83.8
+STU2659,15,Female,5.0,6.4,0.7,75.8,No,No,No,Bachelors,Yes,6.0,51.1,79.4
+STU3021,15,Male,0.0,7.2,3.8,97.6,No,Yes,No,Bachelors,Yes,6.0,61.2,64.4
+STU2789,18,Male,5.2,7.4,1.4,64.3,No,No,No,Bachelors,Yes,7.0,65.5,88.9
+STU2256,16,Male,3.1,7.7,6.2,85.3,No,No,No,High School,Yes,4.0,73.1,84.5
+STU2968,18,Male,4.4,6.6,1.2,72.8,Yes,No,No,Masters,Yes,6.0,58.0,84.3
+STU2952,17,Male,4.5,6.6,5.0,100.0,Yes,No,No,Masters,Yes,4.0,83.2,93.9
+STU3273,17,Male,3.8,7.4,0.0,81.1,Yes,No,No,PhD,Yes,7.0,58.8,77.4
